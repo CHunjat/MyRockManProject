@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: e60f9b55e1ab1b446863495d31ced9a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3682698370324396255
+    second: TstRing_0
+  - first:
+      213: 5693079427017493919
+    second: TstRing_1
+  - first:
+      213: 6413450271565866973
+    second: TstRing_2
+  - first:
+      213: -4756573562639552040
+    second: TstRing_3
+  - first:
+      213: -8884929878153256044
+    second: TstRing_4
+  - first:
+      213: -4134208709793980816
+    second: TstRing_5
+  - first:
+      213: -6461534730840794310
+    second: TstRing_6
+  - first:
+      213: -4891298573083741086
+    second: TstRing_7
+  - first:
+      213: 1062109334385017946
+    second: TstRing_8
+  - first:
+      213: -7192952312984511734
+    second: TstRing_9
+  - first:
+      213: 7322372153433053088
+    second: TstRing_10
+  - first:
+      213: 7161678659573771255
+    second: TstRing_11
+  - first:
+      213: 1962916358925779622
+    second: TstRing_12
+  - first:
+      213: 3022723692407168518
+    second: TstRing_13
+  - first:
+      213: 2191110727352223755
+    second: TstRing_14
+  - first:
+      213: 4191306902585028484
+    second: TstRing_15
+  - first:
+      213: 3460613628837568768
+    second: TstRing_16
+  - first:
+      213: -7567268440648762199
+    second: TstRing_17
+  - first:
+      213: 3982286242475303267
+    second: TstRing_18
+  - first:
+      213: 4057822030103469067
+    second: TstRing_19
+  - first:
+      213: -7662498477583522264
+    second: TstRing_20
+  - first:
+      213: 5689290542065243584
+    second: TstRing_21
+  - first:
+      213: -7702706075860225741
+    second: TstRing_22
+  - first:
+      213: 4427502394851054340
+    second: TstRing_23
+  - first:
+      213: 4753749517540883457
+    second: TstRing_24
+  - first:
+      213: 649901879889863521
+    second: TstRing_25
+  - first:
+      213: 852963473934378616
+    second: TstRing_26
+  - first:
+      213: -6401088564732962898
+    second: TstRing_27
+  - first:
+      213: 253091337061621055
+    second: TstRing_28
+  - first:
+      213: 4116534613649495519
+    second: TstRing_29
+  - first:
+      213: 3898968959489974068
+    second: TstRing_30
+  - first:
+      213: -6597597063966675437
+    second: TstRing_31
+  - first:
+      213: -6188082794289148301
+    second: TstRing_32
+  - first:
+      213: 4944276659226124287
+    second: TstRing_33
+  - first:
+      213: -7577450693277333854
+    second: TstRing_34
+  - first:
+      213: -8553113548705568326
+    second: TstRing_35
+  - first:
+      213: 4185888580486757011
+    second: TstRing_36
+  - first:
+      213: -8869219591729882307
+    second: TstRing_37
+  - first:
+      213: 1375271906131262065
+    second: TstRing_38
+  - first:
+      213: 4598047935826737935
+    second: TstRing_39
+  - first:
+      213: 4958726671079413485
+    second: TstRing_40
+  - first:
+      213: -6053194097293326794
+    second: TstRing_41
+  - first:
+      213: -6031613307127410577
+    second: TstRing_42
+  - first:
+      213: 7274881805317710685
+    second: TstRing_43
+  - first:
+      213: -973693199628881534
+    second: TstRing_44
+  - first:
+      213: -8307611562044441244
+    second: TstRing_45
+  - first:
+      213: -4678678184093924261
+    second: TstRing_46
+  - first:
+      213: -7641098350881667903
+    second: TstRing_47
+  - first:
+      213: 2220151564138389543
+    second: TstRing_48
+  - first:
+      213: 2284521012586563511
+    second: TstRing_49
+  - first:
+      213: 4744561799145999312
+    second: TstRing_50
+  - first:
+      213: 8674531474226834580
+    second: TstRing_51
+  - first:
+      213: 3531443843554164738
+    second: TstRing_52
+  - first:
+      213: -6675655084419173718
+    second: TstRing_53
+  - first:
+      213: 8668432196967681032
+    second: TstRing_54
+  - first:
+      213: 4132195187328451368
+    second: TstRing_55
+  - first:
+      213: -4793714826944424374
+    second: TstRing_56
+  - first:
+      213: -838863605368327300
+    second: TstRing_57
+  - first:
+      213: -8946421740628554101
+    second: TstRing_58
+  - first:
+      213: -6852264111651622303
+    second: TstRing_59
+  - first:
+      213: -8292738717735299216
+    second: TstRing_60
+  - first:
+      213: -54510070377376935
+    second: TstRing_61
+  - first:
+      213: 1781134531590598587
+    second: TstRing_62
+  - first:
+      213: 3753175399291829313
+    second: TstRing_63
+  - first:
+      213: -4273472001905534586
+    second: TstRing_64
+  - first:
+      213: -3314911312771485232
+    second: TstRing_65
+  - first:
+      213: -336377279370554190
+    second: TstRing_66
+  - first:
+      213: 2610128761524277128
+    second: TstRing_67
+  - first:
+      213: 7413654223516357635
+    second: TstRing_68
+  - first:
+      213: 7950403572720966204
+    second: TstRing_69
+  - first:
+      213: -3931684575274388757
+    second: TstRing_70
+  - first:
+      213: -3726075188871394436
+    second: TstRing_71
+  - first:
+      213: -5863526663587074039
+    second: TstRing_72
+  - first:
+      213: -7205984481788304922
+    second: TstRing_73
+  - first:
+      213: 3135821838930577121
+    second: TstRing_74
+  - first:
+      213: -5777160453393692665
+    second: TstRing_75
+  - first:
+      213: 7468529388252130823
+    second: TstRing_76
+  - first:
+      213: -4587504797369467585
+    second: TstRing_77
+  - first:
+      213: -1293599149092895750
+    second: TstRing_78
+  - first:
+      213: 5262769291983299532
+    second: TstRing_79
+  - first:
+      213: -3280670757742140342
+    second: TstRing_80
+  - first:
+      213: -4457441400489792255
+    second: TstRing_81
+  - first:
+      213: -3134823574086770260
+    second: TstRing_82
+  - first:
+      213: -2788635834273684425
+    second: TstRing_83
+  - first:
+      213: 2408716263215679849
+    second: TstRing_84
+  - first:
+      213: -1903033359697921837
+    second: TstRing_85
+  - first:
+      213: 2551020280319472721
+    second: TstRing_86
+  - first:
+      213: -3760440030408605553
+    second: TstRing_87
+  - first:
+      213: 8608805471562141299
+    second: TstRing_88
+  - first:
+      213: -5847567225269006287
+    second: TstRing_89
+  - first:
+      213: 1163609779987051948
+    second: TstRing_90
+  - first:
+      213: 4553298483911821104
+    second: TstRing_91
+  - first:
+      213: -6110280583248088684
+    second: TstRing_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TstRing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87812f7a29b1330800000000000000
+      internalID: 3682698370324396255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d467d5391e10f40800000000000000
+      internalID: 5693079427017493919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7e055ca07210950800000000000000
+      internalID: 6413450271565866973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 156
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1fad2db814dfdb0800000000000000
+      internalID: -4756573562639552040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493ab66a95362b480800000000000000
+      internalID: -8884929878153256044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e5769151750a6c0800000000000000
+      internalID: -4134208709793980816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 167
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9260a5640456a0800000000000000
+      internalID: -6461534730840794310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 156
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f7fcecdd9e1cb0800000000000000
+      internalID: -4891298573083741086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 167
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5445a4ffce5dbe00800000000000000
+      internalID: 1062109334385017946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bdb323bff7d2c90800000000000000
+      internalID: -7192952312984511734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7d69e8daa4e9560800000000000000
+      internalID: 7322372153433053088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe363fbc4636360800000000000000
+      internalID: 7161678659573771255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a20399470ead3b10800000000000000
+      internalID: 1962916358925779622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1614ee2fd2f920800000000000000
+      internalID: 3022723692407168518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 139
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b088067f893686e10800000000000000
+      internalID: 2191110727352223755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2931eb638a2a30800000000000000
+      internalID: 4191306902585028484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 150
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012db3a2c1960030800000000000000
+      internalID: 3460613628837568768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac3b134279abf690800000000000000
+      internalID: -7567268440648762199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 156
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3616aac0d3ce34730800000000000000
+      internalID: 3982286242475303267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 150
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c521a13a7405830800000000000000
+      internalID: 4057822030103469067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 139
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a9a77b3659a590800000000000000
+      internalID: -7662498477583522264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5d9c7da9b64fe40800000000000000
+      internalID: 5689290542065243584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 121
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331bb1b72ad7a1590800000000000000
+      internalID: -7702706075860225741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 139
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403d94f58f5a17d30800000000000000
+      internalID: 4427502394851054340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7530fff5b8f140800000000000000
+      internalID: 4753749517540883457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 124
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163a1b1015ae40900800000000000000
+      internalID: 649901879889863521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 121
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ed36a2c556db00800000000000000
+      internalID: 852963473934378616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 121
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d6436dd3ca27a0800000000000000
+      internalID: -6401088564732962898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 139
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d5949ea39238300800000000000000
+      internalID: 253091337061621055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 121
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd59d28bb6ed02930800000000000000
+      internalID: 4116534613649495519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 124
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f9cac6c9beb1630800000000000000
+      internalID: 3898968959489974068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e2b170d60a074a0800000000000000
+      internalID: -6597597063966675437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 121
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e40b50c738f1aa0800000000000000
+      internalID: -6188082794289148301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 124
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff9d68fc699d9440800000000000000
+      internalID: 4944276659226124287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6ca24ddbc77d690800000000000000
+      internalID: -7577450693277333854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e2d53b8c3d4980800000000000000
+      internalID: -8553113548705568326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 121
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af6457c73471a30800000000000000
+      internalID: 4185888580486757011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 115
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b5100c5c33ae480800000000000000
+      internalID: -8869219591729882307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 107
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a378a1382f51310800000000000000
+      internalID: 1375271906131262065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 104
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bbb237c3c8fcf30800000000000000
+      internalID: 4598047935826737935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 104
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de691f782afe0d440800000000000000
+      internalID: 4958726671079413485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636075a2a0cbefba0800000000000000
+      internalID: -6053194097293326794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 107
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60d62e67a76b4ca0800000000000000
+      internalID: -6031613307127410577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d532aec357295f460800000000000000
+      internalID: 7274881805317710685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 107
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28138eb913fbc72f0800000000000000
+      internalID: -973693199628881534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46db968cc4f65bc80800000000000000
+      internalID: -8307611562044441244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5446b2fafef11fb0800000000000000
+      internalID: -4678678184093924261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c400edb88d55f590800000000000000
+      internalID: -7641098350881667903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7202fffa5109fce10800000000000000
+      internalID: 2220151564138389543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 88
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7432dc1cf34bf10800000000000000
+      internalID: 2284521012586563511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 86
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db4cfc81d118d140800000000000000
+      internalID: 4744561799145999312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c6c3a8a60226870800000000000000
+      internalID: 8674531474226834580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200494f1775320130800000000000000
+      internalID: 3531443843554164738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23a22e11f4b53a0800000000000000
+      internalID: -6675655084419173718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_54
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c41d3e7257c4870800000000000000
+      internalID: 8668432196967681032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8238a4b21a1885930800000000000000
+      internalID: 4132195187328451368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46547953cd497db0800000000000000
+      internalID: -4793714826944424374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c737403def1cb54f0800000000000000
+      internalID: -838863605368327300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec00bb3dce7d380800000000000000
+      internalID: -8946421740628554101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162f8d5681ed7e0a0800000000000000
+      internalID: -6852264111651622303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775242b2164aec80800000000000000
+      internalID: -8292738717735299216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953997a31675e3ff0800000000000000
+      internalID: -54510070377376935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfa3ac6b6cd7b810800000000000000
+      internalID: 1781134531590598587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_63
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c3686f325f51430800000000000000
+      internalID: 3753175399291829313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689d7d82bd391b4c0800000000000000
+      internalID: -4273472001905534586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f45469b11ff1d0800000000000000
+      internalID: -3314911312771485232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b41b9885a2f45bf0800000000000000
+      internalID: -336377279370554190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 61
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f4fa0974a093420800000000000000
+      internalID: 2610128761524277128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3045440bc3792e660800000000000000
+      internalID: 7413654223516357635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a97052de1855e60800000000000000
+      internalID: 7950403572720966204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be233e1b5b9df69c0800000000000000
+      internalID: -3931684575274388757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 51
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b8ce87b525a4cc0800000000000000
+      internalID: -3726075188871394436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 51
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9007cd5d09190aea0800000000000000
+      internalID: -5863526663587074039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_73
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 51
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e702fa433ffb90800000000000000
+      internalID: -7205984481788304922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 51
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68e54295da48b20800000000000000
+      internalID: 3135821838930577121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708c8052d2763dfa0800000000000000
+      internalID: -5777160453393692665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e655d98eb85a760800000000000000
+      internalID: 7468529388252130823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d746341b8e550c0800000000000000
+      internalID: -4587504797369467585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3029c7d663c0ee0800000000000000
+      internalID: -1293599149092895750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3af77a9cc190940800000000000000
+      internalID: 5262769291983299532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 44
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44a4cbd357b872d0800000000000000
+      internalID: -3280670757742140342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dafaca9acf322c0800000000000000
+      internalID: -4457441400489792255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a901819ede74d0800000000000000
+      internalID: -3134823574086770260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734213acb76cc49d0800000000000000
+      internalID: -2788635834273684425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 34
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9694da1fdaa7d6120800000000000000
+      internalID: 2408716263215679849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_85
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 34
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8bc77fd311795e0800000000000000
+      internalID: -1903033359697921837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1547247dd6b076320800000000000000
+      internalID: 2551020280319472721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_87
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80065c47bb30dbc0800000000000000
+      internalID: -3760440030408605553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_88
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e86e807fe987770800000000000000
+      internalID: 8608805471562141299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_89
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130df91279449dea0800000000000000
+      internalID: -5847567225269006287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_90
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca57c490ee8f52010800000000000000
+      internalID: 1163609779987051948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03783e1c8d0903f30800000000000000
+      internalID: 4553298483911821104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstRing_92
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491f785ee2ce33ba0800000000000000
+      internalID: -6110280583248088684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TstRing_0: 3682698370324396255
+      TstRing_1: 5693079427017493919
+      TstRing_10: 7322372153433053088
+      TstRing_11: 7161678659573771255
+      TstRing_12: 1962916358925779622
+      TstRing_13: 3022723692407168518
+      TstRing_14: 2191110727352223755
+      TstRing_15: 4191306902585028484
+      TstRing_16: 3460613628837568768
+      TstRing_17: -7567268440648762199
+      TstRing_18: 3982286242475303267
+      TstRing_19: 4057822030103469067
+      TstRing_2: 6413450271565866973
+      TstRing_20: -7662498477583522264
+      TstRing_21: 5689290542065243584
+      TstRing_22: -7702706075860225741
+      TstRing_23: 4427502394851054340
+      TstRing_24: 4753749517540883457
+      TstRing_25: 649901879889863521
+      TstRing_26: 852963473934378616
+      TstRing_27: -6401088564732962898
+      TstRing_28: 253091337061621055
+      TstRing_29: 4116534613649495519
+      TstRing_3: -4756573562639552040
+      TstRing_30: 3898968959489974068
+      TstRing_31: -6597597063966675437
+      TstRing_32: -6188082794289148301
+      TstRing_33: 4944276659226124287
+      TstRing_34: -7577450693277333854
+      TstRing_35: -8553113548705568326
+      TstRing_36: 4185888580486757011
+      TstRing_37: -8869219591729882307
+      TstRing_38: 1375271906131262065
+      TstRing_39: 4598047935826737935
+      TstRing_4: -8884929878153256044
+      TstRing_40: 4958726671079413485
+      TstRing_41: -6053194097293326794
+      TstRing_42: -6031613307127410577
+      TstRing_43: 7274881805317710685
+      TstRing_44: -973693199628881534
+      TstRing_45: -8307611562044441244
+      TstRing_46: -4678678184093924261
+      TstRing_47: -7641098350881667903
+      TstRing_48: 2220151564138389543
+      TstRing_49: 2284521012586563511
+      TstRing_5: -4134208709793980816
+      TstRing_50: 4744561799145999312
+      TstRing_51: 8674531474226834580
+      TstRing_52: 3531443843554164738
+      TstRing_53: -6675655084419173718
+      TstRing_54: 8668432196967681032
+      TstRing_55: 4132195187328451368
+      TstRing_56: -4793714826944424374
+      TstRing_57: -838863605368327300
+      TstRing_58: -8946421740628554101
+      TstRing_59: -6852264111651622303
+      TstRing_6: -6461534730840794310
+      TstRing_60: -8292738717735299216
+      TstRing_61: -54510070377376935
+      TstRing_62: 1781134531590598587
+      TstRing_63: 3753175399291829313
+      TstRing_64: -4273472001905534586
+      TstRing_65: -3314911312771485232
+      TstRing_66: -336377279370554190
+      TstRing_67: 2610128761524277128
+      TstRing_68: 7413654223516357635
+      TstRing_69: 7950403572720966204
+      TstRing_7: -4891298573083741086
+      TstRing_70: -3931684575274388757
+      TstRing_71: -3726075188871394436
+      TstRing_72: -5863526663587074039
+      TstRing_73: -7205984481788304922
+      TstRing_74: 3135821838930577121
+      TstRing_75: -5777160453393692665
+      TstRing_76: 7468529388252130823
+      TstRing_77: -4587504797369467585
+      TstRing_78: -1293599149092895750
+      TstRing_79: 5262769291983299532
+      TstRing_8: 1062109334385017946
+      TstRing_80: -3280670757742140342
+      TstRing_81: -4457441400489792255
+      TstRing_82: -3134823574086770260
+      TstRing_83: -2788635834273684425
+      TstRing_84: 2408716263215679849
+      TstRing_85: -1903033359697921837
+      TstRing_86: 2551020280319472721
+      TstRing_87: -3760440030408605553
+      TstRing_88: 8608805471562141299
+      TstRing_89: -5847567225269006287
+      TstRing_9: -7192952312984511734
+      TstRing_90: 1163609779987051948
+      TstRing_91: 4553298483911821104
+      TstRing_92: -6110280583248088684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

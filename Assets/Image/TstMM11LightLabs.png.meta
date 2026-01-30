@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 2122dd71f8db4604eb39338d8dc5b0df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1766710525781886911
+    second: TstMM11LightLabs_0
+  - first:
+      213: -8372796634430216518
+    second: TstMM11LightLabs_1
+  - first:
+      213: 2105301506644069445
+    second: TstMM11LightLabs_2
+  - first:
+      213: 9053500324424383065
+    second: TstMM11LightLabs_3
+  - first:
+      213: -651136279784483547
+    second: TstMM11LightLabs_4
+  - first:
+      213: -4222986969069118597
+    second: TstMM11LightLabs_5
+  - first:
+      213: -1844780673970166800
+    second: TstMM11LightLabs_6
+  - first:
+      213: -7720030705232273241
+    second: TstMM11LightLabs_7
+  - first:
+      213: 1492344465730595787
+    second: TstMM11LightLabs_8
+  - first:
+      213: -6525789345999697153
+    second: TstMM11LightLabs_9
+  - first:
+      213: -2107761823455698636
+    second: TstMM11LightLabs_10
+  - first:
+      213: 4817475113481864732
+    second: TstMM11LightLabs_11
+  - first:
+      213: -8693417199257135816
+    second: TstMM11LightLabs_12
+  - first:
+      213: -4350740685741261212
+    second: TstMM11LightLabs_13
+  - first:
+      213: -7973947266384132412
+    second: TstMM11LightLabs_14
+  - first:
+      213: -2989146298717694075
+    second: TstMM11LightLabs_15
+  - first:
+      213: 4588328595862061052
+    second: TstMM11LightLabs_16
+  - first:
+      213: -5751363688505304274
+    second: TstMM11LightLabs_17
+  - first:
+      213: 4495753365720226331
+    second: TstMM11LightLabs_18
+  - first:
+      213: 2457998264501207103
+    second: TstMM11LightLabs_19
+  - first:
+      213: 2693305434649594460
+    second: TstMM11LightLabs_20
+  - first:
+      213: -3659051028379715706
+    second: TstMM11LightLabs_21
+  - first:
+      213: -4168834610473632587
+    second: TstMM11LightLabs_22
+  - first:
+      213: -3943331439075014946
+    second: TstMM11LightLabs_23
+  - first:
+      213: 8291280278916331254
+    second: TstMM11LightLabs_24
+  - first:
+      213: 8731740465186546176
+    second: TstMM11LightLabs_25
+  - first:
+      213: 8562737013730635755
+    second: TstMM11LightLabs_26
+  - first:
+      213: 4609556764286824773
+    second: TstMM11LightLabs_27
+  - first:
+      213: 5213783828444791423
+    second: TstMM11LightLabs_28
+  - first:
+      213: 2614107840487123086
+    second: TstMM11LightLabs_29
+  - first:
+      213: 2977120765045459520
+    second: TstMM11LightLabs_30
+  - first:
+      213: -5004540528499290350
+    second: TstMM11LightLabs_31
+  - first:
+      213: 5432242606955798389
+    second: TstMM11LightLabs_32
+  - first:
+      213: -8230252057011175519
+    second: TstMM11LightLabs_33
+  - first:
+      213: 3710440146484632807
+    second: TstMM11LightLabs_34
+  - first:
+      213: 3926394246781713056
+    second: TstMM11LightLabs_35
+  - first:
+      213: -4779650719379129994
+    second: TstMM11LightLabs_36
+  - first:
+      213: -7337749188669124122
+    second: TstMM11LightLabs_37
+  - first:
+      213: 3513225995876765555
+    second: TstMM11LightLabs_38
+  - first:
+      213: 3789358676759987974
+    second: TstMM11LightLabs_39
+  - first:
+      213: 8640098888300286808
+    second: TstMM11LightLabs_40
+  - first:
+      213: -4704593381015354502
+    second: TstMM11LightLabs_41
+  - first:
+      213: -7337740402981950867
+    second: TstMM11LightLabs_42
+  - first:
+      213: 1236041179388723169
+    second: TstMM11LightLabs_43
+  - first:
+      213: -1314201616357919960
+    second: TstMM11LightLabs_44
+  - first:
+      213: 2375322453154964078
+    second: TstMM11LightLabs_45
+  - first:
+      213: 3391499800036248270
+    second: TstMM11LightLabs_46
+  - first:
+      213: -718152109050596804
+    second: TstMM11LightLabs_47
+  - first:
+      213: -6436254293866569459
+    second: TstMM11LightLabs_48
+  - first:
+      213: 8501821072154729356
+    second: TstMM11LightLabs_49
+  - first:
+      213: 5350475048983493329
+    second: TstMM11LightLabs_50
+  - first:
+      213: 6267885221228861400
+    second: TstMM11LightLabs_51
+  - first:
+      213: -444247356815924960
+    second: TstMM11LightLabs_52
+  - first:
+      213: 2251310039914708352
+    second: TstMM11LightLabs_53
+  - first:
+      213: -5581667680588166686
+    second: TstMM11LightLabs_54
+  - first:
+      213: -3512782224882507126
+    second: TstMM11LightLabs_55
+  - first:
+      213: -5147474499856848338
+    second: TstMM11LightLabs_56
+  - first:
+      213: -2391305706295303713
+    second: TstMM11LightLabs_57
+  - first:
+      213: 8816752204496337124
+    second: TstMM11LightLabs_58
+  - first:
+      213: 8070886474528291997
+    second: TstMM11LightLabs_59
+  - first:
+      213: -6285563746603670087
+    second: TstMM11LightLabs_60
+  - first:
+      213: -35742623216888430
+    second: TstMM11LightLabs_61
+  - first:
+      213: -5015277012891973660
+    second: TstMM11LightLabs_62
+  - first:
+      213: -7286224398945746532
+    second: TstMM11LightLabs_63
+  - first:
+      213: -6317249079645614477
+    second: TstMM11LightLabs_64
+  - first:
+      213: -1583198360665630
+    second: TstMM11LightLabs_65
+  - first:
+      213: 1872956369312896534
+    second: TstMM11LightLabs_66
+  - first:
+      213: 1505376106094582471
+    second: TstMM11LightLabs_67
+  - first:
+      213: -7500692978318210577
+    second: TstMM11LightLabs_68
+  - first:
+      213: -33893283025432285
+    second: TstMM11LightLabs_69
+  - first:
+      213: 43024873801957747
+    second: TstMM11LightLabs_70
+  - first:
+      213: -6007565366780757638
+    second: TstMM11LightLabs_71
+  - first:
+      213: 4218099892642559580
+    second: TstMM11LightLabs_72
+  - first:
+      213: 5973666466800085544
+    second: TstMM11LightLabs_73
+  - first:
+      213: -676782249638639202
+    second: TstMM11LightLabs_74
+  - first:
+      213: -436557971929278012
+    second: TstMM11LightLabs_75
+  - first:
+      213: 8544064183823228902
+    second: TstMM11LightLabs_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TstMM11LightLabs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148b3d123226b77e0800000000000000
+      internalID: -1766710525781886911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6633c62d9ddcb80800000000000000
+      internalID: -8372796634430216518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4d90e098873d10800000000000000
+      internalID: 2105301506644069445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95af23bd39e74ad70800000000000000
+      internalID: 9053500324424383065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525931fd003b6f6f0800000000000000
+      internalID: -651136279784483547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b1889d9bfe465c0800000000000000
+      internalID: -4222986969069118597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3a08740c50666e0800000000000000
+      internalID: -1844780673970166800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a58fd9f0fcd490800000000000000
+      internalID: -7720030705232273241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6462826fd5b410800000000000000
+      internalID: 1492344465730595787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac8a83a2dbf65a0800000000000000
+      internalID: -6525789345999697153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4312bc9f9c9bfb2e0800000000000000
+      internalID: -2107761823455698636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160f55771c1bd240800000000000000
+      internalID: 4817475113481864732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d102fd17ca5780800000000000000
+      internalID: -8693417199257135816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e7d84c5601f93c0800000000000000
+      internalID: -4350740685741261212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c60a718539d65190800000000000000
+      internalID: -7973947266384132412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587124b474b6486d0800000000000000
+      internalID: -2989146298717694075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffff154c840daf30800000000000000
+      internalID: 4588328595862061052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b9f84823d0f20b0800000000000000
+      internalID: -5751363688505304274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a5589dddf146e30800000000000000
+      internalID: 4495753365720226331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f300f1606609c1220800000000000000
+      internalID: 2457998264501207103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0be7e50b806520800000000000000
+      internalID: 2693305434649594460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873666e970783dc0800000000000000
+      internalID: -3659051028379715706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc7d5b52035526c0800000000000000
+      internalID: -4168834610473632587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6cd46e2f87649c0800000000000000
+      internalID: -3943331439075014946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6720e0c7b801370800000000000000
+      internalID: 8291280278916331254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002295ab0bf5d2970800000000000000
+      internalID: 8731740465186546176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe08852f3f4d670800000000000000
+      internalID: 8562737013730635755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541b053647f68ff30800000000000000
+      internalID: 4609556764286824773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72c026a4c41b5840800000000000000
+      internalID: 5213783828444791423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886cc41b3d274420800000000000000
+      internalID: 2614107840487123086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a49f5ff8bd05920800000000000000
+      internalID: 2977120765045459520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f01ce87ec4c8ab0800000000000000
+      internalID: -5004540528499290350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9759aed3336b40800000000000000
+      internalID: 5432242606955798389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afbbe12c5548cd80800000000000000
+      internalID: -8230252057011175519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec909b87a12e7330800000000000000
+      internalID: 3710440146484632807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aabf87b3ca5d7630800000000000000
+      internalID: 3926394246781713056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67977f09ef44badb0800000000000000
+      internalID: -4779650719379129994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1577e6df31b2a90800000000000000
+      internalID: -7337749188669124122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f07ebed6c71c030800000000000000
+      internalID: 3513225995876765555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c2deb3a1869430800000000000000
+      internalID: 3789358676759987974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d265692cc7e770800000000000000
+      internalID: 8640098888300286808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a730de7fe3de5beb0800000000000000
+      internalID: -4704593381015354502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aaa320bfb1b2a90800000000000000
+      internalID: -7337740402981950867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef383167ec472110800000000000000
+      internalID: 1236041179388723169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823fdb5c79403cde0800000000000000
+      internalID: -1314201616357919960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62af47af27d6f020800000000000000
+      internalID: 2375322453154964078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca08f46917011f20800000000000000
+      internalID: 3391499800036248270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c327755367c9806f0800000000000000
+      internalID: -718152109050596804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01200a02d4dda6a0800000000000000
+      internalID: -6436254293866569459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b96b578398cf570800000000000000
+      internalID: 8501821072154729356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_50
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da704285b4b04a40800000000000000
+      internalID: 5350475048983493329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7544866600cf650800000000000000
+      internalID: 6267885221228861400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_52
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021a498f167b5d9f0800000000000000
+      internalID: -444247356815924960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df268ad824e3f10800000000000000
+      internalID: 2251310039914708352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9834441dee982b0800000000000000
+      internalID: -5581667680588166686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8262909d27104fc0800000000000000
+      internalID: -3512782224882507126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa6a1073f7098b0800000000000000
+      internalID: -5147474499856848338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd167ea312060ded0800000000000000
+      internalID: -2391305706295303713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e875a5ba656b5a70800000000000000
+      internalID: 8816752204496337124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c73c8bc7c810070800000000000000
+      internalID: 8070886474528291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b56d96231135c8a0800000000000000
+      internalID: -6285563746603670087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29511d70644018ff0800000000000000
+      internalID: -35742623216888430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7446cf028266ab0800000000000000
+      internalID: -5015277012891973660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c910e03638122ea90800000000000000
+      internalID: -7286224398945746532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_64
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e4f0aae6f9458a0800000000000000
+      internalID: -6317249079645614477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18a18e6106afff0800000000000000
+      internalID: -1583198360665630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61653b005e31ef910800000000000000
+      internalID: 1872956369312896534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad029b79b24e410800000000000000
+      internalID: 1505376106094582471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe983120a7f28e790800000000000000
+      internalID: -7500692978318210577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3215ff81d36978ff0800000000000000
+      internalID: -33893283025432285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c87f05ead89000800000000000000
+      internalID: 43024873801957747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f71cd027d0aca0800000000000000
+      internalID: -6007565366780757638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b2100183b98a30800000000000000
+      internalID: 4218099892642559580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a2840700ab6e250800000000000000
+      internalID: 5973666466800085544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99cff331269b96f0800000000000000
+      internalID: -676782249638639202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_75
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95a4766d801f9f0800000000000000
+      internalID: -436557971929278012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM11LightLabs_76
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efdbe65b1d929670800000000000000
+      internalID: 8544064183823228902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TstMM11LightLabs_0: -1766710525781886911
+      TstMM11LightLabs_1: -8372796634430216518
+      TstMM11LightLabs_10: -2107761823455698636
+      TstMM11LightLabs_11: 4817475113481864732
+      TstMM11LightLabs_12: -8693417199257135816
+      TstMM11LightLabs_13: -4350740685741261212
+      TstMM11LightLabs_14: -7973947266384132412
+      TstMM11LightLabs_15: -2989146298717694075
+      TstMM11LightLabs_16: 4588328595862061052
+      TstMM11LightLabs_17: -5751363688505304274
+      TstMM11LightLabs_18: 4495753365720226331
+      TstMM11LightLabs_19: 2457998264501207103
+      TstMM11LightLabs_2: 2105301506644069445
+      TstMM11LightLabs_20: 2693305434649594460
+      TstMM11LightLabs_21: -3659051028379715706
+      TstMM11LightLabs_22: -4168834610473632587
+      TstMM11LightLabs_23: -3943331439075014946
+      TstMM11LightLabs_24: 8291280278916331254
+      TstMM11LightLabs_25: 8731740465186546176
+      TstMM11LightLabs_26: 8562737013730635755
+      TstMM11LightLabs_27: 4609556764286824773
+      TstMM11LightLabs_28: 5213783828444791423
+      TstMM11LightLabs_29: 2614107840487123086
+      TstMM11LightLabs_3: 9053500324424383065
+      TstMM11LightLabs_30: 2977120765045459520
+      TstMM11LightLabs_31: -5004540528499290350
+      TstMM11LightLabs_32: 5432242606955798389
+      TstMM11LightLabs_33: -8230252057011175519
+      TstMM11LightLabs_34: 3710440146484632807
+      TstMM11LightLabs_35: 3926394246781713056
+      TstMM11LightLabs_36: -4779650719379129994
+      TstMM11LightLabs_37: -7337749188669124122
+      TstMM11LightLabs_38: 3513225995876765555
+      TstMM11LightLabs_39: 3789358676759987974
+      TstMM11LightLabs_4: -651136279784483547
+      TstMM11LightLabs_40: 8640098888300286808
+      TstMM11LightLabs_41: -4704593381015354502
+      TstMM11LightLabs_42: -7337740402981950867
+      TstMM11LightLabs_43: 1236041179388723169
+      TstMM11LightLabs_44: -1314201616357919960
+      TstMM11LightLabs_45: 2375322453154964078
+      TstMM11LightLabs_46: 3391499800036248270
+      TstMM11LightLabs_47: -718152109050596804
+      TstMM11LightLabs_48: -6436254293866569459
+      TstMM11LightLabs_49: 8501821072154729356
+      TstMM11LightLabs_5: -4222986969069118597
+      TstMM11LightLabs_50: 5350475048983493329
+      TstMM11LightLabs_51: 6267885221228861400
+      TstMM11LightLabs_52: -444247356815924960
+      TstMM11LightLabs_53: 2251310039914708352
+      TstMM11LightLabs_54: -5581667680588166686
+      TstMM11LightLabs_55: -3512782224882507126
+      TstMM11LightLabs_56: -5147474499856848338
+      TstMM11LightLabs_57: -2391305706295303713
+      TstMM11LightLabs_58: 8816752204496337124
+      TstMM11LightLabs_59: 8070886474528291997
+      TstMM11LightLabs_6: -1844780673970166800
+      TstMM11LightLabs_60: -6285563746603670087
+      TstMM11LightLabs_61: -35742623216888430
+      TstMM11LightLabs_62: -5015277012891973660
+      TstMM11LightLabs_63: -7286224398945746532
+      TstMM11LightLabs_64: -6317249079645614477
+      TstMM11LightLabs_65: -1583198360665630
+      TstMM11LightLabs_66: 1872956369312896534
+      TstMM11LightLabs_67: 1505376106094582471
+      TstMM11LightLabs_68: -7500692978318210577
+      TstMM11LightLabs_69: -33893283025432285
+      TstMM11LightLabs_7: -7720030705232273241
+      TstMM11LightLabs_70: 43024873801957747
+      TstMM11LightLabs_71: -6007565366780757638
+      TstMM11LightLabs_72: 4218099892642559580
+      TstMM11LightLabs_73: 5973666466800085544
+      TstMM11LightLabs_74: -676782249638639202
+      TstMM11LightLabs_75: -436557971929278012
+      TstMM11LightLabs_76: 8544064183823228902
+      TstMM11LightLabs_8: 1492344465730595787
+      TstMM11LightLabs_9: -6525789345999697153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

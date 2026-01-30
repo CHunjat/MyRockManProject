@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: c72e2a8f22e41d34daa7545a24ca5550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6867883779798035878
+    second: TstAcid_0
+  - first:
+      213: 6689808017632450283
+    second: TstAcid_1
+  - first:
+      213: -5550842363527833143
+    second: TstAcid_2
+  - first:
+      213: 268143181571492582
+    second: TstAcid_3
+  - first:
+      213: 3721917351327337280
+    second: TstAcid_4
+  - first:
+      213: -3298112093968544995
+    second: TstAcid_5
+  - first:
+      213: 5732280128119187782
+    second: TstAcid_6
+  - first:
+      213: 2366618785340123764
+    second: TstAcid_7
+  - first:
+      213: -5930211562797623824
+    second: TstAcid_8
+  - first:
+      213: -6825674475115920378
+    second: TstAcid_9
+  - first:
+      213: 5511018898059645967
+    second: TstAcid_10
+  - first:
+      213: 5026211653650546898
+    second: TstAcid_11
+  - first:
+      213: 8102187461541059712
+    second: TstAcid_12
+  - first:
+      213: 2560458183619916547
+    second: TstAcid_13
+  - first:
+      213: -1965605294715256478
+    second: TstAcid_14
+  - first:
+      213: 6738063684515933017
+    second: TstAcid_15
+  - first:
+      213: -1462704400348410915
+    second: TstAcid_16
+  - first:
+      213: 3930860093242148771
+    second: TstAcid_17
+  - first:
+      213: -5827672864763471808
+    second: TstAcid_18
+  - first:
+      213: 261944514315334905
+    second: TstAcid_19
+  - first:
+      213: 6208143123156925612
+    second: TstAcid_20
+  - first:
+      213: -8519100835203271597
+    second: TstAcid_21
+  - first:
+      213: 6021373479969560592
+    second: TstAcid_22
+  - first:
+      213: -5867435640330137180
+    second: TstAcid_23
+  - first:
+      213: -931360918063091984
+    second: TstAcid_24
+  - first:
+      213: 8092765997658871916
+    second: TstAcid_25
+  - first:
+      213: -8610918164707031423
+    second: TstAcid_26
+  - first:
+      213: 5711230586184510514
+    second: TstAcid_27
+  - first:
+      213: -9139071963444623810
+    second: TstAcid_28
+  - first:
+      213: 4552525828035565145
+    second: TstAcid_29
+  - first:
+      213: 2008592852156287583
+    second: TstAcid_30
+  - first:
+      213: 4542137577560573414
+    second: TstAcid_31
+  - first:
+      213: -1392071889240737449
+    second: TstAcid_32
+  - first:
+      213: -2084458241016340528
+    second: TstAcid_33
+  - first:
+      213: 8976769604953044821
+    second: TstAcid_34
+  - first:
+      213: -8681525150719501831
+    second: TstAcid_35
+  - first:
+      213: -1274063127874863698
+    second: TstAcid_36
+  - first:
+      213: 209835616485223594
+    second: TstAcid_37
+  - first:
+      213: 7163200749990371196
+    second: TstAcid_38
+  - first:
+      213: 7448062219665392823
+    second: TstAcid_39
+  - first:
+      213: 7403418319070327131
+    second: TstAcid_40
+  - first:
+      213: -1790697576012013807
+    second: TstAcid_41
+  - first:
+      213: -6837069619952878423
+    second: TstAcid_42
+  - first:
+      213: 8189056047100213907
+    second: TstAcid_43
+  - first:
+      213: 3457457256325282541
+    second: TstAcid_44
+  - first:
+      213: -7250699439705586608
+    second: TstAcid_45
+  - first:
+      213: 94283332994551040
+    second: TstAcid_46
+  - first:
+      213: -4422218892061087898
+    second: TstAcid_47
+  - first:
+      213: -210788799889041427
+    second: TstAcid_48
+  - first:
+      213: 4640158860525352922
+    second: TstAcid_49
+  - first:
+      213: 3805060817941813786
+    second: TstAcid_50
+  - first:
+      213: -7557056591675412891
+    second: TstAcid_51
+  - first:
+      213: -760243351713397075
+    second: TstAcid_52
+  - first:
+      213: -4434021568220891668
+    second: TstAcid_53
+  - first:
+      213: 4718065747065596632
+    second: TstAcid_54
+  - first:
+      213: 5782780046310954792
+    second: TstAcid_55
+  - first:
+      213: 4479915177261080255
+    second: TstAcid_56
+  - first:
+      213: 1527751107624891410
+    second: TstAcid_57
+  - first:
+      213: 3217185514646679351
+    second: TstAcid_58
+  - first:
+      213: 512837797394167292
+    second: TstAcid_59
+  - first:
+      213: 6585759451412711148
+    second: TstAcid_60
+  - first:
+      213: 8205876897665890975
+    second: TstAcid_61
+  - first:
+      213: -7896200245453650927
+    second: TstAcid_62
+  - first:
+      213: 4139419677090836170
+    second: TstAcid_63
+  - first:
+      213: -8546841401692207399
+    second: TstAcid_64
+  - first:
+      213: 1563715144917580790
+    second: TstAcid_65
+  - first:
+      213: 8819558959200193893
+    second: TstAcid_66
+  - first:
+      213: -3531348691796679431
+    second: TstAcid_67
+  - first:
+      213: 8789632359874821973
+    second: TstAcid_68
+  - first:
+      213: -1624860800211174830
+    second: TstAcid_69
+  - first:
+      213: -4290861967813797222
+    second: TstAcid_70
+  - first:
+      213: 3216272734356419036
+    second: TstAcid_71
+  - first:
+      213: -8818612437418760690
+    second: TstAcid_72
+  - first:
+      213: 6063676293131332480
+    second: TstAcid_73
+  - first:
+      213: 6523176569614515492
+    second: TstAcid_74
+  - first:
+      213: -3582951826663198818
+    second: TstAcid_75
+  - first:
+      213: 3068952862639005346
+    second: TstAcid_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TstAcid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529872071060b0a0800000000000000
+      internalID: -6867883779798035878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6da8aa2f8f6dc50800000000000000
+      internalID: 6689808017632450283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9dbbda74277f2b0800000000000000
+      internalID: -5550842363527833143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea038e8dc2a8b300800000000000000
+      internalID: 268143181571492582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b8a398c18e6a330800000000000000
+      internalID: 3721917351327337280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc5915680ca32d0800000000000000
+      internalID: -3298112093968544995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6492395d7662d8f40800000000000000
+      internalID: 5732280128119187782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae6f21f3be7d020800000000000000
+      internalID: 2366618785340123764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f59884d008a3bda0800000000000000
+      internalID: -5930211562797623824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604c3469a355641a0800000000000000
+      internalID: -6825674475115920378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f045f493d721b7c40800000000000000
+      internalID: 5511018898059645967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d005c57ed0b0c540800000000000000
+      internalID: 5026211653650546898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c57cca190c07070800000000000000
+      internalID: 8102187461541059712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30338e0f623988320800000000000000
+      internalID: 2560458183619916547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cedf0664c8b4e0800000000000000
+      internalID: -1965605294715256478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b2885a839628d50800000000000000
+      internalID: 6738063684515933017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb05ddf81e63bbe0800000000000000
+      internalID: -1462704400348410915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7057f9d683d8630800000000000000
+      internalID: 3930860093242148771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481794e762ff1fa0800000000000000
+      internalID: -5827672864763471808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4b0aed52d92a300800000000000000
+      internalID: 261944514315334905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7d824741c72650800000000000000
+      internalID: 6208143123156925612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b9ff2de216c980800000000000000
+      internalID: -8519100835203271597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0181b850747309350800000000000000
+      internalID: 6021373479969560592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d7a34f5ea29ea0800000000000000
+      internalID: -5867435640330137180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feea29fd242313f0800000000000000
+      internalID: -931360918063091984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6811dc2cc74f4070800000000000000
+      internalID: 8092765997658871916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186cda24d8fdf7880800000000000000
+      internalID: -8610918164707031423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cafdf65fd524f40800000000000000
+      internalID: 5711230586184510514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c62a587e7b2180800000000000000
+      internalID: -9139071963444623810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d9dace12dd2f30800000000000000
+      internalID: 4552525828035565145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a0a2b9e84ffdb10800000000000000
+      internalID: 2008592852156287583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5837fbf0ae80f30800000000000000
+      internalID: 4542137577560573414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759bff30efd5eace0800000000000000
+      internalID: -1392071889240737449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfd51316448213e0800000000000000
+      internalID: -2084458241016340528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ffbd0564e39c70800000000000000
+      internalID: 8976769604953044821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f99eb24fd6058780800000000000000
+      internalID: -8681525150719501831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead7891e55e915ee0800000000000000
+      internalID: -1274063127874863698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca3d5a16c79e200800000000000000
+      internalID: 209835616485223594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fdcfd312dc86360800000000000000
+      internalID: 7163200749990371196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4c9249025dc5760800000000000000
+      internalID: 7448062219665392823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517ec77cb93eb660800000000000000
+      internalID: 7403418319070327131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f96a9ca0a2627e0800000000000000
+      internalID: -1790697576012013807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acf71ea769dd11a0800000000000000
+      internalID: -6837069619952878423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a3c2d561f55a170800000000000000
+      internalID: 8189056047100213907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea7d556e0b5bff20800000000000000
+      internalID: 3457457256325282541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05489338647506b90800000000000000
+      internalID: -7250699439705586608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d416b1136fe4100800000000000000
+      internalID: 94283332994551040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6676dabf85f11a2c0800000000000000
+      internalID: -4422218892061087898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79bfb04b0231df0800000000000000
+      internalID: -210788799889041427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7bef626e7256040800000000000000
+      internalID: 4640158860525352922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_50
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1add2267aa4ec430800000000000000
+      internalID: 3805060817941813786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea9a1a111ff1790800000000000000
+      internalID: -7557056591675412891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_52
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6454613b21375f0800000000000000
+      internalID: -760243351713397075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5f5cb40e03772c0800000000000000
+      internalID: -4434021568220891668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da68c0bccfe97140800000000000000
+      internalID: 4718065747065596632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d49a40df804050800000000000000
+      internalID: 5782780046310954792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe178c3e1bdb2e30800000000000000
+      internalID: 4479915177261080255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f03bb989a33510800000000000000
+      internalID: 1527751107624891410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f2c012e2db5ac20800000000000000
+      internalID: 3217185514646679351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5b2157247fd1700800000000000000
+      internalID: 512837797394167292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce640a50451556b50800000000000000
+      internalID: 6585759451412711148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab5f3df8121e170800000000000000
+      internalID: 8205876897665890975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114026e66bf0b6290800000000000000
+      internalID: -7896200245453650927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acee245c34c227930800000000000000
+      internalID: 4139419677090836170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_64
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6c88c3705836980800000000000000
+      internalID: -8546841401692207399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbf5bea3ae63b510800000000000000
+      internalID: 1563715144917580790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dcdb6352e556a70800000000000000
+      internalID: 8819558959200193893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f42b6f13112efec0800000000000000
+      internalID: -3531348691796679431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ffd94df0c0bf970800000000000000
+      internalID: 8789632359874821973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab4f906b55379e0800000000000000
+      internalID: -1624860800211174830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a993436cbc374c0800000000000000
+      internalID: -4290861967813797222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1b618e20f72ac20800000000000000
+      internalID: 3216272734356419036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0620df06befd9580800000000000000
+      internalID: -8818612437418760690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bec0d3671862450800000000000000
+      internalID: 6063676293131332480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d360f578af68a50800000000000000
+      internalID: 6523176569614515492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_75
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f27640c4cc64ec0800000000000000
+      internalID: -3582951826663198818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstAcid_76
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae140a5e5c179a20800000000000000
+      internalID: 3068952862639005346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TstAcid_0: -6867883779798035878
+      TstAcid_1: 6689808017632450283
+      TstAcid_10: 5511018898059645967
+      TstAcid_11: 5026211653650546898
+      TstAcid_12: 8102187461541059712
+      TstAcid_13: 2560458183619916547
+      TstAcid_14: -1965605294715256478
+      TstAcid_15: 6738063684515933017
+      TstAcid_16: -1462704400348410915
+      TstAcid_17: 3930860093242148771
+      TstAcid_18: -5827672864763471808
+      TstAcid_19: 261944514315334905
+      TstAcid_2: -5550842363527833143
+      TstAcid_20: 6208143123156925612
+      TstAcid_21: -8519100835203271597
+      TstAcid_22: 6021373479969560592
+      TstAcid_23: -5867435640330137180
+      TstAcid_24: -931360918063091984
+      TstAcid_25: 8092765997658871916
+      TstAcid_26: -8610918164707031423
+      TstAcid_27: 5711230586184510514
+      TstAcid_28: -9139071963444623810
+      TstAcid_29: 4552525828035565145
+      TstAcid_3: 268143181571492582
+      TstAcid_30: 2008592852156287583
+      TstAcid_31: 4542137577560573414
+      TstAcid_32: -1392071889240737449
+      TstAcid_33: -2084458241016340528
+      TstAcid_34: 8976769604953044821
+      TstAcid_35: -8681525150719501831
+      TstAcid_36: -1274063127874863698
+      TstAcid_37: 209835616485223594
+      TstAcid_38: 7163200749990371196
+      TstAcid_39: 7448062219665392823
+      TstAcid_4: 3721917351327337280
+      TstAcid_40: 7403418319070327131
+      TstAcid_41: -1790697576012013807
+      TstAcid_42: -6837069619952878423
+      TstAcid_43: 8189056047100213907
+      TstAcid_44: 3457457256325282541
+      TstAcid_45: -7250699439705586608
+      TstAcid_46: 94283332994551040
+      TstAcid_47: -4422218892061087898
+      TstAcid_48: -210788799889041427
+      TstAcid_49: 4640158860525352922
+      TstAcid_5: -3298112093968544995
+      TstAcid_50: 3805060817941813786
+      TstAcid_51: -7557056591675412891
+      TstAcid_52: -760243351713397075
+      TstAcid_53: -4434021568220891668
+      TstAcid_54: 4718065747065596632
+      TstAcid_55: 5782780046310954792
+      TstAcid_56: 4479915177261080255
+      TstAcid_57: 1527751107624891410
+      TstAcid_58: 3217185514646679351
+      TstAcid_59: 512837797394167292
+      TstAcid_6: 5732280128119187782
+      TstAcid_60: 6585759451412711148
+      TstAcid_61: 8205876897665890975
+      TstAcid_62: -7896200245453650927
+      TstAcid_63: 4139419677090836170
+      TstAcid_64: -8546841401692207399
+      TstAcid_65: 1563715144917580790
+      TstAcid_66: 8819558959200193893
+      TstAcid_67: -3531348691796679431
+      TstAcid_68: 8789632359874821973
+      TstAcid_69: -1624860800211174830
+      TstAcid_7: 2366618785340123764
+      TstAcid_70: -4290861967813797222
+      TstAcid_71: 3216272734356419036
+      TstAcid_72: -8818612437418760690
+      TstAcid_73: 6063676293131332480
+      TstAcid_74: 6523176569614515492
+      TstAcid_75: -3582951826663198818
+      TstAcid_76: 3068952862639005346
+      TstAcid_8: -5930211562797623824
+      TstAcid_9: -6825674475115920378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
