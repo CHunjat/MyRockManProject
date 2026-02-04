@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 5b431ac222a754a4792545372d1c22c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8795312484503874244
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_0
+  - first:
+      213: 6401408437098684312
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_1
+  - first:
+      213: 7382328798566924781
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_2
+  - first:
+      213: -4797922351359232569
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_3
+  - first:
+      213: 4982601127386912140
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_4
+  - first:
+      213: 8070120330515783562
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_5
+  - first:
+      213: 3928512123887076623
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_6
+  - first:
+      213: -1466487979103313110
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_7
+  - first:
+      213: -5192963537611195047
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_8
+  - first:
+      213: -3690852114035778818
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_9
+  - first:
+      213: -677464009509595515
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_10
+  - first:
+      213: -695972710803590808
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_11
+  - first:
+      213: 2545543075476324215
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_12
+  - first:
+      213: 2443908138314685392
+    second: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35969815e5c0f580800000000000000
+      internalID: -8795312484503874244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f9473be0f56d850800000000000000
+      internalID: 6401408437098684312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c7b5ddec437660800000000000000
+      internalID: 7382328798566924781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5735bba0b5a6db0800000000000000
+      internalID: -4797922351359232569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c859b5f8351c52540800000000000000
+      internalID: 4982601127386912140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f1d0beea3deff60800000000000000
+      internalID: 8070120330515783562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ca1866f0e48630800000000000000
+      internalID: 3928512123887076623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23aa2ae3fcf5abe0800000000000000
+      internalID: -1466487979103313110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95df0211d23eee7b0800000000000000
+      internalID: -5192963537611195047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad568ae8577ccc0800000000000000
+      internalID: -3690852114035778818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586911d921a2996f0800000000000000
+      internalID: -677464009509595515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861bf27c1886756f0800000000000000
+      internalID: -695972710803590808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fb836b0f5935320800000000000000
+      internalID: 2545543075476324215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbdeefd0818ae120800000000000000
+      internalID: 2443908138314685392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5dd99e7f98a19f4484776bd98ceccf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":32.0,"y":32.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_0: -8795312484503874244
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_1: 6401408437098684312
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_10: -677464009509595515
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_11: -695972710803590808
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_12: 2545543075476324215
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_13: 2443908138314685392
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_2: 7382328798566924781
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_3: -4797922351359232569
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_4: 4982601127386912140
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_5: 8070120330515783562
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_6: 3928512123887076623
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_7: -1466487979103313110
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_8: -5192963537611195047
+      PC _ Computer - Rockman 7 FC - Miscellaneous - Stage Select_9: -3690852114035778818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
