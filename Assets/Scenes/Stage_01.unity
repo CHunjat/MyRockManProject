@@ -399,7 +399,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5de07dcbc5a787c47857afee5d531668, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  moveSpeed: 4
+  moveSpeed: 2.1
   jumpForce: 5
   groundCheck: {fileID: 5080203}
   groundCheckRadius: 0.2
@@ -1031,7 +1031,7 @@ Animator:
   m_GameObject: {fileID: 1451809739}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 64a69f784b429604caf9f9ba218e0d52, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8232df3cf976b5e4bb67c9b5a7ecae37, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

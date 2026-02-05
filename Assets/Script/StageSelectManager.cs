@@ -1,45 +1,55 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using UnityEngine.InputSystem;
-using System.Collections; // 코루틴 사용을 위해 필요!
+using System.Collections;
 
 public class StageSelectManager : MonoBehaviour
 {
-    [Header("설정")]
-    public string targetSceneName = "Stage_01";
-    public Animator fadeAnimator; // 페이드 애니메이터 연결
-    public float delayTime = 1.0f; // 암전 유지 시간
+    [Header("암전 효과 설정")]
+    public CanvasGroup fadeCanvasGroup;
+    public float fadeDuration = 1.0f;
+    public string nextSceneName = "InGame"; // 다음에 이동할 씬 이름
 
-    private bool isSelected = false;
+    private bool isTransitioning = false;
 
-    void Update()
+    void Start()
     {
-        var keyboard = Keyboard.current;
-        if (keyboard == null) return;
-
-        if (!isSelected && (keyboard.enterKey.wasPressedThisFrame || keyboard.zKey.wasPressedThisFrame))
+        // 시작할 때 암전 레이어 초기화 (꺼두기)
+        if (fadeCanvasGroup != null)
         {
-            StartCoroutine(TransitionToScene());
+            fadeCanvasGroup.alpha = 0f;
+            fadeCanvasGroup.gameObject.SetActive(false);
         }
     }
 
-    IEnumerator TransitionToScene()
+    void Update()
     {
-        isSelected = true;
-
-        // 1. 애니메이터의 Trigger 실행 (미리 설정한 FadeOut 애니메이션)
-        if (fadeAnimator != null)
+        // 엔터를 누르면 암전 후 다음 씬으로
+        if (!isTransitioning && (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter)))
         {
-            fadeAnimator.SetTrigger("StartFadeOut");
+            StartCoroutine(FadeAndNextScene());
+        }
+    }
+
+    IEnumerator FadeAndNextScene()
+    {
+        isTransitioning = true;
+
+        if (fadeCanvasGroup != null)
+        {
+            fadeCanvasGroup.gameObject.SetActive(true);
+            float timer = 0f;
+
+            while (timer < fadeDuration)
+            {
+                timer += Time.deltaTime;
+                fadeCanvasGroup.alpha = timer / fadeDuration;
+                yield return null;
+            }
+            fadeCanvasGroup.alpha = 1f;
         }
 
-        Debug.Log("암전 시작...");
-
-        // 2. 지정된 시간만큼 대기
-        yield return new WaitForSeconds(delayTime);
-
-        // 3. 씬 이동
-        Debug.Log("스테이지 이동!");
-        SceneManager.LoadScene(targetSceneName);
+        yield return new WaitForSeconds(0.2f);
+        SceneManager.LoadScene(nextSceneName);
     }
 }

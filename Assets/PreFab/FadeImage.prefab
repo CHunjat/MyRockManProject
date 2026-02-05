@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 2184930250073261514}
   - component: {fileID: 4434699003850096228}
   - component: {fileID: 8642371257088763132}
-  - component: {fileID: 2271105547771411388}
   m_Layer: 5
   m_Name: FadeImage
   m_TagString: Untagged
@@ -76,17 +75,3 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &2271105547771411388
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8288605757235435819}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8f2f4f7746a5e274fbb6d31788e842d7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  fadeGroup: {fileID: 0}
-  fadeDuration: 1
