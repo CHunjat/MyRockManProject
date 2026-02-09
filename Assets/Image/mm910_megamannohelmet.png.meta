@@ -1,0 +1,2693 @@
+fileFormatVersion: 2
+guid: 0c63a579f1697be42b0668e5eca6a78e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5239373383269132478
+    second: mm910_megamannohelmet_0
+  - first:
+      213: 6683800400486408514
+    second: mm910_megamannohelmet_1
+  - first:
+      213: -6621161067410729639
+    second: mm910_megamannohelmet_2
+  - first:
+      213: 4883089270417541231
+    second: mm910_megamannohelmet_3
+  - first:
+      213: -1482383374195261302
+    second: mm910_megamannohelmet_4
+  - first:
+      213: 6902295474633581397
+    second: mm910_megamannohelmet_5
+  - first:
+      213: 2670599546160907403
+    second: mm910_megamannohelmet_6
+  - first:
+      213: 7631761138953652210
+    second: mm910_megamannohelmet_7
+  - first:
+      213: -5244977354055074598
+    second: mm910_megamannohelmet_8
+  - first:
+      213: -3982292134162762324
+    second: mm910_megamannohelmet_9
+  - first:
+      213: -11295646742555079
+    second: mm910_megamannohelmet_10
+  - first:
+      213: -386259369783307781
+    second: mm910_megamannohelmet_11
+  - first:
+      213: 3526777603270353899
+    second: mm910_megamannohelmet_12
+  - first:
+      213: 5689538760615410272
+    second: mm910_megamannohelmet_13
+  - first:
+      213: 3733765776308541954
+    second: mm910_megamannohelmet_14
+  - first:
+      213: 2392869239537847895
+    second: mm910_megamannohelmet_15
+  - first:
+      213: 4948117453403472096
+    second: mm910_megamannohelmet_16
+  - first:
+      213: -5366656960332765711
+    second: mm910_megamannohelmet_17
+  - first:
+      213: 9044719078957380581
+    second: mm910_megamannohelmet_18
+  - first:
+      213: -2447158882869378788
+    second: mm910_megamannohelmet_19
+  - first:
+      213: 7729272105276023182
+    second: mm910_megamannohelmet_20
+  - first:
+      213: 6085835652522537458
+    second: mm910_megamannohelmet_21
+  - first:
+      213: 5859550515584047185
+    second: mm910_megamannohelmet_22
+  - first:
+      213: -4321328627972806148
+    second: mm910_megamannohelmet_23
+  - first:
+      213: -4539476010966246124
+    second: mm910_megamannohelmet_24
+  - first:
+      213: -117383408590662699
+    second: mm910_megamannohelmet_25
+  - first:
+      213: -9005889224974970666
+    second: mm910_megamannohelmet_26
+  - first:
+      213: -2404827349011330034
+    second: mm910_megamannohelmet_27
+  - first:
+      213: -3340749907396273976
+    second: mm910_megamannohelmet_28
+  - first:
+      213: 2578062778192948968
+    second: mm910_megamannohelmet_29
+  - first:
+      213: 4089331940909556534
+    second: mm910_megamannohelmet_30
+  - first:
+      213: -6214158845183103733
+    second: mm910_megamannohelmet_31
+  - first:
+      213: -5887974242990524468
+    second: mm910_megamannohelmet_32
+  - first:
+      213: 2883536185268649285
+    second: mm910_megamannohelmet_33
+  - first:
+      213: -2911869596231188863
+    second: mm910_megamannohelmet_34
+  - first:
+      213: -5838989055521733433
+    second: mm910_megamannohelmet_35
+  - first:
+      213: -4436642440924225076
+    second: mm910_megamannohelmet_36
+  - first:
+      213: -257791373667043012
+    second: mm910_megamannohelmet_37
+  - first:
+      213: -7828385668290727169
+    second: mm910_megamannohelmet_38
+  - first:
+      213: 5794179675049138343
+    second: mm910_megamannohelmet_39
+  - first:
+      213: -7197191931175477193
+    second: mm910_megamannohelmet_40
+  - first:
+      213: -4091633536921255300
+    second: mm910_megamannohelmet_41
+  - first:
+      213: 4942494469018546968
+    second: mm910_megamannohelmet_42
+  - first:
+      213: 6828919461932230497
+    second: mm910_megamannohelmet_43
+  - first:
+      213: -1768416272339627708
+    second: mm910_megamannohelmet_44
+  - first:
+      213: -4072092298871222161
+    second: mm910_megamannohelmet_45
+  - first:
+      213: 1802594156827008773
+    second: mm910_megamannohelmet_46
+  - first:
+      213: 8986351090507583480
+    second: mm910_megamannohelmet_47
+  - first:
+      213: -9128366698087800780
+    second: mm910_megamannohelmet_48
+  - first:
+      213: -4276791516124581395
+    second: mm910_megamannohelmet_49
+  - first:
+      213: 7559792145335827347
+    second: mm910_megamannohelmet_50
+  - first:
+      213: -1500896006640918088
+    second: mm910_megamannohelmet_51
+  - first:
+      213: 6526980104173179846
+    second: mm910_megamannohelmet_52
+  - first:
+      213: -8828981853319021653
+    second: mm910_megamannohelmet_53
+  - first:
+      213: 3509419190988161454
+    second: mm910_megamannohelmet_54
+  - first:
+      213: -3491427345318482913
+    second: mm910_megamannohelmet_55
+  - first:
+      213: 4972753494264033482
+    second: mm910_megamannohelmet_56
+  - first:
+      213: -7679279354760466981
+    second: mm910_megamannohelmet_57
+  - first:
+      213: 6964602064904186431
+    second: mm910_megamannohelmet_58
+  - first:
+      213: -4977727568356752793
+    second: mm910_megamannohelmet_59
+  - first:
+      213: -5825546441829083575
+    second: mm910_megamannohelmet_60
+  - first:
+      213: -2661437268129570757
+    second: mm910_megamannohelmet_61
+  - first:
+      213: -5249978579541429445
+    second: mm910_megamannohelmet_62
+  - first:
+      213: -8147704221643850808
+    second: mm910_megamannohelmet_63
+  - first:
+      213: 5118621186400665574
+    second: mm910_megamannohelmet_64
+  - first:
+      213: -1196380005155523064
+    second: mm910_megamannohelmet_65
+  - first:
+      213: 3794941950832767361
+    second: mm910_megamannohelmet_66
+  - first:
+      213: 5834146676878293888
+    second: mm910_megamannohelmet_67
+  - first:
+      213: -1464788892734122600
+    second: mm910_megamannohelmet_68
+  - first:
+      213: -7532325453544227943
+    second: mm910_megamannohelmet_69
+  - first:
+      213: -6600320456948879622
+    second: mm910_megamannohelmet_70
+  - first:
+      213: -6973220594668755382
+    second: mm910_megamannohelmet_71
+  - first:
+      213: -3500307380007811194
+    second: mm910_megamannohelmet_72
+  - first:
+      213: -3947835693055500258
+    second: mm910_megamannohelmet_73
+  - first:
+      213: 4709993550330065664
+    second: mm910_megamannohelmet_74
+  - first:
+      213: 92475567447780348
+    second: mm910_megamannohelmet_75
+  - first:
+      213: 4106550746042304857
+    second: mm910_megamannohelmet_76
+  - first:
+      213: -1331964598536346525
+    second: mm910_megamannohelmet_77
+  - first:
+      213: 3077354230477980415
+    second: mm910_megamannohelmet_78
+  - first:
+      213: 4791619382374306752
+    second: mm910_megamannohelmet_79
+  - first:
+      213: -880480979732457814
+    second: mm910_megamannohelmet_80
+  - first:
+      213: 4316163254366625696
+    second: mm910_megamannohelmet_81
+  - first:
+      213: -4096922905393227976
+    second: mm910_megamannohelmet_82
+  - first:
+      213: 7788348104544746792
+    second: mm910_megamannohelmet_83
+  - first:
+      213: 4944512088832376215
+    second: mm910_megamannohelmet_84
+  - first:
+      213: 6590171109858370352
+    second: mm910_megamannohelmet_85
+  - first:
+      213: -808713508718855848
+    second: mm910_megamannohelmet_86
+  - first:
+      213: -1953849568493662176
+    second: mm910_megamannohelmet_87
+  - first:
+      213: 187631729968412374
+    second: mm910_megamannohelmet_88
+  - first:
+      213: 3504870813474775176
+    second: mm910_megamannohelmet_89
+  - first:
+      213: 5501964997989184008
+    second: mm910_megamannohelmet_90
+  - first:
+      213: -8579546712623790829
+    second: mm910_megamannohelmet_91
+  - first:
+      213: -2035126424108447193
+    second: mm910_megamannohelmet_92
+  - first:
+      213: 1845929677033622122
+    second: mm910_megamannohelmet_93
+  - first:
+      213: -4196813467982239539
+    second: mm910_megamannohelmet_94
+  - first:
+      213: 3620634476621776596
+    second: mm910_megamannohelmet_95
+  - first:
+      213: -2760766588237310690
+    second: mm910_megamannohelmet_96
+  - first:
+      213: 7394320313938081553
+    second: mm910_megamannohelmet_97
+  - first:
+      213: 3272805094402280845
+    second: mm910_megamannohelmet_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 486
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2475b94daa10a47b0800000000000000
+      internalID: -5239373383269132478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 502
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2412b9c4d01a1cc50800000000000000
+      internalID: 6683800400486408514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 486
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555650f619ec14a0800000000000000
+      internalID: -6621161067410729639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 486
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6842c9d1d734c340800000000000000
+      internalID: 4883089270417541231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 486
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a808528dc248d6be0800000000000000
+      internalID: -1482383374195261302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 486
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553225c0a21e9cf50800000000000000
+      internalID: 6902295474633581397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 486
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848d364320ef0520800000000000000
+      internalID: 2670599546160907403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 452
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f786f1325679e960800000000000000
+      internalID: 7631761138953652210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 452
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3494b2e81637b0800000000000000
+      internalID: -5244977354055074598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 452
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5756f276e0cb8c0800000000000000
+      internalID: -3982292134162762324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 452
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d66c4baed7dff0800000000000000
+      internalID: -11295646742555079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 448
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf156e0562bb3aaf0800000000000000
+      internalID: -386259369783307781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 447
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3abb46b81a1f030800000000000000
+      internalID: 3526777603270353899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 417
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3c4abb5d45fe40800000000000000
+      internalID: 5689538760615410272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 417
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a9163f03001d330800000000000000
+      internalID: 3733765776308541954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 417
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ecc9835ed253120800000000000000
+      internalID: 2392869239537847895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 417
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0460d8b9e3ba440800000000000000
+      internalID: 4948117453403472096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 417
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5ecf7adedc585b0800000000000000
+      internalID: -5366656960332765711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 379
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3f372d41c458d70800000000000000
+      internalID: 9044719078957380581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 379
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1101ad26f1f90ed0800000000000000
+      internalID: -2447158882869378788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 379
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81205f3704e34b60800000000000000
+      internalID: 7729272105276023182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 379
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f17306284b357450800000000000000
+      internalID: 6085835652522537458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 379
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15818d0162e415150800000000000000
+      internalID: 5859550515584047185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 379
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf964fb128e8704c0800000000000000
+      internalID: -4321328627972806148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 379
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d13f38e9a8001c0800000000000000
+      internalID: -4539476010966246124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 347
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3dd6c6968fe5ef0800000000000000
+      internalID: -117383408590662699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 347
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d059d21777a40380800000000000000
+      internalID: -9005889224974970666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 347
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c0904744650aed0800000000000000
+      internalID: -2404827349011330034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 347
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8d936c8a543a1d0800000000000000
+      internalID: -3340749907396273976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 347
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eee8d6007e17c320800000000000000
+      internalID: 2578062778192948968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 347
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633a29aebb930c830800000000000000
+      internalID: 4089331940909556534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 347
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d620f447fd2c9a0800000000000000
+      internalID: -6214158845183103733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 316
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc776ef2f96b94ea0800000000000000
+      internalID: -5887974242990524468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 312
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3ce302e0640820800000000000000
+      internalID: 2883536185268649285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 315
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e316ca706f697d0800000000000000
+      internalID: -2911869596231188863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 315
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4cb3ae36eb7fea0800000000000000
+      internalID: -5838989055521733433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 312
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc12a41d431ed62c0800000000000000
+      internalID: -4436642440924225076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c397a6a8c142c6cf0800000000000000
+      internalID: -257791373667043012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 282
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b5c416bcfb5390800000000000000
+      internalID: -7828385668290727169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 282
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8971037bf096050800000000000000
+      internalID: 5794179675049138343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 282
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7306af922107e1c90800000000000000
+      internalID: -7197191931175477193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 282
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72cbb00af89737c0800000000000000
+      internalID: -4091633536921255300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 276
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813fe2a7884479440800000000000000
+      internalID: 4942494469018546968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 276
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167e838c11235ce50800000000000000
+      internalID: 6828919461932230497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 236
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4411d2015c25577e0800000000000000
+      internalID: -1768416272339627708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 244
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f605d2901a50d77c0800000000000000
+      internalID: -4072092298871222161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f5ed7c5d9140910800000000000000
+      internalID: 1802594156827008773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 213
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff06a084bee5bc70800000000000000
+      internalID: 8986351090507583480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 204
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a8fc2ad6815180800000000000000
+      internalID: -9128366698087800780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 218
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de17df686c8c5a4c0800000000000000
+      internalID: -4276791516124581395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 175
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb78617e6c9e860800000000000000
+      internalID: 7559792145335827347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 175
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1ad57b80fbb2be0800000000000000
+      internalID: -1500896006640918088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 174
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d845c2dd749a50800000000000000
+      internalID: 6526980104173179846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 174
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babbc8848c7297580800000000000000
+      internalID: -8828981853319021653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 144
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1c9c61926f3b030800000000000000
+      internalID: 3509419190988161454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce43be355fb8fc0800000000000000
+      internalID: -3491427345318482913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 144
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b03dc4f4c20540800000000000000
+      internalID: 4972753494264033482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 144
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdde2880d18bd6590800000000000000
+      internalID: -7679279354760466981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae0909dac37a060800000000000000
+      internalID: 6964602064904186431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 144
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624d63562f8beab0800000000000000
+      internalID: -4977727568356752793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9469c305060872fa0800000000000000
+      internalID: -5825546441829083575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a621d7eca01bd0800000000000000
+      internalID: -2661437268129570757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33f5082c445427b0800000000000000
+      internalID: -5249978579541429445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_63
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb7f5cd2a8dee80800000000000000
+      internalID: -8147704221643850808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef333379def80740800000000000000
+      internalID: 5118621186400665574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_65
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806335859ba956fe0800000000000000
+      internalID: -1196380005155523064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1817d9a09975aa430800000000000000
+      internalID: 3794941950832767361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b3bd2fd7d07f050800000000000000
+      internalID: 5834146676878293888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 98
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89515a943460cabe0800000000000000
+      internalID: -1464788892734122600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bfcd078edc77790800000000000000
+      internalID: -7532325453544227943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_70
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe61dfa383f664a0800000000000000
+      internalID: -6600320456948879622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_71
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46a45a90d42a3f90800000000000000
+      internalID: -6973220594668755382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_72
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687c4f9bbf86c6fc0800000000000000
+      internalID: -3500307380007811194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a1db8a587639c0800000000000000
+      internalID: -3947835693055500258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003fdcded224d5140800000000000000
+      internalID: 4709993550330065664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba024e90a884100800000000000000
+      internalID: 92475567447780348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_76
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95987f565266df830800000000000000
+      internalID: 4106550746042304857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36468d23149e38de0800000000000000
+      internalID: -1331964598536346525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff28fab3e55f4ba20800000000000000
+      internalID: 3077354230477980415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_79
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31c41f0704f7240800000000000000
+      internalID: 4791619382374306752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa61f83c637e7c3f0800000000000000
+      internalID: -880480979732457814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afdd11ac9716eb30800000000000000
+      internalID: 4316163254366625696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83710efe25ec427c0800000000000000
+      internalID: -4096922905393227976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_83
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82df97e2655c51c60800000000000000
+      internalID: 7788348104544746792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7a723c8f6e9440800000000000000
+      internalID: 4944512088832376215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_85
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033662c45bdf47b50800000000000000
+      internalID: 6590171109858370352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_86
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859b0cb395fd6c4f0800000000000000
+      internalID: -808713508718855848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020926d5b2882e4e0800000000000000
+      internalID: -1953849568493662176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6fb55701a9a9200800000000000000
+      internalID: 187631729968412374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8806ccc6f6dc3a030800000000000000
+      internalID: 3504870813474775176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80237c7d308ea5c40800000000000000
+      internalID: 5501964997989184008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3154034a8b35fe880800000000000000
+      internalID: -8579546712623790829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_92
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a4102cc47c1c3e0800000000000000
+      internalID: -2035126424108447193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac0f7d24f0e9910800000000000000
+      internalID: 1845929677033622122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_94
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8e754f26ce1c5c0800000000000000
+      internalID: -4196813467982239539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_95
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 15
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6c290afd31f3230800000000000000
+      internalID: 3620634476621776596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1519584a69cfa9d0800000000000000
+      internalID: -2760766588237310690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117fbb31627ed9660800000000000000
+      internalID: 7394320313938081553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamannohelmet_98
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dcfeea4e65b6d20800000000000000
+      internalID: 3272805094402280845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41545f0e1b6493c4eabf89bc6a116f1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mm910_megamannohelmet_0: -5239373383269132478
+      mm910_megamannohelmet_1: 6683800400486408514
+      mm910_megamannohelmet_10: -11295646742555079
+      mm910_megamannohelmet_11: -386259369783307781
+      mm910_megamannohelmet_12: 3526777603270353899
+      mm910_megamannohelmet_13: 5689538760615410272
+      mm910_megamannohelmet_14: 3733765776308541954
+      mm910_megamannohelmet_15: 2392869239537847895
+      mm910_megamannohelmet_16: 4948117453403472096
+      mm910_megamannohelmet_17: -5366656960332765711
+      mm910_megamannohelmet_18: 9044719078957380581
+      mm910_megamannohelmet_19: -2447158882869378788
+      mm910_megamannohelmet_2: -6621161067410729639
+      mm910_megamannohelmet_20: 7729272105276023182
+      mm910_megamannohelmet_21: 6085835652522537458
+      mm910_megamannohelmet_22: 5859550515584047185
+      mm910_megamannohelmet_23: -4321328627972806148
+      mm910_megamannohelmet_24: -4539476010966246124
+      mm910_megamannohelmet_25: -117383408590662699
+      mm910_megamannohelmet_26: -9005889224974970666
+      mm910_megamannohelmet_27: -2404827349011330034
+      mm910_megamannohelmet_28: -3340749907396273976
+      mm910_megamannohelmet_29: 2578062778192948968
+      mm910_megamannohelmet_3: 4883089270417541231
+      mm910_megamannohelmet_30: 4089331940909556534
+      mm910_megamannohelmet_31: -6214158845183103733
+      mm910_megamannohelmet_32: -5887974242990524468
+      mm910_megamannohelmet_33: 2883536185268649285
+      mm910_megamannohelmet_34: -2911869596231188863
+      mm910_megamannohelmet_35: -5838989055521733433
+      mm910_megamannohelmet_36: -4436642440924225076
+      mm910_megamannohelmet_37: -257791373667043012
+      mm910_megamannohelmet_38: -7828385668290727169
+      mm910_megamannohelmet_39: 5794179675049138343
+      mm910_megamannohelmet_4: -1482383374195261302
+      mm910_megamannohelmet_40: -7197191931175477193
+      mm910_megamannohelmet_41: -4091633536921255300
+      mm910_megamannohelmet_42: 4942494469018546968
+      mm910_megamannohelmet_43: 6828919461932230497
+      mm910_megamannohelmet_44: -1768416272339627708
+      mm910_megamannohelmet_45: -4072092298871222161
+      mm910_megamannohelmet_46: 1802594156827008773
+      mm910_megamannohelmet_47: 8986351090507583480
+      mm910_megamannohelmet_48: -9128366698087800780
+      mm910_megamannohelmet_49: -4276791516124581395
+      mm910_megamannohelmet_5: 6902295474633581397
+      mm910_megamannohelmet_50: 7559792145335827347
+      mm910_megamannohelmet_51: -1500896006640918088
+      mm910_megamannohelmet_52: 6526980104173179846
+      mm910_megamannohelmet_53: -8828981853319021653
+      mm910_megamannohelmet_54: 3509419190988161454
+      mm910_megamannohelmet_55: -3491427345318482913
+      mm910_megamannohelmet_56: 4972753494264033482
+      mm910_megamannohelmet_57: -7679279354760466981
+      mm910_megamannohelmet_58: 6964602064904186431
+      mm910_megamannohelmet_59: -4977727568356752793
+      mm910_megamannohelmet_6: 2670599546160907403
+      mm910_megamannohelmet_60: -5825546441829083575
+      mm910_megamannohelmet_61: -2661437268129570757
+      mm910_megamannohelmet_62: -5249978579541429445
+      mm910_megamannohelmet_63: -8147704221643850808
+      mm910_megamannohelmet_64: 5118621186400665574
+      mm910_megamannohelmet_65: -1196380005155523064
+      mm910_megamannohelmet_66: 3794941950832767361
+      mm910_megamannohelmet_67: 5834146676878293888
+      mm910_megamannohelmet_68: -1464788892734122600
+      mm910_megamannohelmet_69: -7532325453544227943
+      mm910_megamannohelmet_7: 7631761138953652210
+      mm910_megamannohelmet_70: -6600320456948879622
+      mm910_megamannohelmet_71: -6973220594668755382
+      mm910_megamannohelmet_72: -3500307380007811194
+      mm910_megamannohelmet_73: -3947835693055500258
+      mm910_megamannohelmet_74: 4709993550330065664
+      mm910_megamannohelmet_75: 92475567447780348
+      mm910_megamannohelmet_76: 4106550746042304857
+      mm910_megamannohelmet_77: -1331964598536346525
+      mm910_megamannohelmet_78: 3077354230477980415
+      mm910_megamannohelmet_79: 4791619382374306752
+      mm910_megamannohelmet_8: -5244977354055074598
+      mm910_megamannohelmet_80: -880480979732457814
+      mm910_megamannohelmet_81: 4316163254366625696
+      mm910_megamannohelmet_82: -4096922905393227976
+      mm910_megamannohelmet_83: 7788348104544746792
+      mm910_megamannohelmet_84: 4944512088832376215
+      mm910_megamannohelmet_85: 6590171109858370352
+      mm910_megamannohelmet_86: -808713508718855848
+      mm910_megamannohelmet_87: -1953849568493662176
+      mm910_megamannohelmet_88: 187631729968412374
+      mm910_megamannohelmet_89: 3504870813474775176
+      mm910_megamannohelmet_9: -3982292134162762324
+      mm910_megamannohelmet_90: 5501964997989184008
+      mm910_megamannohelmet_91: -8579546712623790829
+      mm910_megamannohelmet_92: -2035126424108447193
+      mm910_megamannohelmet_93: 1845929677033622122
+      mm910_megamannohelmet_94: -4196813467982239539
+      mm910_megamannohelmet_95: 3620634476621776596
+      mm910_megamannohelmet_96: -2760766588237310690
+      mm910_megamannohelmet_97: 7394320313938081553
+      mm910_megamannohelmet_98: 3272805094402280845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

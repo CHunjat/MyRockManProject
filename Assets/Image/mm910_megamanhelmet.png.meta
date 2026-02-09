@@ -1,0 +1,3005 @@
+fileFormatVersion: 2
+guid: 707767292e7212c4e8655620f47bfe54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -132070536763473882
+    second: mm910_megamanhelmet_0
+  - first:
+      213: -3666127487424244990
+    second: mm910_megamanhelmet_1
+  - first:
+      213: 2929911784898018898
+    second: mm910_megamanhelmet_2
+  - first:
+      213: -923320604064679539
+    second: mm910_megamanhelmet_3
+  - first:
+      213: -7289777857109237621
+    second: mm910_megamanhelmet_4
+  - first:
+      213: 3131787186841132912
+    second: mm910_megamanhelmet_5
+  - first:
+      213: 7472872751779876666
+    second: mm910_megamanhelmet_6
+  - first:
+      213: -1727119669388190627
+    second: mm910_megamanhelmet_7
+  - first:
+      213: -3370077029816269837
+    second: mm910_megamanhelmet_8
+  - first:
+      213: 3046009728667362027
+    second: mm910_megamanhelmet_9
+  - first:
+      213: -1878098095932257154
+    second: mm910_megamanhelmet_10
+  - first:
+      213: 7159784691593580966
+    second: mm910_megamanhelmet_11
+  - first:
+      213: -8924618124255177750
+    second: mm910_megamanhelmet_12
+  - first:
+      213: 5804376408791024783
+    second: mm910_megamanhelmet_13
+  - first:
+      213: -7577048720080611083
+    second: mm910_megamanhelmet_14
+  - first:
+      213: 2707770445375168621
+    second: mm910_megamanhelmet_15
+  - first:
+      213: -1161789157454112014
+    second: mm910_megamanhelmet_16
+  - first:
+      213: -8352910642461591167
+    second: mm910_megamanhelmet_17
+  - first:
+      213: -7319726205696882301
+    second: mm910_megamanhelmet_18
+  - first:
+      213: -4495969646257083137
+    second: mm910_megamanhelmet_19
+  - first:
+      213: 8027977144700218928
+    second: mm910_megamanhelmet_20
+  - first:
+      213: 1749220080347742432
+    second: mm910_megamanhelmet_21
+  - first:
+      213: 2386935710592764755
+    second: mm910_megamanhelmet_22
+  - first:
+      213: 4650008109138305611
+    second: mm910_megamanhelmet_23
+  - first:
+      213: -5208762260337178958
+    second: mm910_megamanhelmet_24
+  - first:
+      213: -1935181547326007121
+    second: mm910_megamanhelmet_25
+  - first:
+      213: 7352198843564998926
+    second: mm910_megamanhelmet_26
+  - first:
+      213: 3734544619745755431
+    second: mm910_megamanhelmet_27
+  - first:
+      213: -2597040765417509248
+    second: mm910_megamanhelmet_28
+  - first:
+      213: -3008066170698161378
+    second: mm910_megamanhelmet_29
+  - first:
+      213: -6988990160555753867
+    second: mm910_megamanhelmet_30
+  - first:
+      213: 3042433113235249751
+    second: mm910_megamanhelmet_31
+  - first:
+      213: -136746626393767959
+    second: mm910_megamanhelmet_32
+  - first:
+      213: 1904170442712331601
+    second: mm910_megamanhelmet_33
+  - first:
+      213: 7264143375839119146
+    second: mm910_megamanhelmet_34
+  - first:
+      213: -674170787680224227
+    second: mm910_megamanhelmet_35
+  - first:
+      213: -3382939407514002143
+    second: mm910_megamanhelmet_36
+  - first:
+      213: -5752517463727308336
+    second: mm910_megamanhelmet_37
+  - first:
+      213: -4224140422302796336
+    second: mm910_megamanhelmet_38
+  - first:
+      213: 7787908573116541012
+    second: mm910_megamanhelmet_39
+  - first:
+      213: -4178984830197619520
+    second: mm910_megamanhelmet_40
+  - first:
+      213: -2798572717964300840
+    second: mm910_megamanhelmet_41
+  - first:
+      213: 3812795843337251781
+    second: mm910_megamanhelmet_42
+  - first:
+      213: 2619714239232078744
+    second: mm910_megamanhelmet_43
+  - first:
+      213: -5413540119362729531
+    second: mm910_megamanhelmet_44
+  - first:
+      213: 5891820073983082725
+    second: mm910_megamanhelmet_45
+  - first:
+      213: -5888364110343717333
+    second: mm910_megamanhelmet_46
+  - first:
+      213: 5526160674086978406
+    second: mm910_megamanhelmet_47
+  - first:
+      213: -4372401540446491812
+    second: mm910_megamanhelmet_48
+  - first:
+      213: 7212629843028296645
+    second: mm910_megamanhelmet_49
+  - first:
+      213: -1654302921544872508
+    second: mm910_megamanhelmet_50
+  - first:
+      213: -3110707143567699914
+    second: mm910_megamanhelmet_51
+  - first:
+      213: -3099470250016127787
+    second: mm910_megamanhelmet_52
+  - first:
+      213: -8871536208262001724
+    second: mm910_megamanhelmet_53
+  - first:
+      213: 8444679054841012377
+    second: mm910_megamanhelmet_54
+  - first:
+      213: -4626591331339283771
+    second: mm910_megamanhelmet_55
+  - first:
+      213: 9046164858277872657
+    second: mm910_megamanhelmet_56
+  - first:
+      213: -443775666400725837
+    second: mm910_megamanhelmet_57
+  - first:
+      213: 8671031179715636253
+    second: mm910_megamanhelmet_58
+  - first:
+      213: 7942593545381481412
+    second: mm910_megamanhelmet_59
+  - first:
+      213: -9165575749594309248
+    second: mm910_megamanhelmet_60
+  - first:
+      213: 3200393394183057435
+    second: mm910_megamanhelmet_61
+  - first:
+      213: 4879202389815021865
+    second: mm910_megamanhelmet_62
+  - first:
+      213: -5336060793316435066
+    second: mm910_megamanhelmet_63
+  - first:
+      213: 1361897243137979723
+    second: mm910_megamanhelmet_64
+  - first:
+      213: 6387141415944989517
+    second: mm910_megamanhelmet_65
+  - first:
+      213: -4089820323492732809
+    second: mm910_megamanhelmet_66
+  - first:
+      213: -3189390475316850749
+    second: mm910_megamanhelmet_67
+  - first:
+      213: -8907985422557129964
+    second: mm910_megamanhelmet_68
+  - first:
+      213: -1433425378805039720
+    second: mm910_megamanhelmet_69
+  - first:
+      213: 390210450780136818
+    second: mm910_megamanhelmet_70
+  - first:
+      213: 3050138922437086512
+    second: mm910_megamanhelmet_71
+  - first:
+      213: 1394982671886467015
+    second: mm910_megamanhelmet_72
+  - first:
+      213: 2637409388612671316
+    second: mm910_megamanhelmet_73
+  - first:
+      213: -1091645769302785879
+    second: mm910_megamanhelmet_74
+  - first:
+      213: 6332206857637885401
+    second: mm910_megamanhelmet_75
+  - first:
+      213: -7196771961590043774
+    second: mm910_megamanhelmet_76
+  - first:
+      213: -4344576605893509145
+    second: mm910_megamanhelmet_77
+  - first:
+      213: -8204230130952952781
+    second: mm910_megamanhelmet_78
+  - first:
+      213: 9025738449591819743
+    second: mm910_megamanhelmet_79
+  - first:
+      213: -5961008506947215939
+    second: mm910_megamanhelmet_80
+  - first:
+      213: -7924809584415726938
+    second: mm910_megamanhelmet_81
+  - first:
+      213: -1102759362411693221
+    second: mm910_megamanhelmet_82
+  - first:
+      213: -5738526794369926058
+    second: mm910_megamanhelmet_83
+  - first:
+      213: 6284471373853046663
+    second: mm910_megamanhelmet_84
+  - first:
+      213: 4292207471851011782
+    second: mm910_megamanhelmet_85
+  - first:
+      213: 4425939949933665821
+    second: mm910_megamanhelmet_86
+  - first:
+      213: 6459793774515434707
+    second: mm910_megamanhelmet_87
+  - first:
+      213: -8886351323629591445
+    second: mm910_megamanhelmet_88
+  - first:
+      213: 1401559110642894374
+    second: mm910_megamanhelmet_89
+  - first:
+      213: -6141944334851959853
+    second: mm910_megamanhelmet_90
+  - first:
+      213: 653660527349805628
+    second: mm910_megamanhelmet_91
+  - first:
+      213: 385162554119054751
+    second: mm910_megamanhelmet_92
+  - first:
+      213: -7472022839895626453
+    second: mm910_megamanhelmet_93
+  - first:
+      213: 7474351585201911143
+    second: mm910_megamanhelmet_94
+  - first:
+      213: -522425239845948498
+    second: mm910_megamanhelmet_95
+  - first:
+      213: -1240892308996323811
+    second: mm910_megamanhelmet_96
+  - first:
+      213: 194377568795505103
+    second: mm910_megamanhelmet_97
+  - first:
+      213: -7511308385256045622
+    second: mm910_megamanhelmet_98
+  - first:
+      213: 5215812350466022223
+    second: mm910_megamanhelmet_99
+  - first:
+      213: -6986724621160942508
+    second: mm910_megamanhelmet_100
+  - first:
+      213: -7334172311216515370
+    second: mm910_megamanhelmet_101
+  - first:
+      213: 5707106901160414765
+    second: mm910_megamanhelmet_102
+  - first:
+      213: 4983702906535292906
+    second: mm910_megamanhelmet_103
+  - first:
+      213: -2705888783826865957
+    second: mm910_megamanhelmet_104
+  - first:
+      213: 2302209678399771111
+    second: mm910_megamanhelmet_105
+  - first:
+      213: 4373497560397313801
+    second: mm910_megamanhelmet_106
+  - first:
+      213: 2065548121797333392
+    second: mm910_megamanhelmet_107
+  - first:
+      213: 2549196114818770323
+    second: mm910_megamanhelmet_108
+  - first:
+      213: 4061257096313650552
+    second: mm910_megamanhelmet_109
+  - first:
+      213: -6493988704659880799
+    second: mm910_megamanhelmet_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 548
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200beaeb8aca2ef0800000000000000
+      internalID: -132070536763473882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 564
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20358c2697c4f1dc0800000000000000
+      internalID: -3666127487424244990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 548
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eb31abe3329a820800000000000000
+      internalID: 2929911784898018898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 548
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89fce47dc4bf23f0800000000000000
+      internalID: -923320604064679539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 548
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80ee7f69a185da90800000000000000
+      internalID: -7289777857109237621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 548
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f19cf7ad7567b20800000000000000
+      internalID: 3131787186841132912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 548
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f098dbc2af4b760800000000000000
+      internalID: 7472872751779876666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 514
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cd685bfc90808e0800000000000000
+      internalID: -1727119669388190627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 514
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3091cfbc41b31d0800000000000000
+      internalID: -3370077029816269837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 514
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be22a93b5b9954a20800000000000000
+      internalID: 3046009728667362027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 514
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cce9a7bb7afe5e0800000000000000
+      internalID: -1878098095932257154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 510
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a117ba2e3aac5360800000000000000
+      internalID: 7159784691593580966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 509
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3d1c3c913652480800000000000000
+      internalID: -8924618124255177750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 479
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8485a447994d8050800000000000000
+      internalID: 5804376408791024783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 479
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f854c1855ae8d690800000000000000
+      internalID: -7577048720080611083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 479
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6063e9afdee39520800000000000000
+      internalID: 2707770445375168621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 479
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa1c0eaaee70efe0800000000000000
+      internalID: -1161789157454112014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 479
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1893f7bb600841c80800000000000000
+      internalID: -8352910642461591167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 441
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c1582ccb1b6a90800000000000000
+      internalID: -7319726205696882301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 441
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc68e96d6b1b91c0800000000000000
+      internalID: -4495969646257083137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 441
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eafc6ddaa196f60800000000000000
+      internalID: 8027977144700218928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 441
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08b13356a764810800000000000000
+      internalID: 1749220080347742432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 441
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b839bd169102120800000000000000
+      internalID: 2386935710592764755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 441
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42efdb0db5288040800000000000000
+      internalID: 4650008109138305611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 441
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b644294252c6b7b0800000000000000
+      internalID: -5208762260337178958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 409
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa81ebfb2aad425e0800000000000000
+      internalID: -1935181547326007121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 409
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01cab405e1480660800000000000000
+      internalID: 7352198843564998926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 409
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721cac19b84c3d330800000000000000
+      internalID: 3734544619745755431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 409
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ea41efe2575fbd0800000000000000
+      internalID: -2597040765417509248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 409
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13aaa251c33146d0800000000000000
+      internalID: -3008066170698161378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 409
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ebf5d6a7e120f90800000000000000
+      internalID: -6988990160555753867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 409
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ad5470cc4e83a20800000000000000
+      internalID: 3042433113235249751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 409
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff095faad2a1ef0800000000000000
+      internalID: -136746626393767959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 378
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155baadcde8fc6a10800000000000000
+      internalID: 1904170442712331601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 374
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27c56ac9eb6fc460800000000000000
+      internalID: 7264143375839119146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 377
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cff529d3dd4a6f0800000000000000
+      internalID: -674170787680224227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 377
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d157e48826d01d0800000000000000
+      internalID: -3382939407514002143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 374
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d18d4a48d3fa20b0800000000000000
+      internalID: -5752517463727308336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 344
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5f5479aa6d065c0800000000000000
+      internalID: -4224140422302796336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 344
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458a4dbc595341c60800000000000000
+      internalID: 7787908573116541012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 344
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4235a20734106c0800000000000000
+      internalID: -4178984830197619520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 344
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd63a3c0f87929d0800000000000000
+      internalID: -2798572717964300840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 344
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbe3335e95c9e430800000000000000
+      internalID: 3812795843337251781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 338
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f57288381b5420800000000000000
+      internalID: 2619714239232078744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 338
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c90f0091fd3fd4b0800000000000000
+      internalID: -5413540119362729531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 298
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0074e1423f3c150800000000000000
+      internalID: 5891820073983082725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 306
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ebdce1a04584ea0800000000000000
+      internalID: -5888364110343717333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 302
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66300beaaddd0bc40800000000000000
+      internalID: 5526160674086978406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 275
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5be05607fb1253c0800000000000000
+      internalID: -4372401540446491812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 266
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3451ac0a8681460800000000000000
+      internalID: 7212629843028296645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_50
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 280
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd4d6af14cba09e0800000000000000
+      internalID: -1654302921544872508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 233
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630906b855c84d4d0800000000000000
+      internalID: -3110707143567699914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 233
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c5e3ba387cf4d0800000000000000
+      internalID: -3099470250016127787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 233
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb078e62d8f1e480800000000000000
+      internalID: -8871536208262001724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 233
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990eaf9cbd6813570800000000000000
+      internalID: 8444679054841012377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 199
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2de9662bb0bcfb0800000000000000
+      internalID: -4626591331339283771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 199
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114464d820f6a8d70800000000000000
+      internalID: 9046164858277872657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 199
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f834f16467d9f0800000000000000
+      internalID: -443775666400725837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 199
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c6947bae0b55870800000000000000
+      internalID: 8671031179715636253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_59
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 199
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb06c37fb2c93e60800000000000000
+      internalID: 7942593545381481412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 199
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d1f73ca655dc080800000000000000
+      internalID: -9165575749594309248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10b9c9e5d41a6c20800000000000000
+      internalID: 3200393394183057435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215920f8b866b340800000000000000
+      internalID: 4879202389815021865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b1c7aeaf082f5b0800000000000000
+      internalID: -5336060793316435066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b2d5b35e66e210800000000000000
+      internalID: 1361897243137979723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_65
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b269bf64fa3a850800000000000000
+      internalID: 6387141415944989517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770ea07a51a0e37c0800000000000000
+      internalID: -4089820323492732809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf89b4c2420db3d0800000000000000
+      internalID: -3189390475316850749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_68
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413df18647a706480800000000000000
+      internalID: -8907985422557129964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dbb4c66337b1ce0800000000000000
+      internalID: -1433425378805039720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_70
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275256a665e4a6500800000000000000
+      internalID: 390210450780136818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_71
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d847b8035445a20800000000000000
+      internalID: 3050138922437086512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf3e916959fb5310800000000000000
+      internalID: 1394982671886467015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_73
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457d9878dd5f99420800000000000000
+      internalID: 2637409388612671316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 133
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a04624e4f1b9d0f0800000000000000
+      internalID: -1091645769302785879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_75
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 133
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d57cc9669480e750800000000000000
+      internalID: 6332206857637885401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 133
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2fe3f70eef1c90800000000000000
+      internalID: -7196771961590043774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 133
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efbe327896f4b3c0800000000000000
+      internalID: -4344576605893509145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 133
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342efce928b42e80800000000000000
+      internalID: -8204230130952952781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_79
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 133
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd518bac4dd14d70800000000000000
+      internalID: 9025738449591819743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_80
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5450885e364da0800000000000000
+      internalID: -5961008506947215939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 133
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a22a40abab650290800000000000000
+      internalID: -7924809584415726938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_82
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bf6bad33632b0f0800000000000000
+      internalID: -1102759362411693221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_83
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cf487d848ac50b0800000000000000
+      internalID: -5738526794369926058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873f9ffa6de63750800000000000000
+      internalID: 6284471373853046663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cef4fd54fbf09b30800000000000000
+      internalID: 4292207471851011782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_86
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e91015fe81c6d30800000000000000
+      internalID: 4425939949933665821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_87
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4b544663cc5a950800000000000000
+      internalID: 6459793774515434707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b646cb59d865da480800000000000000
+      internalID: -8886351323629591445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 103
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260599d596537310800000000000000
+      internalID: 1401559110642894374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d31dea3b2e63caa0800000000000000
+      internalID: -6141944334851959853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_91
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32316059c4421900800000000000000
+      internalID: 653660527349805628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f956c036d4f585500800000000000000
+      internalID: 385162554119054751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6a6ac0da0e4890800000000000000
+      internalID: -7472022839895626453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_94
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765765a7a2b3ab760800000000000000
+      internalID: 7474351585201911143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_95
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3b8452309ffb8f0800000000000000
+      internalID: -522425239845948498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1682cdf40777cee0800000000000000
+      internalID: -1240892308996323811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc13c547e5192b200800000000000000
+      internalID: 194377568795505103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3866af1d872c790800000000000000
+      internalID: -7511308385256045622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5f9cb2b9426840800000000000000
+      internalID: 5215812350466022223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f93c69fa2a0f90800000000000000
+      internalID: -6986724621160942508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 49
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61f6c1429c73a90800000000000000
+      internalID: -7334172311216515370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_102
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec8d23d77b33f40800000000000000
+      internalID: 5707106901160414765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_103
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 49
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2e12836ba92540800000000000000
+      internalID: 4983702906535292906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_104
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 46
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0394ecc70c27ad0800000000000000
+      internalID: -2705888783826865957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_105
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e11c7f318713ff10800000000000000
+      internalID: 2302209678399771111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f4810cd8c1bc30800000000000000
+      internalID: 4373497560397313801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919432b21d4aac10800000000000000
+      internalID: 2065548121797333392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39524963c50906320800000000000000
+      internalID: 2549196114818770323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_109
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d3f47cfcb7c5830800000000000000
+      internalID: 4061257096313650552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm910_megamanhelmet_110
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a449530ea7b0e5a0800000000000000
+      internalID: -6493988704659880799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd64f708013f8ec4f84fb65723c5ee6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mm910_megamanhelmet_0: -132070536763473882
+      mm910_megamanhelmet_1: -3666127487424244990
+      mm910_megamanhelmet_10: -1878098095932257154
+      mm910_megamanhelmet_100: -6986724621160942508
+      mm910_megamanhelmet_101: -7334172311216515370
+      mm910_megamanhelmet_102: 5707106901160414765
+      mm910_megamanhelmet_103: 4983702906535292906
+      mm910_megamanhelmet_104: -2705888783826865957
+      mm910_megamanhelmet_105: 2302209678399771111
+      mm910_megamanhelmet_106: 4373497560397313801
+      mm910_megamanhelmet_107: 2065548121797333392
+      mm910_megamanhelmet_108: 2549196114818770323
+      mm910_megamanhelmet_109: 4061257096313650552
+      mm910_megamanhelmet_11: 7159784691593580966
+      mm910_megamanhelmet_110: -6493988704659880799
+      mm910_megamanhelmet_12: -8924618124255177750
+      mm910_megamanhelmet_13: 5804376408791024783
+      mm910_megamanhelmet_14: -7577048720080611083
+      mm910_megamanhelmet_15: 2707770445375168621
+      mm910_megamanhelmet_16: -1161789157454112014
+      mm910_megamanhelmet_17: -8352910642461591167
+      mm910_megamanhelmet_18: -7319726205696882301
+      mm910_megamanhelmet_19: -4495969646257083137
+      mm910_megamanhelmet_2: 2929911784898018898
+      mm910_megamanhelmet_20: 8027977144700218928
+      mm910_megamanhelmet_21: 1749220080347742432
+      mm910_megamanhelmet_22: 2386935710592764755
+      mm910_megamanhelmet_23: 4650008109138305611
+      mm910_megamanhelmet_24: -5208762260337178958
+      mm910_megamanhelmet_25: -1935181547326007121
+      mm910_megamanhelmet_26: 7352198843564998926
+      mm910_megamanhelmet_27: 3734544619745755431
+      mm910_megamanhelmet_28: -2597040765417509248
+      mm910_megamanhelmet_29: -3008066170698161378
+      mm910_megamanhelmet_3: -923320604064679539
+      mm910_megamanhelmet_30: -6988990160555753867
+      mm910_megamanhelmet_31: 3042433113235249751
+      mm910_megamanhelmet_32: -136746626393767959
+      mm910_megamanhelmet_33: 1904170442712331601
+      mm910_megamanhelmet_34: 7264143375839119146
+      mm910_megamanhelmet_35: -674170787680224227
+      mm910_megamanhelmet_36: -3382939407514002143
+      mm910_megamanhelmet_37: -5752517463727308336
+      mm910_megamanhelmet_38: -4224140422302796336
+      mm910_megamanhelmet_39: 7787908573116541012
+      mm910_megamanhelmet_4: -7289777857109237621
+      mm910_megamanhelmet_40: -4178984830197619520
+      mm910_megamanhelmet_41: -2798572717964300840
+      mm910_megamanhelmet_42: 3812795843337251781
+      mm910_megamanhelmet_43: 2619714239232078744
+      mm910_megamanhelmet_44: -5413540119362729531
+      mm910_megamanhelmet_45: 5891820073983082725
+      mm910_megamanhelmet_46: -5888364110343717333
+      mm910_megamanhelmet_47: 5526160674086978406
+      mm910_megamanhelmet_48: -4372401540446491812
+      mm910_megamanhelmet_49: 7212629843028296645
+      mm910_megamanhelmet_5: 3131787186841132912
+      mm910_megamanhelmet_50: -1654302921544872508
+      mm910_megamanhelmet_51: -3110707143567699914
+      mm910_megamanhelmet_52: -3099470250016127787
+      mm910_megamanhelmet_53: -8871536208262001724
+      mm910_megamanhelmet_54: 8444679054841012377
+      mm910_megamanhelmet_55: -4626591331339283771
+      mm910_megamanhelmet_56: 9046164858277872657
+      mm910_megamanhelmet_57: -443775666400725837
+      mm910_megamanhelmet_58: 8671031179715636253
+      mm910_megamanhelmet_59: 7942593545381481412
+      mm910_megamanhelmet_6: 7472872751779876666
+      mm910_megamanhelmet_60: -9165575749594309248
+      mm910_megamanhelmet_61: 3200393394183057435
+      mm910_megamanhelmet_62: 4879202389815021865
+      mm910_megamanhelmet_63: -5336060793316435066
+      mm910_megamanhelmet_64: 1361897243137979723
+      mm910_megamanhelmet_65: 6387141415944989517
+      mm910_megamanhelmet_66: -4089820323492732809
+      mm910_megamanhelmet_67: -3189390475316850749
+      mm910_megamanhelmet_68: -8907985422557129964
+      mm910_megamanhelmet_69: -1433425378805039720
+      mm910_megamanhelmet_7: -1727119669388190627
+      mm910_megamanhelmet_70: 390210450780136818
+      mm910_megamanhelmet_71: 3050138922437086512
+      mm910_megamanhelmet_72: 1394982671886467015
+      mm910_megamanhelmet_73: 2637409388612671316
+      mm910_megamanhelmet_74: -1091645769302785879
+      mm910_megamanhelmet_75: 6332206857637885401
+      mm910_megamanhelmet_76: -7196771961590043774
+      mm910_megamanhelmet_77: -4344576605893509145
+      mm910_megamanhelmet_78: -8204230130952952781
+      mm910_megamanhelmet_79: 9025738449591819743
+      mm910_megamanhelmet_8: -3370077029816269837
+      mm910_megamanhelmet_80: -5961008506947215939
+      mm910_megamanhelmet_81: -7924809584415726938
+      mm910_megamanhelmet_82: -1102759362411693221
+      mm910_megamanhelmet_83: -5738526794369926058
+      mm910_megamanhelmet_84: 6284471373853046663
+      mm910_megamanhelmet_85: 4292207471851011782
+      mm910_megamanhelmet_86: 4425939949933665821
+      mm910_megamanhelmet_87: 6459793774515434707
+      mm910_megamanhelmet_88: -8886351323629591445
+      mm910_megamanhelmet_89: 1401559110642894374
+      mm910_megamanhelmet_9: 3046009728667362027
+      mm910_megamanhelmet_90: -6141944334851959853
+      mm910_megamanhelmet_91: 653660527349805628
+      mm910_megamanhelmet_92: 385162554119054751
+      mm910_megamanhelmet_93: -7472022839895626453
+      mm910_megamanhelmet_94: 7474351585201911143
+      mm910_megamanhelmet_95: -522425239845948498
+      mm910_megamanhelmet_96: -1240892308996323811
+      mm910_megamanhelmet_97: 194377568795505103
+      mm910_megamanhelmet_98: -7511308385256045622
+      mm910_megamanhelmet_99: 5215812350466022223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

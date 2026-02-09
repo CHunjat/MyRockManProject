@@ -1,26 +1,30 @@
 using UnityEngine;
-using UnityEngine.InputSystem; // ���� �Է� �ʼ�
+using UnityEngine.InputSystem;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
-    [Header("애니메이션 파라미터 업데이트")]
+    [Header("이동 및 점프 설정")]
     public float moveSpeed = 7f;
     public float jumpForce = 14f;
 
     [Header("공격 설정")]
-    public float shootDelay = 0.3f; // 공격 간격 (0.2초 정도가 적당)
+    public float shootDelay = 0.5f; // 연타 간격
+    public float shootPoseDuration = 0.4f; // 사격 포즈 유지 시간
     private float lastShootTime;
 
     [Header("땅체크 설정")]
-    public Transform groundCheck; // �߹� ��ġ (�� ������Ʈ)
+    public Transform groundCheck;
     public float groundCheckRadius = 0.1f;
-    public LayerMask groundLayer; // Ground ���̾� ���� �ʿ�
+    public LayerMask groundLayer;
 
     private Rigidbody2D rb;
     private float moveInput;
     private bool isGrounded;
 
     private Animator anim;
+    private Coroutine shootRoutine;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -51,36 +55,45 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
-        // 5. 공격
-        if (keyboard.cKey.wasPressedThisFrame) // 키를 누른 그 순간에만 실행
+
+        // 5. 공격 (지상/공중 통합)
+        if (keyboard.cKey.wasPressedThisFrame)
         {
+            // 실제 사격 간격 체크
             if (Time.time - lastShootTime > shootDelay)
             {
-                lastShootTime = Time.time; // 현재 시간 기록
-
+                lastShootTime = Time.time;
                 Shoot();
-                anim.ResetTrigger("atShoot");
-                anim.SetTrigger("atShoot");
+
+                // 이미 실행 중인 코루틴이 있다면 멈추고 새로 시작 (연타 시 포즈 유지 시간 갱신)
+                if (shootRoutine != null) StopCoroutine(shootRoutine);
+                shootRoutine = StartCoroutine(ShootStopTimer());
             }
         }
 
-        bool isActuallyMoving = moveInput != 0;
-        bool isCKeyHeld = keyboard.cKey.isPressed;
-
-        // 이동 중이거나, C키를 누르고 있는 동안에는 isMoving을 true로 고정
-        //anim.SetBool("isMoving", isActuallyMoving || isCKeyHeld);
-        //anim.SetBool("isGrounded", isGrounded);
-
-
-        // 이동 중인지 여부 (속도의 절대값이 0보다 크면 걷는 중)
+        // 6. 애니메이터 파라미터 업데이트
         anim.SetBool("isMoving", moveInput != 0);
-
-        // 바닥에 있는지 여부 전달
         anim.SetBool("isGrounded", isGrounded);
+        // isShooting은 코루틴에서 별도로 제어됩니다.
     }
+
+    // 사격 상태를 일정 시간 유지해주는 코루틴
+    IEnumerator ShootStopTimer()
+    {
+        // 사격 애니메이션 On
+        anim.SetBool("isShooting", true);
+
+        // 이 시간 동안은 애니메이션이 '사격' 상태를 유지합니다.
+        yield return new WaitForSeconds(shootPoseDuration);
+
+        // 시간 종료 후 사격 애니메이션 Off (다시 일반 걷기/점프 모션으로 복귀)
+        anim.SetBool("isShooting", false);
+        shootRoutine = null;
+    }
+
     void Shoot()
     {
         Debug.Log("총뿅뿅!");
-       
+        // 여기에 실제 총알 생성 코드를 넣으세요.
     }
 }

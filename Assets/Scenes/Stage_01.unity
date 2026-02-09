@@ -434,7 +434,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   moveSpeed: 2.1
   jumpForce: 5
-  shootDelay: 0.2
+  shootDelay: 0.5
+  shootPoseDuration: 0.4
   groundCheck: {fileID: 5080203}
   groundCheckRadius: 0.2
   groundLayer:
