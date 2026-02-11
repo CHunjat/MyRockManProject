@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
+using Unity.Mathematics;
 
 public class PlayerController : MonoBehaviour
 {
@@ -16,15 +17,28 @@ public class PlayerController : MonoBehaviour
     private Vector2 originalOffset;
     private Vector2 originalSize;
 
-    [Header("슬라이딩 콜라이더 조절 (인스펙터에서 맞추세요)")]
-    [SerializeField] private float slideSizeY = 1.0f;    // 슬라이딩 시 캡슐 높이
-    [SerializeField] private float slideOffsetY = -0.5f; // 슬라이딩 시 캡슐 중심점(Y)
+    [Header("슬라이딩 콜라이더 조절")]
+    [SerializeField] private float slideSizeY = 1.0f;
+    [SerializeField] private float slideOffsetY = -0.5f;
 
     [Header("사격 설정")]
     public float shootDelay = 0.15f;
-    public float shootPoseDuration = 0.4f;
+    public float shootPoseDuration = 0.4f; // 팔 뻗고 있는 시간
     private float lastShootTime;
     private float shootTimer = 0f;
+
+    [Header("차지 샷 설정")]
+    public GameObject mediumShotPrefab;
+    public GameObject chargeShotPrefab;
+    public float fullChargeTime = 1.2f;
+
+    [SerializeField] private float chargeTimer = 0f;
+    private bool isCharging = false;
+
+    [Header("차지 시각 효과 (색상)")]
+    public Color mediumColor = Color.yellow;
+    public Color fullChargeColor = Color.cyan;
+    public float FlashSpeedValue = 20f;
 
     [Header("피격 및 무적")]
     public int health = 3;
@@ -62,7 +76,6 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
 
-        // 슬라이딩 시 콜라이더 크기 조절을 위한 초기값 저장
         myCol = GetComponent<CapsuleCollider2D>();
         if (myCol != null)
         {
@@ -78,7 +91,7 @@ public class PlayerController : MonoBehaviour
         var keyboard = Keyboard.current;
         if (keyboard == null) return;
 
-        // 1. 이동 (슬라이딩 중에는 방향 전환 및 이동 입력 잠금)
+        // 1. 이동
         if (!isSliding)
         {
             moveInput = 0;
@@ -93,27 +106,43 @@ public class PlayerController : MonoBehaviour
         // 2. 지면 체크 및 점프
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-        // 점프 시 슬라이딩 즉시 종료
         if (keyboard.xKey.wasPressedThisFrame && isGrounded)
         {
             if (isSliding) StopSlide();
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
-        // 3. 사격 로직 (C키)
+        // 3. 차지 및 사격 통합 로직
+        // 차징 시작
         if (keyboard.cKey.wasPressedThisFrame && !isSliding)
         {
-            if (CanShoot())
-            {
-                lastShootTime = Time.time;
-                OnShoot();
-                shootTimer = shootPoseDuration;
-                if (shootRoutine == null)
-                    shootRoutine = StartCoroutine(ShootStopTimer());
-            }
+            isCharging = true;
+            chargeTimer = 0f;
         }
 
-        // 4. 슬라이딩 로직 (Z키)
+        // 차징 중
+        if (keyboard.cKey.isPressed && isCharging && !isSliding)
+        {
+            chargeTimer += Time.deltaTime;
+            float flashing = Mathf.PingPong(Time.time * FlashSpeedValue, 1f);
+
+            if (chargeTimer >= fullChargeTime)
+                sr.color = Color.Lerp(fullChargeColor, Color.blue, flashing);
+            else if (chargeTimer >= fullChargeTime / 2) 
+                sr.color = Color.Lerp(mediumColor, Color.cyan, flashing);
+        }
+
+        // 발사 (차지 샷 또는 일반 샷 결정)
+        if (keyboard.cKey.wasReleasedThisFrame && isCharging)
+        {
+            HandheldChargeShot();
+
+            isCharging = false;
+            chargeTimer = 0f;
+            sr.color = Color.white;
+        }
+
+        // 4. 슬라이딩
         if (keyboard.zKey.wasPressedThisFrame && isGrounded && !isSliding)
         {
             slideRoutine = StartCoroutine(SlideRoutine());
@@ -122,14 +151,51 @@ public class PlayerController : MonoBehaviour
         UpdateAnimations();
     }
 
+    void HandheldChargeShot()
+    {
+        Transform target = isGrounded ? shootPoint : jumpShootPoint;
+        float direction = transform.localScale.x;
+
+        // [핵심] 차지 단계에 상관없이 쏘는 순간 애니메이션 타이머를 작동시킴
+        if (chargeTimer >= fullChargeTime)
+        {
+            // 3단계
+            GameObject shot = Instantiate(chargeShotPrefab, target.position, Quaternion.identity);
+            if (direction < 0) shot.transform.rotation = Quaternion.Euler(0, 180, 0);
+            StartShootAnimation();
+        }
+        else if (chargeTimer >= fullChargeTime / 2)
+        {
+            // 2단계
+            GameObject mediumBullet = Instantiate(mediumShotPrefab, target.position, Quaternion.identity);
+            if (direction < 0) mediumBullet.transform.rotation = Quaternion.Euler(0, 180, 0);
+            StartShootAnimation();
+        }
+        else
+        {
+            // 1단계 (일반 사격)
+            if (CanShoot())
+            {
+                OnShoot();
+                StartShootAnimation();
+            }
+        }
+    }
+
+    // 애니메이션을 위해 타이머를 세팅하고 코루틴을 돌리는 공통 함수
+    void StartShootAnimation()
+    {
+        lastShootTime = Time.time;
+        shootTimer = shootPoseDuration; // 이 값을 0보다 크게 만들어야 UpdateAnimations에서 인식함
+        if (shootRoutine != null) StopCoroutine(shootRoutine);
+        shootRoutine = StartCoroutine(ShootStopTimer());
+    }
+
     IEnumerator SlideRoutine()
     {
         isSliding = true;
         anim.SetBool("isSliding", true);
-
-        // 콜라이더 높이 절반으로 축소
         myCol.size = new Vector2(originalSize.x, originalSize.y * 0.5f);
-        //myCol.offset = new Vector2(originalOffset.x, originalOffset.y - (originalSize.y * 0.25f));
 
         float slideDir = transform.localScale.x > 0 ? 1f : -1f;
         float timer = 0f;
@@ -137,9 +203,7 @@ public class PlayerController : MonoBehaviour
         while (timer < slideDuration)
         {
             timer += Time.deltaTime;
-            // 슬라이딩 중 피격 시 즉시 중단
             if (isHitted) break;
-
             rb.linearVelocity = new Vector2(slideDir * slideSpeed, rb.linearVelocity.y);
             yield return null;
         }
@@ -150,11 +214,8 @@ public class PlayerController : MonoBehaviour
     void StopSlide()
     {
         if (slideRoutine != null) { StopCoroutine(slideRoutine); slideRoutine = null; }
-
         isSliding = false;
         anim.SetBool("isSliding", false);
-
-        // 콜라이더 복구
         myCol.size = originalSize;
         myCol.offset = originalOffset;
     }
@@ -168,19 +229,24 @@ public class PlayerController : MonoBehaviour
     void UpdateAnimations()
     {
         if (isHitted) return;
-        anim.SetBool("isMoving", Mathf.Abs(moveInput) > 0.01f);
+
+        bool isMoving = Mathf.Abs(moveInput) > 0.01f && !isSliding;
+        bool isShooting = shootTimer > 0; // shootTimer가 돌아가고 있어야 true가 됨
+
+        anim.SetBool("isMoving", isMoving);
         anim.SetBool("isGrounded", isGrounded);
+        anim.SetBool("isShooting", isShooting);
     }
 
     IEnumerator ShootStopTimer()
     {
-        anim.SetBool("isShooting", true);
+        // UpdateAnimations가 isShooting을 true로 인식하도록 shootTimer를 깎는 루프
         while (shootTimer > 0)
         {
             shootTimer -= Time.deltaTime;
             yield return null;
         }
-        anim.SetBool("isShooting", false);
+        shootTimer = 0;
         shootRoutine = null;
     }
 
@@ -202,10 +268,8 @@ public class PlayerController : MonoBehaviour
     public void TakeDamage(int damage, Vector2 enemyPos)
     {
         if (isSliding) StopSlide();
-
         health -= damage;
         shootTimer = 0;
-        anim.SetBool("isShooting", false);
         if (shootRoutine != null) { StopCoroutine(shootRoutine); shootRoutine = null; }
 
         isInvincible = true;
