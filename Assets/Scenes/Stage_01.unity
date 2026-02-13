@@ -1747,7 +1747,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1089243259
 Transform:
   m_ObjectHideFlags: 0
@@ -3261,6 +3261,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 431552071982681976, guid: cb5f8af7544109642b54b620fe943013, type: 3}
+      propertyPath: m_SleepingMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431552071982681976, guid: cb5f8af7544109642b54b620fe943013, type: 3}
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
@@ -3286,7 +3290,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 918968340482609878, guid: cb5f8af7544109642b54b620fe943013, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1216488815004216212, guid: cb5f8af7544109642b54b620fe943013, type: 3}
       propertyPath: m_LocalScale.z
