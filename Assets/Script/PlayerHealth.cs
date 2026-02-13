@@ -17,7 +17,7 @@ public class PlayerHealth : MonoBehaviour
     public float flashSpeed = 0.08f;
 
     private bool isInvincible = false;
-    public bool IsHitted { get; private set; } // Controller에서 참조 가능
+    public bool IsHitted { get; private set; }
 
     private Rigidbody2D rb;
     private Animator anim;
@@ -35,34 +35,82 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-        // UI 초기화
         if (UIManager.instance != null)
             UIManager.instance.UpdateHP(currentHealth, maxHealth);
     }
 
-    // 피격 로직
+    // --- [피격 처리 핵심 로직] ---
+
+    // 1. 트리거 진입 시 (몸체에 닿거나 총알이 트리거일 때)
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // 1. 어떤 레이어든, 어떤 태그든 '물리적 영역'에 닿기만 하면 무조건 찍혀야 함
+        Debug.Log("<color=red>물리적 접촉 발생!</color> 대상: " + collision.name);
+
+        if (collision.CompareTag("Enemy"))
+        {
+            Debug.Log("<color=green>태그 인식 성공: Enemy</color>");
+            TakeDamage(3, collision.transform.position);
+        }
+    }
+
+    // 2. 트리거 체류 시 (적 몸 안에서 무적이 풀리는 즉시 다시 맞게 함)
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        HandleDamageLogic(collision.gameObject, collision.transform.position);
+    }
+
+    // [데미지 판정 공통 함수]
+    private void HandleDamageLogic(GameObject obj, Vector2 contactPos)
+    {
+        // 무적 상태면 무시
+        if (isInvincible) return;
+
+        // 적 몸체(Enemy) 혹은 적 총알(EnemyBullet) 태그 확인
+        if (obj.CompareTag("Enemy") || obj.CompareTag("EnemyBullet"))
+        {
+            // 디버그 로그: 어떤 물체와 닿았는지 콘솔창에 표시
+            Debug.Log("피격 감지! 대상: " + obj.name + " | 태그: " + obj.tag);
+
+            // 데미지 수치 결정 (총알은 2, 몸빵은 3)
+            int damage = obj.CompareTag("EnemyBullet") ? 2 : 3;
+
+            // 피격 함수 호출
+            TakeDamage(damage, contactPos);
+
+            // 총알이었다면 제거
+            if (obj.CompareTag("EnemyBullet"))
+            {
+                Destroy(obj);
+            }
+        }
+    }
+
+    // --- [기존 피격 시스템] ---
+
     public void TakeDamage(int damage, Vector2 enemyPos)
     {
         if (isInvincible) return;
 
-        // 슬라이딩 중 피격 시 슬라이딩 중단
-        playerController.StopSlide();
+        if (playerController != null)
+        {
+            playerController.StopSlide();
+            playerController.firePending = false;
+            playerController.ResetChargeStatus();
+        }
 
         currentHealth -= damage;
         if (currentHealth < 0) currentHealth = 0;
 
-        // UI 업데이트
         if (UIManager.instance != null)
             UIManager.instance.UpdateHP(currentHealth, maxHealth);
 
-        // 사망 체크
         if (currentHealth <= 0)
         {
             Die();
             return;
         }
 
-        // 넉백 및 무적 시작
         StartCoroutine(KnockbackRoutine(enemyPos));
     }
 
@@ -70,10 +118,13 @@ public class PlayerHealth : MonoBehaviour
     {
         IsHitted = true;
         isInvincible = true;
-        anim.SetBool("isInvincible", true);
-        anim.Play("Hit", 0, 0f);
 
-        // 넉백 방향 계산
+        if (anim != null)
+        {
+            anim.SetBool("isInvincible", true);
+            anim.Play("Hit", 0, 0f);
+        }
+
         float pushDir = transform.position.x < enemyPos.x ? -1f : 1f;
         rb.linearVelocity = Vector2.zero;
         rb.AddForce(new Vector2(pushDir * knockbackForceX, knockbackForceY), ForceMode2D.Impulse);
@@ -81,9 +132,8 @@ public class PlayerHealth : MonoBehaviour
         yield return new WaitForSeconds(knockbackDuration);
 
         IsHitted = false;
-        anim.SetBool("isInvincible", false);
+        if (anim != null) anim.SetBool("isInvincible", false);
 
-        // 무적 시간 동안 깜빡임
         float timer = 0;
         while (timer < (invincibilityTime - knockbackDuration))
         {
@@ -99,17 +149,5 @@ public class PlayerHealth : MonoBehaviour
     void Die()
     {
         Debug.Log("록맨 사망!");
-        // 여기에 사망 애니메이션이나 리로드 로직 추가
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision) => HandleCollision(collision);
-    private void OnCollisionStay2D(Collision2D collision) => HandleCollision(collision);
-
-    private void HandleCollision(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Enemy") && !isInvincible)
-        {
-            TakeDamage(1, collision.transform.position);
-        }
     }
 }

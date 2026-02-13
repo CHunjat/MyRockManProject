@@ -54,7 +54,7 @@ public class PlayerController : MonoBehaviour
     private float moveInput;
     private Coroutine shootRoutine;
     private Coroutine slideRoutine;
-    private bool firePending;
+    public bool firePending;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -184,7 +184,7 @@ public class PlayerController : MonoBehaviour
         shootRoutine = StartCoroutine(ShootStopTimer());
     }
 
-    void ResetChargeStatus()
+    public void ResetChargeStatus()
     {
         isCharging = false;
         firePending = false;

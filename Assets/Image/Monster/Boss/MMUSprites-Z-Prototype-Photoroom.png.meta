@@ -1,0 +1,2992 @@
+fileFormatVersion: 2
+guid: 4f870c2fe8134bf4baca322be7462143
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6145495417881505051
+    second: MMUSprites-Z-Prototype-Photoroom_0
+  - first:
+      213: -1199435903620053211
+    second: MMUSprites-Z-Prototype-Photoroom_1
+  - first:
+      213: 8035578754932637540
+    second: MMUSprites-Z-Prototype-Photoroom_2
+  - first:
+      213: -5411725304099375636
+    second: MMUSprites-Z-Prototype-Photoroom_3
+  - first:
+      213: -4376416892480524822
+    second: MMUSprites-Z-Prototype-Photoroom_4
+  - first:
+      213: -1394175011425770113
+    second: MMUSprites-Z-Prototype-Photoroom_5
+  - first:
+      213: -1302830709838600501
+    second: MMUSprites-Z-Prototype-Photoroom_6
+  - first:
+      213: 7569411332597016455
+    second: MMUSprites-Z-Prototype-Photoroom_7
+  - first:
+      213: 7747591301338930962
+    second: MMUSprites-Z-Prototype-Photoroom_8
+  - first:
+      213: 3868093157711066469
+    second: MMUSprites-Z-Prototype-Photoroom_9
+  - first:
+      213: -7381122226997341502
+    second: MMUSprites-Z-Prototype-Photoroom_10
+  - first:
+      213: 2998256488961698957
+    second: MMUSprites-Z-Prototype-Photoroom_11
+  - first:
+      213: 3736278266444688002
+    second: MMUSprites-Z-Prototype-Photoroom_12
+  - first:
+      213: -442024337414318670
+    second: MMUSprites-Z-Prototype-Photoroom_13
+  - first:
+      213: -3787897663379194795
+    second: MMUSprites-Z-Prototype-Photoroom_14
+  - first:
+      213: 361232605434901511
+    second: MMUSprites-Z-Prototype-Photoroom_15
+  - first:
+      213: -8019859888695241950
+    second: MMUSprites-Z-Prototype-Photoroom_16
+  - first:
+      213: -3764218119642394189
+    second: MMUSprites-Z-Prototype-Photoroom_17
+  - first:
+      213: 643375751661589635
+    second: MMUSprites-Z-Prototype-Photoroom_18
+  - first:
+      213: 9043506161247101103
+    second: MMUSprites-Z-Prototype-Photoroom_19
+  - first:
+      213: 2392484211667818367
+    second: MMUSprites-Z-Prototype-Photoroom_20
+  - first:
+      213: 3486649688647657961
+    second: MMUSprites-Z-Prototype-Photoroom_21
+  - first:
+      213: -5277290566292337681
+    second: MMUSprites-Z-Prototype-Photoroom_22
+  - first:
+      213: 2090822410362231854
+    second: MMUSprites-Z-Prototype-Photoroom_23
+  - first:
+      213: -3887395365481613202
+    second: MMUSprites-Z-Prototype-Photoroom_24
+  - first:
+      213: 4566647531205448181
+    second: MMUSprites-Z-Prototype-Photoroom_25
+  - first:
+      213: 89935200177823156
+    second: MMUSprites-Z-Prototype-Photoroom_26
+  - first:
+      213: -9195044644878299827
+    second: MMUSprites-Z-Prototype-Photoroom_27
+  - first:
+      213: -1741278706105119994
+    second: MMUSprites-Z-Prototype-Photoroom_28
+  - first:
+      213: 1177140327075480756
+    second: MMUSprites-Z-Prototype-Photoroom_29
+  - first:
+      213: 3923555675718739026
+    second: MMUSprites-Z-Prototype-Photoroom_30
+  - first:
+      213: 3710381383671483962
+    second: MMUSprites-Z-Prototype-Photoroom_31
+  - first:
+      213: -1369467696428510548
+    second: MMUSprites-Z-Prototype-Photoroom_32
+  - first:
+      213: 2171577582951976860
+    second: MMUSprites-Z-Prototype-Photoroom_33
+  - first:
+      213: 52720877241012904
+    second: MMUSprites-Z-Prototype-Photoroom_34
+  - first:
+      213: -4298628996339480101
+    second: MMUSprites-Z-Prototype-Photoroom_35
+  - first:
+      213: -4539040294157952846
+    second: MMUSprites-Z-Prototype-Photoroom_36
+  - first:
+      213: -6872419844746498746
+    second: MMUSprites-Z-Prototype-Photoroom_37
+  - first:
+      213: 1153559804652156464
+    second: MMUSprites-Z-Prototype-Photoroom_38
+  - first:
+      213: -5410190828537413314
+    second: MMUSprites-Z-Prototype-Photoroom_39
+  - first:
+      213: -3920996398929909872
+    second: MMUSprites-Z-Prototype-Photoroom_40
+  - first:
+      213: 1747630868613802519
+    second: MMUSprites-Z-Prototype-Photoroom_41
+  - first:
+      213: 7824906382797117411
+    second: MMUSprites-Z-Prototype-Photoroom_42
+  - first:
+      213: 8702271184528853412
+    second: MMUSprites-Z-Prototype-Photoroom_43
+  - first:
+      213: 5469570123428052548
+    second: MMUSprites-Z-Prototype-Photoroom_44
+  - first:
+      213: 9121276836388189806
+    second: MMUSprites-Z-Prototype-Photoroom_45
+  - first:
+      213: -426547758119546845
+    second: MMUSprites-Z-Prototype-Photoroom_46
+  - first:
+      213: 3537086598932649781
+    second: MMUSprites-Z-Prototype-Photoroom_47
+  - first:
+      213: 5240625230587710172
+    second: MMUSprites-Z-Prototype-Photoroom_48
+  - first:
+      213: -6782070319738017205
+    second: MMUSprites-Z-Prototype-Photoroom_49
+  - first:
+      213: -2318224834948301670
+    second: MMUSprites-Z-Prototype-Photoroom_50
+  - first:
+      213: -7496805793666795685
+    second: MMUSprites-Z-Prototype-Photoroom_51
+  - first:
+      213: -5454279208332176284
+    second: MMUSprites-Z-Prototype-Photoroom_52
+  - first:
+      213: 3966653379382651232
+    second: MMUSprites-Z-Prototype-Photoroom_53
+  - first:
+      213: 1609823942042038221
+    second: MMUSprites-Z-Prototype-Photoroom_54
+  - first:
+      213: -8322015739593502836
+    second: MMUSprites-Z-Prototype-Photoroom_55
+  - first:
+      213: -2260913363847108278
+    second: MMUSprites-Z-Prototype-Photoroom_56
+  - first:
+      213: 7133693894585885902
+    second: MMUSprites-Z-Prototype-Photoroom_57
+  - first:
+      213: 6478184321687999258
+    second: MMUSprites-Z-Prototype-Photoroom_58
+  - first:
+      213: -1392877860597572586
+    second: MMUSprites-Z-Prototype-Photoroom_59
+  - first:
+      213: -5800452351928143424
+    second: MMUSprites-Z-Prototype-Photoroom_60
+  - first:
+      213: -240706823642333739
+    second: MMUSprites-Z-Prototype-Photoroom_61
+  - first:
+      213: -3311379131471308657
+    second: MMUSprites-Z-Prototype-Photoroom_62
+  - first:
+      213: -1969915157279642284
+    second: MMUSprites-Z-Prototype-Photoroom_63
+  - first:
+      213: 7641794554811906475
+    second: MMUSprites-Z-Prototype-Photoroom_64
+  - first:
+      213: -8951051159785752112
+    second: MMUSprites-Z-Prototype-Photoroom_65
+  - first:
+      213: -4692748692341019536
+    second: MMUSprites-Z-Prototype-Photoroom_66
+  - first:
+      213: 9046031268967939185
+    second: MMUSprites-Z-Prototype-Photoroom_67
+  - first:
+      213: -7952517810164213591
+    second: MMUSprites-Z-Prototype-Photoroom_68
+  - first:
+      213: -7886551232969357272
+    second: MMUSprites-Z-Prototype-Photoroom_69
+  - first:
+      213: -4063953848828504591
+    second: MMUSprites-Z-Prototype-Photoroom_70
+  - first:
+      213: 203176016652978705
+    second: MMUSprites-Z-Prototype-Photoroom_71
+  - first:
+      213: 267881109611232501
+    second: MMUSprites-Z-Prototype-Photoroom_72
+  - first:
+      213: 2994816449966619252
+    second: MMUSprites-Z-Prototype-Photoroom_73
+  - first:
+      213: 736632186559374762
+    second: MMUSprites-Z-Prototype-Photoroom_74
+  - first:
+      213: -268243475121850094
+    second: MMUSprites-Z-Prototype-Photoroom_75
+  - first:
+      213: -3988982472797568205
+    second: MMUSprites-Z-Prototype-Photoroom_76
+  - first:
+      213: 7675421454315243641
+    second: MMUSprites-Z-Prototype-Photoroom_77
+  - first:
+      213: 7709235097815409089
+    second: MMUSprites-Z-Prototype-Photoroom_78
+  - first:
+      213: 2524393435221137831
+    second: MMUSprites-Z-Prototype-Photoroom_79
+  - first:
+      213: -8149169765250790518
+    second: MMUSprites-Z-Prototype-Photoroom_80
+  - first:
+      213: 8504884976010550383
+    second: MMUSprites-Z-Prototype-Photoroom_81
+  - first:
+      213: 1509733793046911297
+    second: MMUSprites-Z-Prototype-Photoroom_82
+  - first:
+      213: -4313638301395260751
+    second: MMUSprites-Z-Prototype-Photoroom_83
+  - first:
+      213: -5503882627054450624
+    second: MMUSprites-Z-Prototype-Photoroom_84
+  - first:
+      213: 7616686213112968786
+    second: MMUSprites-Z-Prototype-Photoroom_85
+  - first:
+      213: -8415783022594437273
+    second: MMUSprites-Z-Prototype-Photoroom_86
+  - first:
+      213: 8625402744726843979
+    second: MMUSprites-Z-Prototype-Photoroom_87
+  - first:
+      213: -7258183709806071254
+    second: MMUSprites-Z-Prototype-Photoroom_88
+  - first:
+      213: 8685811125175971108
+    second: MMUSprites-Z-Prototype-Photoroom_89
+  - first:
+      213: -3204864271376549906
+    second: MMUSprites-Z-Prototype-Photoroom_90
+  - first:
+      213: -7264662670024365550
+    second: MMUSprites-Z-Prototype-Photoroom_91
+  - first:
+      213: -528400344658175299
+    second: MMUSprites-Z-Prototype-Photoroom_92
+  - first:
+      213: 4464531980375118042
+    second: MMUSprites-Z-Prototype-Photoroom_93
+  - first:
+      213: 4948997702630067993
+    second: MMUSprites-Z-Prototype-Photoroom_94
+  - first:
+      213: -6230703840568223928
+    second: MMUSprites-Z-Prototype-Photoroom_95
+  - first:
+      213: -7375816214887632024
+    second: MMUSprites-Z-Prototype-Photoroom_96
+  - first:
+      213: -3418336960559540398
+    second: MMUSprites-Z-Prototype-Photoroom_97
+  - first:
+      213: 3555084090813360551
+    second: MMUSprites-Z-Prototype-Photoroom_98
+  - first:
+      213: 5742572532263795618
+    second: MMUSprites-Z-Prototype-Photoroom_99
+  - first:
+      213: -4947127168578189554
+    second: MMUSprites-Z-Prototype-Photoroom_100
+  - first:
+      213: -5853380540808933650
+    second: MMUSprites-Z-Prototype-Photoroom_101
+  - first:
+      213: 6517146902550028880
+    second: MMUSprites-Z-Prototype-Photoroom_102
+  - first:
+      213: 6456762925693530169
+    second: MMUSprites-Z-Prototype-Photoroom_103
+  - first:
+      213: -5689492688103763473
+    second: MMUSprites-Z-Prototype-Photoroom_104
+  - first:
+      213: 6932370327396489336
+    second: MMUSprites-Z-Prototype-Photoroom_105
+  - first:
+      213: -2461225787537431955
+    second: MMUSprites-Z-Prototype-Photoroom_106
+  - first:
+      213: 8481740852487537677
+    second: MMUSprites-Z-Prototype-Photoroom_107
+  - first:
+      213: 4389971914628039347
+    second: MMUSprites-Z-Prototype-Photoroom_108
+  - first:
+      213: 5866228048604189086
+    second: MMUSprites-Z-Prototype-Photoroom_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 800
+        width: 57
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d1684a70d6baa0800000000000000
+      internalID: -6145495417881505051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 800
+        width: 25
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52780e9866fba5fe0800000000000000
+      internalID: -1199435903620053211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 800
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f7f64ad4c148f60800000000000000
+      internalID: 8035578754932637540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 800
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5f92b2280b5e4b0800000000000000
+      internalID: -5411725304099375636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 800
+        width: 25
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aededa60608d343c0800000000000000
+      internalID: -4376416892480524822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 784
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ad39b635e6ace0800000000000000
+      internalID: -1394175011425770113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 784
+        width: 81
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a9914f5a6bede0800000000000000
+      internalID: -1302830709838600501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 728
+        width: 41
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e246a083fb0960800000000000000
+      internalID: 7569411332597016455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 728
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f96357d39f48b60800000000000000
+      internalID: 7747591301338930962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 728
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565bc7f9b3a3ea530800000000000000
+      internalID: 3868093157711066469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 728
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25510017cf09990800000000000000
+      internalID: -7381122226997341502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 728
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c621a2462fb9920800000000000000
+      internalID: 2998256488961698957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 728
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aa275a94de9d330800000000000000
+      internalID: 3736278266444688002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 728
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b59752053d9dd9f0800000000000000
+      internalID: -442024337414318670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 728
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c30c0f42fae6bc0800000000000000
+      internalID: -3787897663379194795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 732
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047c38042b530500800000000000000
+      internalID: 361232605434901511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 732
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2239ae91cebb3b090800000000000000
+      internalID: -8019859888695241950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 732
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b150a9509fc2cbc0800000000000000
+      internalID: -3764218119642394189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 680
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38493ee56dabde800800000000000000
+      internalID: 643375751661589635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 679
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a03960fcf08d70800000000000000
+      internalID: 9043506161247101103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 679
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77d03fe6bfc33120800000000000000
+      internalID: 2392484211667818367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 680
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9e1143b61136030800000000000000
+      internalID: 3486649688647657961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 679
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb00a3b03c43c6b0800000000000000
+      internalID: -5277290566292337681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 679
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c111297e7140d10800000000000000
+      internalID: 2090822410362231854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 680
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f7fae2823d0ac0800000000000000
+      internalID: -3887395365481613202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 664
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f15ae70cbdff5f30800000000000000
+      internalID: 4566647531205448181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 648
+        width: 32
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd176b86938f3100800000000000000
+      internalID: 89935200177823156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 632
+        width: 32
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dcb28ec93a46080800000000000000
+      internalID: -9195044644878299827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 616
+        width: 32
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b07a31e3cb5d7e0800000000000000
+      internalID: -1741278706105119994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 625
+        width: 42
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b40f1604ea065010800000000000000
+      internalID: 1177140327075480756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 612
+        width: 25
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254eea36915437630800000000000000
+      internalID: 3923555675718739026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 630
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e06f2c53ced7330800000000000000
+      internalID: 3710381383671483962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 630
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca29107c26caefce0800000000000000
+      internalID: -1369467696428510548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 630
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fcd026e4ef22e10800000000000000
+      internalID: 2171577582951976860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 630
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29238cb5d4bb000800000000000000
+      internalID: 52720877241012904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 630
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9cdf3f3b33854c0800000000000000
+      internalID: -4298628996339480101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 630
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d78db6e61201c0800000000000000
+      internalID: -4539040294157952846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 592
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d2a86109240a0a0800000000000000
+      internalID: -6872419844746498746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 592
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f57fc784420010800000000000000
+      internalID: 1153559804652156464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 591
+        width: 44
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3183f91b142be4b0800000000000000
+      internalID: -5410190828537413314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 591
+        width: 40
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097623cac82d599c0800000000000000
+      internalID: -3920996398929909872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 544
+        width: 34
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aab320405d04810800000000000000
+      internalID: 1747630868613802519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 544
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e71f43a5e6a79c60800000000000000
+      internalID: 7824906382797117411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 543
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c5f4298da4c870800000000000000
+      internalID: 8702271184528853412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 493
+        width: 109
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eb4095c01d7eb40800000000000000
+      internalID: 5469570123428052548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 493
+        width: 109
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66bae2c4f8459e70800000000000000
+      internalID: 9121276836388189806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 493
+        width: 109
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3209b8de219941af0800000000000000
+      internalID: -426547758119546845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 535
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537dc2d7581461130800000000000000
+      internalID: 3537086598932649781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 527
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda412691e07ab840800000000000000
+      internalID: 5240625230587710172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 528
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aab462afe31e1a0800000000000000
+      internalID: -6782070319738017205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 448
+        width: 49
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cfa6b8bc204dfd0800000000000000
+      internalID: -2318224834948301670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 448
+        width: 31
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b577666b9def5f790800000000000000
+      internalID: -7496805793666795685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 448
+        width: 26
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464df8145f18e44b0800000000000000
+      internalID: -5454279208332176284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 391
+        width: 8
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069a4397b326c0730800000000000000
+      internalID: 3966653379382651232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 407
+        width: 24
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfa558985e375610800000000000000
+      internalID: 1609823942042038221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 415
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fc15ad6c2428c80800000000000000
+      internalID: -8322015739593502836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49a5ff364f9f90e0800000000000000
+      internalID: -2260913363847108278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 392
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42a2b1dc8fff260800000000000000
+      internalID: 7133693894585885902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 344
+        width: 35
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13d7b3515227e950800000000000000
+      internalID: 6478184321687999258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 344
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c539f27f08bace0800000000000000
+      internalID: -1392877860597572586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 339
+        width: 20
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c17eba6157a08fa0800000000000000
+      internalID: -5800452351928143424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 339
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd39c15b66d8acf0800000000000000
+      internalID: -240706823642333739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 339
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d200793e9b02d0800000000000000
+      internalID: -3311379131471308657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 350
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d60bcf99479a4e0800000000000000
+      internalID: -1969915157279642284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 339
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f31ed8ab1d0a60800000000000000
+      internalID: 7641794554811906475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 339
+        width: 22
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d93f96156a77c380800000000000000
+      internalID: -8951051159785752112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 296
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca5d47de100eeb0800000000000000
+      internalID: -4692748692341019536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 294
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf8edd285f98d70800000000000000
+      internalID: 9046031268967939185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 295
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8d1379f2bf2a190800000000000000
+      internalID: -7952517810164213591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 295
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82841f730775d8290800000000000000
+      internalID: -7886551232969357272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 295
+        width: 34
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5def8918fe997c0800000000000000
+      internalID: -4063953848828504591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 297
+        width: 18
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aca7bb283d1d200800000000000000
+      internalID: 203176016652978705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 294
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc3a6c2374b7b300800000000000000
+      internalID: 267881109611232501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 280
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab1cba1b9bf8920800000000000000
+      internalID: 2994816449966619252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 280
+        width: 33
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5adf1221b093a00800000000000000
+      internalID: 736632186559374762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 280
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219bb080bf1074cf0800000000000000
+      internalID: -268243475121850094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 34
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33344a5539944a8c0800000000000000
+      internalID: -3988982472797568205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 255
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9784fd58523948a60800000000000000
+      internalID: 7675421454315243641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e247e974bcfa60800000000000000
+      internalID: 7709235097815409089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a91fab5472780320800000000000000
+      internalID: 2524393435221137831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 255
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b8fdf464558ee80800000000000000
+      internalID: -8149169765250790518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 255
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c5aaa23db670670800000000000000
+      internalID: 8504884976010550383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149d6f7c2e6a3f410800000000000000
+      internalID: 1509733793046911297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 279
+        width: 29
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae0dbc1d0e224c0800000000000000
+      internalID: -4313638301395260751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 216
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048c9f859e74e93b0800000000000000
+      internalID: -5503882627054450624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 216
+        width: 35
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b63281c7e3b960800000000000000
+      internalID: 7616686213112968786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 215
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fce7ffde1253b80800000000000000
+      internalID: -8415783022594437273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 219
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b427f14d81693b770800000000000000
+      internalID: 8625402744726843979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 171
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a227b761f50c54b90800000000000000
+      internalID: -7258183709806071254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 171
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42def3ee2333a8870800000000000000
+      internalID: 8685811125175971108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 171
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7724fdce80683d0800000000000000
+      internalID: -3204864271376549906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 191
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a282c9acbbe2b90800000000000000
+      internalID: -7264662670024365550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 38
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba9475afaebaa8f0800000000000000
+      internalID: -528400344658175299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad051aa9e2435fd30800000000000000
+      internalID: 4464531980375118042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f4d7b803f5ea440800000000000000
+      internalID: 4948997702630067993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d4426ed71889a0800000000000000
+      internalID: -6230703840568223928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 143
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8637e073b36d3a990800000000000000
+      internalID: -7375816214887632024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257924f35a0af80d0800000000000000
+      internalID: -3418336960559540398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 126
+        width: 39
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9a29b1522365130800000000000000
+      internalID: 3555084090813360551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 88
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abbf7aea47b1bf40800000000000000
+      internalID: 5742572532263795618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07863a1d06485bb0800000000000000
+      internalID: -4947127168578189554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 86
+        width: 40
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee46e1296d94cea0800000000000000
+      internalID: -5853380540808933650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052288b149e817a50800000000000000
+      internalID: 6517146902550028880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 88
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ffd8eba70b9950800000000000000
+      internalID: 6456762925693530169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 31
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1946d5b8cda01b0800000000000000
+      internalID: -5689492688103763473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 70
+        width: 86
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8781def551ab43060800000000000000
+      internalID: 6932370327396489336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62ecc5bf28f7ddd0800000000000000
+      internalID: -2461225787537431955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04407dfd5235b570800000000000000
+      internalID: 8481740852487537677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 20
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2885182305cec30800000000000000
+      internalID: 4389971914628039347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMUSprites-Z-Prototype-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 26
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915c706457096150800000000000000
+      internalID: 5866228048604189086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 040e91bf1741f3e49869f8d928164122
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MMUSprites-Z-Prototype-Photoroom_0: -6145495417881505051
+      MMUSprites-Z-Prototype-Photoroom_1: -1199435903620053211
+      MMUSprites-Z-Prototype-Photoroom_10: -7381122226997341502
+      MMUSprites-Z-Prototype-Photoroom_100: -4947127168578189554
+      MMUSprites-Z-Prototype-Photoroom_101: -5853380540808933650
+      MMUSprites-Z-Prototype-Photoroom_102: 6517146902550028880
+      MMUSprites-Z-Prototype-Photoroom_103: 6456762925693530169
+      MMUSprites-Z-Prototype-Photoroom_104: -5689492688103763473
+      MMUSprites-Z-Prototype-Photoroom_105: 6932370327396489336
+      MMUSprites-Z-Prototype-Photoroom_106: -2461225787537431955
+      MMUSprites-Z-Prototype-Photoroom_107: 8481740852487537677
+      MMUSprites-Z-Prototype-Photoroom_108: 4389971914628039347
+      MMUSprites-Z-Prototype-Photoroom_109: 5866228048604189086
+      MMUSprites-Z-Prototype-Photoroom_11: 2998256488961698957
+      MMUSprites-Z-Prototype-Photoroom_12: 3736278266444688002
+      MMUSprites-Z-Prototype-Photoroom_13: -442024337414318670
+      MMUSprites-Z-Prototype-Photoroom_14: -3787897663379194795
+      MMUSprites-Z-Prototype-Photoroom_15: 361232605434901511
+      MMUSprites-Z-Prototype-Photoroom_16: -8019859888695241950
+      MMUSprites-Z-Prototype-Photoroom_17: -3764218119642394189
+      MMUSprites-Z-Prototype-Photoroom_18: 643375751661589635
+      MMUSprites-Z-Prototype-Photoroom_19: 9043506161247101103
+      MMUSprites-Z-Prototype-Photoroom_2: 8035578754932637540
+      MMUSprites-Z-Prototype-Photoroom_20: 2392484211667818367
+      MMUSprites-Z-Prototype-Photoroom_21: 3486649688647657961
+      MMUSprites-Z-Prototype-Photoroom_22: -5277290566292337681
+      MMUSprites-Z-Prototype-Photoroom_23: 2090822410362231854
+      MMUSprites-Z-Prototype-Photoroom_24: -3887395365481613202
+      MMUSprites-Z-Prototype-Photoroom_25: 4566647531205448181
+      MMUSprites-Z-Prototype-Photoroom_26: 89935200177823156
+      MMUSprites-Z-Prototype-Photoroom_27: -9195044644878299827
+      MMUSprites-Z-Prototype-Photoroom_28: -1741278706105119994
+      MMUSprites-Z-Prototype-Photoroom_29: 1177140327075480756
+      MMUSprites-Z-Prototype-Photoroom_3: -5411725304099375636
+      MMUSprites-Z-Prototype-Photoroom_30: 3923555675718739026
+      MMUSprites-Z-Prototype-Photoroom_31: 3710381383671483962
+      MMUSprites-Z-Prototype-Photoroom_32: -1369467696428510548
+      MMUSprites-Z-Prototype-Photoroom_33: 2171577582951976860
+      MMUSprites-Z-Prototype-Photoroom_34: 52720877241012904
+      MMUSprites-Z-Prototype-Photoroom_35: -4298628996339480101
+      MMUSprites-Z-Prototype-Photoroom_36: -4539040294157952846
+      MMUSprites-Z-Prototype-Photoroom_37: -6872419844746498746
+      MMUSprites-Z-Prototype-Photoroom_38: 1153559804652156464
+      MMUSprites-Z-Prototype-Photoroom_39: -5410190828537413314
+      MMUSprites-Z-Prototype-Photoroom_4: -4376416892480524822
+      MMUSprites-Z-Prototype-Photoroom_40: -3920996398929909872
+      MMUSprites-Z-Prototype-Photoroom_41: 1747630868613802519
+      MMUSprites-Z-Prototype-Photoroom_42: 7824906382797117411
+      MMUSprites-Z-Prototype-Photoroom_43: 8702271184528853412
+      MMUSprites-Z-Prototype-Photoroom_44: 5469570123428052548
+      MMUSprites-Z-Prototype-Photoroom_45: 9121276836388189806
+      MMUSprites-Z-Prototype-Photoroom_46: -426547758119546845
+      MMUSprites-Z-Prototype-Photoroom_47: 3537086598932649781
+      MMUSprites-Z-Prototype-Photoroom_48: 5240625230587710172
+      MMUSprites-Z-Prototype-Photoroom_49: -6782070319738017205
+      MMUSprites-Z-Prototype-Photoroom_5: -1394175011425770113
+      MMUSprites-Z-Prototype-Photoroom_50: -2318224834948301670
+      MMUSprites-Z-Prototype-Photoroom_51: -7496805793666795685
+      MMUSprites-Z-Prototype-Photoroom_52: -5454279208332176284
+      MMUSprites-Z-Prototype-Photoroom_53: 3966653379382651232
+      MMUSprites-Z-Prototype-Photoroom_54: 1609823942042038221
+      MMUSprites-Z-Prototype-Photoroom_55: -8322015739593502836
+      MMUSprites-Z-Prototype-Photoroom_56: -2260913363847108278
+      MMUSprites-Z-Prototype-Photoroom_57: 7133693894585885902
+      MMUSprites-Z-Prototype-Photoroom_58: 6478184321687999258
+      MMUSprites-Z-Prototype-Photoroom_59: -1392877860597572586
+      MMUSprites-Z-Prototype-Photoroom_6: -1302830709838600501
+      MMUSprites-Z-Prototype-Photoroom_60: -5800452351928143424
+      MMUSprites-Z-Prototype-Photoroom_61: -240706823642333739
+      MMUSprites-Z-Prototype-Photoroom_62: -3311379131471308657
+      MMUSprites-Z-Prototype-Photoroom_63: -1969915157279642284
+      MMUSprites-Z-Prototype-Photoroom_64: 7641794554811906475
+      MMUSprites-Z-Prototype-Photoroom_65: -8951051159785752112
+      MMUSprites-Z-Prototype-Photoroom_66: -4692748692341019536
+      MMUSprites-Z-Prototype-Photoroom_67: 9046031268967939185
+      MMUSprites-Z-Prototype-Photoroom_68: -7952517810164213591
+      MMUSprites-Z-Prototype-Photoroom_69: -7886551232969357272
+      MMUSprites-Z-Prototype-Photoroom_7: 7569411332597016455
+      MMUSprites-Z-Prototype-Photoroom_70: -4063953848828504591
+      MMUSprites-Z-Prototype-Photoroom_71: 203176016652978705
+      MMUSprites-Z-Prototype-Photoroom_72: 267881109611232501
+      MMUSprites-Z-Prototype-Photoroom_73: 2994816449966619252
+      MMUSprites-Z-Prototype-Photoroom_74: 736632186559374762
+      MMUSprites-Z-Prototype-Photoroom_75: -268243475121850094
+      MMUSprites-Z-Prototype-Photoroom_76: -3988982472797568205
+      MMUSprites-Z-Prototype-Photoroom_77: 7675421454315243641
+      MMUSprites-Z-Prototype-Photoroom_78: 7709235097815409089
+      MMUSprites-Z-Prototype-Photoroom_79: 2524393435221137831
+      MMUSprites-Z-Prototype-Photoroom_8: 7747591301338930962
+      MMUSprites-Z-Prototype-Photoroom_80: -8149169765250790518
+      MMUSprites-Z-Prototype-Photoroom_81: 8504884976010550383
+      MMUSprites-Z-Prototype-Photoroom_82: 1509733793046911297
+      MMUSprites-Z-Prototype-Photoroom_83: -4313638301395260751
+      MMUSprites-Z-Prototype-Photoroom_84: -5503882627054450624
+      MMUSprites-Z-Prototype-Photoroom_85: 7616686213112968786
+      MMUSprites-Z-Prototype-Photoroom_86: -8415783022594437273
+      MMUSprites-Z-Prototype-Photoroom_87: 8625402744726843979
+      MMUSprites-Z-Prototype-Photoroom_88: -7258183709806071254
+      MMUSprites-Z-Prototype-Photoroom_89: 8685811125175971108
+      MMUSprites-Z-Prototype-Photoroom_9: 3868093157711066469
+      MMUSprites-Z-Prototype-Photoroom_90: -3204864271376549906
+      MMUSprites-Z-Prototype-Photoroom_91: -7264662670024365550
+      MMUSprites-Z-Prototype-Photoroom_92: -528400344658175299
+      MMUSprites-Z-Prototype-Photoroom_93: 4464531980375118042
+      MMUSprites-Z-Prototype-Photoroom_94: 4948997702630067993
+      MMUSprites-Z-Prototype-Photoroom_95: -6230703840568223928
+      MMUSprites-Z-Prototype-Photoroom_96: -7375816214887632024
+      MMUSprites-Z-Prototype-Photoroom_97: -3418336960559540398
+      MMUSprites-Z-Prototype-Photoroom_98: 3555084090813360551
+      MMUSprites-Z-Prototype-Photoroom_99: 5742572532263795618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
