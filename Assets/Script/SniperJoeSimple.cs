@@ -35,7 +35,13 @@ public class SniperJoeSimple : MonoBehaviour
     {
         // 플레이어 방향에 따라 좌우 반전
         float dir = player.position.x - transform.position.x;
-        transform.localScale = new Vector3(dir > 0 ? -1 : 1, 1, 1);
+
+
+        // 현재 인스펙터 창의 스케일의 크기(절대값)를 가져옵니다.
+        float targetScaleX = Mathf.Abs(transform.localScale.x);
+        float targetScaleY = transform.localScale.y;
+        // dir > 0 이면 플레이어가 오른쪽에 있다는 뜻이므로, 조는 오른쪽을 보게 됩니다. (scale.x 양수)
+        transform.localScale = new Vector3(dir > 0 ? targetScaleX : targetScaleX, targetScaleY, 1);
     }
 
     IEnumerator AttackRoutine()

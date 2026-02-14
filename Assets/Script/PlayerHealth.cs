@@ -45,12 +45,15 @@ public class PlayerHealth : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // 1. 어떤 레이어든, 어떤 태그든 '물리적 영역'에 닿기만 하면 무조건 찍혀야 함
-        Debug.Log("<color=red>물리적 접촉 발생!</color> 대상: " + collision.name);
+        //Debug.Log("<color=red>물리적 접촉 발생!</color> 대상: " + collision.name);
 
         if (collision.CompareTag("Enemy"))
         {
-            Debug.Log("<color=green>태그 인식 성공: Enemy</color>");
-            TakeDamage(3, collision.transform.position);
+            Enemy enemy = collision.GetComponent<Enemy>();
+            if (enemy != null)
+            {
+                TakeDamage(enemy.contactDamage, collision.transform.position);
+            }
         }
     }
 

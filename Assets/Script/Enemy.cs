@@ -5,16 +5,18 @@ public class Enemy : MonoBehaviour
 {
     [Header("체력 설정")]
     public int health = 3;
+    public int contactDamage = 6; // 인스펙터에서 빅 조는 6으로 설정
 
-    private SpriteRenderer spriteRenderer;
-    private bool isInvincible = false; // 짧은 무적 시간 (연타 시 씹힘 방지)
+    protected SpriteRenderer spriteRenderer;
+    protected bool isInvincible = false; // 짧은 무적 시간 (연타 시 씹힘 방지)
 
-    void Start()
+    protected virtual void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+
     }
 
-    public void TakeDamage(int damage)
+    public virtual void TakeDamage(int damage)
     {
         if (isInvincible) return;
 
@@ -35,13 +37,18 @@ public class Enemy : MonoBehaviour
     IEnumerator FlashRoutine()
     {
         isInvincible = true;
+       
 
+        if (spriteRenderer == null) spriteRenderer = GetComponent<SpriteRenderer>();
         // 빨간색으로 깜빡이게 해서 피격 강조
-        spriteRenderer.color = Color.red;
-        yield return new WaitForSeconds(0.1f);
-
-        spriteRenderer.color = Color.white;
-        yield return new WaitForSeconds(0.1f);
+        if (spriteRenderer != null)
+        {
+            Color originalColor = spriteRenderer.color;
+            spriteRenderer.color = Color.red;
+            yield return new WaitForSeconds(0.1f);
+            spriteRenderer.color = originalColor;
+            yield return new WaitForSeconds(0.1f);
+        }
 
         isInvincible = false;
     }

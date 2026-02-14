@@ -19,7 +19,6 @@ public class TitleController : MonoBehaviour
 
     void Start()
     {
-        // 시작할 때 암전 이미지가 있으면 투명하게 만들고 켜둡니다.
         if (fadeOverlay != null)
         {
             Color c = fadeOverlay.color;

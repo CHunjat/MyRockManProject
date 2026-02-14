@@ -5,14 +5,14 @@ public class Bullet : MonoBehaviour
     [SerializeField]
     public float speed = 10f;
     [SerializeField]
-    public float lifeTiem = 1.1f; // 오타까지 형님 스타일대로 보존했습니다! (원래 LifeTime)
+    public float lifeTime = 1.1f; // 오타까지 형님 스타일대로 보존했습니다! (원래 LifeTime)
     [SerializeField]
     public int damage = 1; // 데미지 수치 추가
 
     private void Start()
     {
         // 시간이 지나면 삭제
-        Destroy(gameObject, lifeTiem);
+        Destroy(gameObject, lifeTime);
     }
 
     private void Update()
@@ -39,6 +39,8 @@ public class Bullet : MonoBehaviour
             }
 
             Destroy(gameObject);
+
+            //3 막아낼시 팅겨나감만들자 이펙트
         }
     }
 }
