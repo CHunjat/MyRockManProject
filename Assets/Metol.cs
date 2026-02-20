@@ -9,7 +9,6 @@ public class Metool : Enemy
 
     private bool isAwake = false;
     private Animator anim;
-    private Transform player;
     private float baseScaleX;
 
     protected override void Awake()

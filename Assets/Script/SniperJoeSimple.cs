@@ -1,20 +1,19 @@
 using UnityEngine;
 using System.Collections;
 
-public class SniperJoeSimple : MonoBehaviour
+public class SniperJoeSimple : Enemy
 {
     public float detectRange = 8f;
     public GameObject bulletPrefab; // 적 총알 프리팹
     public Transform firePoint;     // 총구 위치 (빈 오브젝트로 만들어 캡슐 자식으로 두세요)
 
-    private Transform player;
     private Animator anim;
     private bool isAttacking = false;
 
-    void Start()
+    protected override void Awake() // 부모의 Awake를 덮어씌움(Override)
     {
+        base.Awake(); // ★매우 중요: 이게 있어야 부모(Enemy)가 플레이어를 찾아옵니다!
         anim = GetComponent<Animator>();
-        player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
     void Update()
@@ -33,15 +32,20 @@ public class SniperJoeSimple : MonoBehaviour
 
     void FacePlayer()
     {
-        // 플레이어 방향에 따라 좌우 반전
+        if (player == null) return;
+
+        // 플레이어와의 상대적 위치 계산
         float dir = player.position.x - transform.position.x;
 
-
-        // 현재 인스펙터 창의 스케일의 크기(절대값)를 가져옵니다.
+        // 현재 스케일의 원래 크기(양수값)를 가져옵니다.
         float targetScaleX = Mathf.Abs(transform.localScale.x);
         float targetScaleY = transform.localScale.y;
-        // dir > 0 이면 플레이어가 오른쪽에 있다는 뜻이므로, 조는 오른쪽을 보게 됩니다. (scale.x 양수)
-        transform.localScale = new Vector3(dir > 0 ? targetScaleX : targetScaleX, targetScaleY, 1);
+
+        // [중요] dir > 0 (플레이어가 오른쪽)이면 마이너스 스케일, 아니면 플러스 스케일
+        // 만약 반대로 보고 있다면 -targetScaleX와 targetScaleX의 위치를 서로 바꾸세요!
+        float finalScaleX = dir > 0 ? -targetScaleX : targetScaleX;
+
+        transform.localScale = new Vector3(finalScaleX, targetScaleY, 1);
     }
 
     IEnumerator AttackRoutine()
