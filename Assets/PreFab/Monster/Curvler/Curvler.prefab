@@ -221,9 +221,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   health: 3
   contactDamage: 6
+  deathParticlePrefab: {fileID: 4203412651752774680, guid: 350a15c64f26bfc479a61eab63412830, type: 3}
   moveSpeed: 2
   chaseSpeed: 2
   waveFrequency: 4
   waveAmplitude: 1
+  detectionRange: 7
   bombPrefab: {fileID: 6860201448733226336, guid: a72a53f772b2e24489e0087bc0f620f2, type: 3}
   dropPoint: {fileID: 2822659536528257000}
+  patrolRange: 2
+  patrolSpeed: 2

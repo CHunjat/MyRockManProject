@@ -45,6 +45,9 @@ public class PlayerController : MonoBehaviour
     public Transform jumpShootPoint;
     public int maxBulletCount = 3;
 
+
+
+
     private Rigidbody2D rb;
     private Animator anim;
     private SpriteRenderer sr;
@@ -125,7 +128,7 @@ public class PlayerController : MonoBehaviour
         }
         else if (!isCharging)
         {
-            sr.color= Color.white;
+            sr.color = Color.white;
         }
 
         if (keyboard.cKey.wasReleasedThisFrame && isCharging)
@@ -143,12 +146,12 @@ public class PlayerController : MonoBehaviour
         }
 
         // 4. 슬라이딩
-       
+
 
         UpdateAnimations();
     }
 
-    
+
 
     void HandheldChargeShot()
     {
@@ -216,12 +219,12 @@ public class PlayerController : MonoBehaviour
     {
         isSliding = false;
         if (slideRoutine != null) { StopCoroutine(slideRoutine); slideRoutine = null; }
-    
+
         anim.SetBool("isSliding", false);
         myCol.size = originalSize;
         myCol.offset = originalOffset;
 
-        if(firePending && isCharging)
+        if (firePending && isCharging)
         {
             HandheldChargeShot();
             ResetChargeStatus();
@@ -265,4 +268,6 @@ public class PlayerController : MonoBehaviour
         GameObject bullet = Instantiate(bulletPrefab, target.position, Quaternion.identity);
         if (transform.localScale.x < 0) bullet.transform.rotation = Quaternion.Euler(0, 180, 0);
     }
+
+    
 }

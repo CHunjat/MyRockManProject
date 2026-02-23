@@ -160,6 +160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Metool
   health: 3
   contactDamage: 3
+  deathParticlePrefab: {fileID: 4203412651752774680, guid: 350a15c64f26bfc479a61eab63412830, type: 3}
   detectRange: 1.5
   moveSpeed: 1
 --- !u!58 &1238205866164424819

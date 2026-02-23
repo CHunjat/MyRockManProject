@@ -16,6 +16,10 @@ public class PlayerHealth : MonoBehaviour
     public float invincibilityTime = 1.5f;
     public float flashSpeed = 0.08f;
 
+
+    [Header("죽음")]
+    public GameObject deathBallprefab;
+
     private bool isInvincible = false;
     public bool IsHitted { get; private set; }
 
@@ -73,7 +77,7 @@ public class PlayerHealth : MonoBehaviour
         if (obj.CompareTag("Enemy") || obj.CompareTag("EnemyBullet"))
         {
             // 디버그 로그: 어떤 물체와 닿았는지 콘솔창에 표시
-            Debug.Log("피격 감지! 대상: " + obj.name + " | 태그: " + obj.tag);
+            //Debug.Log("피격 감지! 대상: " + obj.name + " | 태그: " + obj.tag);
 
             // 데미지 수치 결정 (총알은 2, 몸빵은 3)
             int damage = obj.CompareTag("EnemyBullet") ? 2 : 3;
@@ -149,8 +153,31 @@ public class PlayerHealth : MonoBehaviour
         isInvincible = false;
     }
 
-    void Die()
+    public void Die()
     {
-        Debug.Log("록맨 사망!");
+        Vector2[] directions =
+        {
+            Vector2.up,
+            Vector2.down,
+            Vector2.left,
+            Vector2.right,
+            new Vector2(1, 1),
+            new Vector2(1, -1),
+            new Vector2(-1, 1),
+            new Vector2(-1, -1)
+        };
+
+        foreach (Vector2 dir in directions)
+        {
+            GameObject ball = Instantiate(deathBallprefab, transform.position, Quaternion.identity);
+            ball.GetComponent<DeathBall>().SetDirection(dir);
+            //반짝거리는 연출 추가
+                
+
+        }
+
+        gameObject.SetActive(false);
+
+        Debug.Log("록맨 사망: 데스 볼 연출 실행");
     }
 }

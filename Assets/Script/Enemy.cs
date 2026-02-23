@@ -7,7 +7,7 @@ public class Enemy : MonoBehaviour
     public int health = 3;
     public int contactDamage = 6; // 인스펙터에서 빅 조는 6으로 설정
 
-
+    public GameObject deathParticlePrefab; // 아까 만든 EnemyExplosion 프리팹 연결
     protected Transform player;
     protected SpriteRenderer spriteRenderer;
     protected bool isInvincible = false; // 짧은 무적 시간 (연타 시 씹힘 방지)
@@ -64,9 +64,15 @@ public class Enemy : MonoBehaviour
         isInvincible = false;
     }
 
-    void Die()
+    protected virtual void Die()
     {
-        Debug.Log("적 처치 완료!");
+        // 1. 죽는 위치에 폭발 파티클 프리팹 소환
+        if (deathParticlePrefab != null)
+        {
+            Instantiate(deathParticlePrefab, transform.position, Quaternion.identity);
+        }
+
+        // 2. 몬스터 본체 파괴 (이제 파티클은 별개 오브젝트라 안 사라짐)
         Destroy(gameObject);
     }
 }

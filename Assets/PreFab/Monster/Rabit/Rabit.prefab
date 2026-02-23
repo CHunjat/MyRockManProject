@@ -328,7 +328,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   health: 10
-  contactDamage: 6
+  contactDamage: 5
+  deathParticlePrefab: {fileID: 4203412651752774680, guid: 350a15c64f26bfc479a61eab63412830, type: 3}
   jumpForceX: 5
   jumpForceY: 4
   jumpDelay: 2
