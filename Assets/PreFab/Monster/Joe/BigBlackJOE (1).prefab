@@ -88,7 +88,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7759652937952829629}
   - component: {fileID: 127621363642346400}
-  - component: {fileID: 1442495900071919388}
   - component: {fileID: 9129688489689728081}
   - component: {fileID: 5173887259827604743}
   - component: {fileID: 8789892089950524266}
@@ -176,21 +175,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &1442495900071919388
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5575141556342056007}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4762c8e5d3dcf640a2d6ab5e8812bb4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  health: 1
-  contactDamage: 15
-  deathParticlePrefab: {fileID: 4203412651752774680, guid: 350a15c64f26bfc479a61eab63412830, type: 3}
 --- !u!50 &9129688489689728081
 Rigidbody2D:
   serializedVersion: 5
@@ -230,11 +214,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09f76dad97ffe004f90b185c68f84b9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  health: 3
+  health: 1
   contactDamage: 6
   deathParticlePrefab: {fileID: 4203412651752774680, guid: 350a15c64f26bfc479a61eab63412830, type: 3}
   detectRange: 6
-  bulletPrefab: {fileID: 1770345380199440476, guid: 0f38475ca334192418b56b78e37f9bce, type: 3}
+  bulletPrefab: {fileID: 1770345380199440476, guid: 83b91e0e60a025940ba55d43b369b7ac, type: 3}
   firePoint: {fileID: 7507217616224914761}
 --- !u!95 &8789892089950524266
 Animator:
