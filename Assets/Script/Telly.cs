@@ -26,7 +26,6 @@ public class Telly : Enemy
         if (rb != null)
         {
             rb.gravityScale = 0;      // 공중 부양
-            rb.isKinematic = true;    // 벽 통과 및 스크립트 제어 이동
         }
 
         // 3. 플레이어 찾기
