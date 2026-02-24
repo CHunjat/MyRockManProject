@@ -2,27 +2,44 @@ using UnityEngine;
 
 public class SkullBomb : MonoBehaviour
 {
-    // 만약 trigger가 아니라 물리 충돌을 원하시면 OnCollisionEnter2D를 쓰세요.
-    // 여기서는 기존 코드(OnTriggerEnter2D)를 보강합니다.
+    public GameObject explosionEffect;
+    public int damage = 3;
+    private bool hasExploded = false;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log($"폭탄 충돌 발생: {collision.name}"); // 로그가 찍히는지 확인!
+        if (hasExploded) return;
 
         if (collision.CompareTag("Player"))
         {
-            // 록맨의 스크립트를 가져와서 데미지 주기
-            // collision.GetComponent<PlayerController>().TakeDamage(damage);
+            // [직접 맞는 경우]
+            PlayerHealth ph = collision.GetComponent<PlayerHealth>();
+            if (ph != null)
+            {
+                ph.TakeDamage(damage, transform.position);
+            }
             Explode();
         }
-        else if (collision.CompareTag("Wall"))
+        else if (collision.CompareTag("Wall") || collision.CompareTag("Ground"))
         {
+            // [벽이나 땅에 맞는 경우]
             Explode();
         }
     }
 
     void Explode()
     {
-        // 펑 터지는 이펙트 생성 로직 추가 가능
+        hasExploded = true;
+
+        // 폭탄의 콜라이더와 이미지를 즉시 꺼서 중복 충돌 방지
+        GetComponent<Collider2D>().enabled = false;
+
+        if (explosionEffect != null)
+        {
+            // 파티클 생성 (이 파티클 안에는 OnParticleCollision 스크립트가 있어야 함)
+            Instantiate(explosionEffect, transform.position, Quaternion.identity);
+        }
+
         Destroy(gameObject);
     }
 }

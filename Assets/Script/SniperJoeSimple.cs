@@ -58,7 +58,7 @@ public class SniperJoeSimple : Enemy
         // 3연발 쏘기
         for (int i = 0; i < 3; i++)
         {
-            anim.SetTrigger("attack"); // Shoot 자세로!
+            anim.SetTrigger("Attack"); // Shoot 자세로!
             Fire();
             yield return new WaitForSeconds(0.3f);
         }
