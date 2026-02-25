@@ -27,6 +27,11 @@ public class Enemy : MonoBehaviour
 
     }
 
+    public void SetPlayer(Transform p)
+    {
+        player = p;
+    }
+
     public virtual void TakeDamage(int damage)
     {
         if (isInvincible) return;
@@ -44,6 +49,8 @@ public class Enemy : MonoBehaviour
             StartCoroutine(FlashRoutine());
         }
     }
+
+  
 
     IEnumerator FlashRoutine()
     {

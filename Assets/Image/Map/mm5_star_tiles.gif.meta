@@ -1,0 +1,4175 @@
+fileFormatVersion: 2
+guid: da8a729586f7a2c4b921d9e2214972a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6309147431808102459
+    second: mm5_star_tiles_0
+  - first:
+      213: -8846868017306384324
+    second: mm5_star_tiles_1
+  - first:
+      213: -7310109143279522072
+    second: mm5_star_tiles_2
+  - first:
+      213: 6685002034074133002
+    second: mm5_star_tiles_3
+  - first:
+      213: 2977780175485551625
+    second: mm5_star_tiles_4
+  - first:
+      213: -4396167107506946794
+    second: mm5_star_tiles_5
+  - first:
+      213: -4736785770716396872
+    second: mm5_star_tiles_6
+  - first:
+      213: 6734547168693245553
+    second: mm5_star_tiles_7
+  - first:
+      213: -8721657868180709022
+    second: mm5_star_tiles_8
+  - first:
+      213: 6329405102930752955
+    second: mm5_star_tiles_9
+  - first:
+      213: 7682283452333265182
+    second: mm5_star_tiles_10
+  - first:
+      213: -5315565572446365593
+    second: mm5_star_tiles_11
+  - first:
+      213: 7780710905494883793
+    second: mm5_star_tiles_12
+  - first:
+      213: -2783544953141782896
+    second: mm5_star_tiles_13
+  - first:
+      213: 9205382435216903571
+    second: mm5_star_tiles_14
+  - first:
+      213: 5478141232047643264
+    second: mm5_star_tiles_15
+  - first:
+      213: 5739841671360706168
+    second: mm5_star_tiles_16
+  - first:
+      213: 5660227120126802136
+    second: mm5_star_tiles_17
+  - first:
+      213: 4572934222475473666
+    second: mm5_star_tiles_18
+  - first:
+      213: -2511651339736434012
+    second: mm5_star_tiles_19
+  - first:
+      213: 5210278972418766899
+    second: mm5_star_tiles_20
+  - first:
+      213: 2421638788882454594
+    second: mm5_star_tiles_21
+  - first:
+      213: -1652732762821770223
+    second: mm5_star_tiles_22
+  - first:
+      213: 4202133463791157066
+    second: mm5_star_tiles_23
+  - first:
+      213: 3565294421522568702
+    second: mm5_star_tiles_24
+  - first:
+      213: -320228921207836514
+    second: mm5_star_tiles_25
+  - first:
+      213: 4963009322875109082
+    second: mm5_star_tiles_26
+  - first:
+      213: 6141073117698818303
+    second: mm5_star_tiles_27
+  - first:
+      213: 2322328423445736073
+    second: mm5_star_tiles_28
+  - first:
+      213: -4350616244761298513
+    second: mm5_star_tiles_29
+  - first:
+      213: -7581571698053130416
+    second: mm5_star_tiles_30
+  - first:
+      213: 6707977026343673614
+    second: mm5_star_tiles_31
+  - first:
+      213: 7931273757904852070
+    second: mm5_star_tiles_32
+  - first:
+      213: 6170417270679046485
+    second: mm5_star_tiles_33
+  - first:
+      213: -8349206444113940301
+    second: mm5_star_tiles_34
+  - first:
+      213: 7958848263399866943
+    second: mm5_star_tiles_35
+  - first:
+      213: -349883764132793033
+    second: mm5_star_tiles_36
+  - first:
+      213: 6810252839173031437
+    second: mm5_star_tiles_37
+  - first:
+      213: -77243473084227379
+    second: mm5_star_tiles_38
+  - first:
+      213: 2964974136989698088
+    second: mm5_star_tiles_39
+  - first:
+      213: -6305196504158509797
+    second: mm5_star_tiles_40
+  - first:
+      213: 6787609939679537749
+    second: mm5_star_tiles_41
+  - first:
+      213: -663765558768428273
+    second: mm5_star_tiles_42
+  - first:
+      213: -8874427281748837976
+    second: mm5_star_tiles_43
+  - first:
+      213: 9134401804529106088
+    second: mm5_star_tiles_44
+  - first:
+      213: -4905333517637079658
+    second: mm5_star_tiles_45
+  - first:
+      213: -3509012454118573748
+    second: mm5_star_tiles_46
+  - first:
+      213: -3137228461825450482
+    second: mm5_star_tiles_47
+  - first:
+      213: -3353400248491280814
+    second: mm5_star_tiles_48
+  - first:
+      213: 2960508207814110369
+    second: mm5_star_tiles_49
+  - first:
+      213: 7011996013198565475
+    second: mm5_star_tiles_50
+  - first:
+      213: 3982087254034265668
+    second: mm5_star_tiles_51
+  - first:
+      213: -8406886639168707402
+    second: mm5_star_tiles_52
+  - first:
+      213: -5144650025398226131
+    second: mm5_star_tiles_53
+  - first:
+      213: 4342898324946965479
+    second: mm5_star_tiles_54
+  - first:
+      213: -7563952010555694526
+    second: mm5_star_tiles_55
+  - first:
+      213: 8282409869210046622
+    second: mm5_star_tiles_56
+  - first:
+      213: 1963621320944016818
+    second: mm5_star_tiles_57
+  - first:
+      213: 4588167384127040906
+    second: mm5_star_tiles_58
+  - first:
+      213: 8507222233063551620
+    second: mm5_star_tiles_59
+  - first:
+      213: 6412287402083912529
+    second: mm5_star_tiles_60
+  - first:
+      213: 4746385920045749394
+    second: mm5_star_tiles_61
+  - first:
+      213: 5563676133780749159
+    second: mm5_star_tiles_62
+  - first:
+      213: -1469233699338751343
+    second: mm5_star_tiles_63
+  - first:
+      213: 6328667418909031983
+    second: mm5_star_tiles_64
+  - first:
+      213: -469078752000872674
+    second: mm5_star_tiles_65
+  - first:
+      213: 3782098468520853061
+    second: mm5_star_tiles_66
+  - first:
+      213: 193810924225015949
+    second: mm5_star_tiles_67
+  - first:
+      213: -6461040436044975386
+    second: mm5_star_tiles_68
+  - first:
+      213: 8646741190295279342
+    second: mm5_star_tiles_69
+  - first:
+      213: 8263016295552369919
+    second: mm5_star_tiles_70
+  - first:
+      213: -209392799850028436
+    second: mm5_star_tiles_71
+  - first:
+      213: 3347868694947234580
+    second: mm5_star_tiles_72
+  - first:
+      213: -5287309206025305003
+    second: mm5_star_tiles_73
+  - first:
+      213: 8059988230843711432
+    second: mm5_star_tiles_74
+  - first:
+      213: 7202707865611159122
+    second: mm5_star_tiles_75
+  - first:
+      213: 6510946348553038803
+    second: mm5_star_tiles_76
+  - first:
+      213: 2950495591487726904
+    second: mm5_star_tiles_77
+  - first:
+      213: -9213619093767671584
+    second: mm5_star_tiles_78
+  - first:
+      213: 7371332092278424372
+    second: mm5_star_tiles_79
+  - first:
+      213: 6866609447490467938
+    second: mm5_star_tiles_80
+  - first:
+      213: -3868956813488328889
+    second: mm5_star_tiles_81
+  - first:
+      213: 8516012416639124259
+    second: mm5_star_tiles_82
+  - first:
+      213: 9036368074378207327
+    second: mm5_star_tiles_83
+  - first:
+      213: 1950394260910271206
+    second: mm5_star_tiles_84
+  - first:
+      213: 3114123547833481452
+    second: mm5_star_tiles_85
+  - first:
+      213: 5945270879679598796
+    second: mm5_star_tiles_86
+  - first:
+      213: 256614832110264567
+    second: mm5_star_tiles_87
+  - first:
+      213: 6592845300668068671
+    second: mm5_star_tiles_88
+  - first:
+      213: -9014422099110548323
+    second: mm5_star_tiles_89
+  - first:
+      213: -4318273054565283623
+    second: mm5_star_tiles_90
+  - first:
+      213: -8657045980947630901
+    second: mm5_star_tiles_91
+  - first:
+      213: -3756972314143379654
+    second: mm5_star_tiles_92
+  - first:
+      213: 4346440021342692243
+    second: mm5_star_tiles_93
+  - first:
+      213: 8434875785292830224
+    second: mm5_star_tiles_94
+  - first:
+      213: -6409032910816003809
+    second: mm5_star_tiles_95
+  - first:
+      213: 8657567705097824172
+    second: mm5_star_tiles_96
+  - first:
+      213: 3497384026622049885
+    second: mm5_star_tiles_97
+  - first:
+      213: -3515030096345702973
+    second: mm5_star_tiles_98
+  - first:
+      213: -868804024428663037
+    second: mm5_star_tiles_99
+  - first:
+      213: -653991302666953219
+    second: mm5_star_tiles_100
+  - first:
+      213: -6348594954977778107
+    second: mm5_star_tiles_101
+  - first:
+      213: -830614099494025376
+    second: mm5_star_tiles_102
+  - first:
+      213: -8164606172974579130
+    second: mm5_star_tiles_103
+  - first:
+      213: -7277034031545101276
+    second: mm5_star_tiles_104
+  - first:
+      213: -1166452221955660094
+    second: mm5_star_tiles_105
+  - first:
+      213: 833782707624912547
+    second: mm5_star_tiles_106
+  - first:
+      213: 4572540919759753293
+    second: mm5_star_tiles_107
+  - first:
+      213: 8439583853707816823
+    second: mm5_star_tiles_108
+  - first:
+      213: 7456652068777113982
+    second: mm5_star_tiles_109
+  - first:
+      213: -3037462840398138540
+    second: mm5_star_tiles_110
+  - first:
+      213: -2629054561482873714
+    second: mm5_star_tiles_111
+  - first:
+      213: -2175050289384869523
+    second: mm5_star_tiles_112
+  - first:
+      213: 4138899153665128402
+    second: mm5_star_tiles_113
+  - first:
+      213: 7087200291508676674
+    second: mm5_star_tiles_114
+  - first:
+      213: 4509702264838028622
+    second: mm5_star_tiles_115
+  - first:
+      213: -7518172359257844570
+    second: mm5_star_tiles_116
+  - first:
+      213: 503628288022703944
+    second: mm5_star_tiles_117
+  - first:
+      213: -6807021322510248584
+    second: mm5_star_tiles_118
+  - first:
+      213: -4912382629904384452
+    second: mm5_star_tiles_119
+  - first:
+      213: 169251388606695754
+    second: mm5_star_tiles_120
+  - first:
+      213: -166429859054936687
+    second: mm5_star_tiles_121
+  - first:
+      213: 3809685973530669770
+    second: mm5_star_tiles_122
+  - first:
+      213: -8159436283981274628
+    second: mm5_star_tiles_123
+  - first:
+      213: -6396370777309934544
+    second: mm5_star_tiles_124
+  - first:
+      213: -803475594984218708
+    second: mm5_star_tiles_125
+  - first:
+      213: 6909338062882025637
+    second: mm5_star_tiles_126
+  - first:
+      213: -2466576282433563644
+    second: mm5_star_tiles_127
+  - first:
+      213: -233890344422129216
+    second: mm5_star_tiles_128
+  - first:
+      213: -8009555984510077531
+    second: mm5_star_tiles_129
+  - first:
+      213: -4250474795419210716
+    second: mm5_star_tiles_130
+  - first:
+      213: 4257971520710152595
+    second: mm5_star_tiles_131
+  - first:
+      213: 306177752873117806
+    second: mm5_star_tiles_132
+  - first:
+      213: 3856604454726591970
+    second: mm5_star_tiles_133
+  - first:
+      213: 2388638174365218014
+    second: mm5_star_tiles_134
+  - first:
+      213: 1090162399531416204
+    second: mm5_star_tiles_135
+  - first:
+      213: 1067257606831102291
+    second: mm5_star_tiles_136
+  - first:
+      213: -4255593712043447740
+    second: mm5_star_tiles_137
+  - first:
+      213: -964488035592874623
+    second: mm5_star_tiles_138
+  - first:
+      213: -1839070942888613972
+    second: mm5_star_tiles_139
+  - first:
+      213: 8083641095774077120
+    second: mm5_star_tiles_140
+  - first:
+      213: 5428075008146865520
+    second: mm5_star_tiles_141
+  - first:
+      213: 5637947520186376191
+    second: mm5_star_tiles_142
+  - first:
+      213: 1859245922241244505
+    second: mm5_star_tiles_143
+  - first:
+      213: -7385159768543448940
+    second: mm5_star_tiles_144
+  - first:
+      213: -7265725579547499311
+    second: mm5_star_tiles_145
+  - first:
+      213: -2599159820615133116
+    second: mm5_star_tiles_146
+  - first:
+      213: -4951035789394086374
+    second: mm5_star_tiles_147
+  - first:
+      213: -388321069655214000
+    second: mm5_star_tiles_148
+  - first:
+      213: -3843971487422799508
+    second: mm5_star_tiles_149
+  - first:
+      213: 2041990294418230400
+    second: mm5_star_tiles_150
+  - first:
+      213: 6150300919792782602
+    second: mm5_star_tiles_151
+  - first:
+      213: -1663504781234549555
+    second: mm5_star_tiles_152
+  - first:
+      213: -7390405415710218209
+    second: mm5_star_tiles_153
+  - first:
+      213: 2968014885727858198
+    second: mm5_star_tiles_154
+  - first:
+      213: 6688309397152258684
+    second: mm5_star_tiles_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm5_star_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf828b86d76178a0800000000000000
+      internalID: -6309147431808102459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3840b5396c993580800000000000000
+      internalID: -8846868017306384324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2d7df6764d8a90800000000000000
+      internalID: -7310109143279522072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02a0cb6ee5e5cc50800000000000000
+      internalID: 6685002034074133002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904440bea43335920800000000000000
+      internalID: 2977780175485551625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dbacfbe4dadf2c0800000000000000
+      internalID: -4396167107506946794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b20357207e834eb0800000000000000
+      internalID: -4736785770716396872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176d21108fae57d50800000000000000
+      internalID: 6734547168693245553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2612992d06276f680800000000000000
+      internalID: -8721657868180709022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb57bbf086096d750800000000000000
+      internalID: 6329405102930752955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e119f20f814fc9a60800000000000000
+      internalID: 7682283452333265182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d90266415b36b0800000000000000
+      internalID: -5315565572446365593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc7063853aafb60800000000000000
+      internalID: 7780710905494883793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09617abec9cde59d0800000000000000
+      internalID: -2783544953141782896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d49b87d8610cf70800000000000000
+      internalID: 9205382435216903571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ade951d64460c40800000000000000
+      internalID: 5478141232047643264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8767070d69308af40800000000000000
+      internalID: 5739841671360706168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b03b939a2d8e40800000000000000
+      internalID: 5660227120126802136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203b0e76273567f30800000000000000
+      internalID: 4572934222475473666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa306fe962d42dd0800000000000000
+      internalID: -2511651339736434012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33835b3ce11ae4840800000000000000
+      internalID: 5210278972418766899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24855a9e5a36b9120800000000000000
+      internalID: 2421638788882454594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114cb5b0f405019e0800000000000000
+      internalID: -1652732762821770223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fbd081f1af05a30800000000000000
+      internalID: 4202133463791157066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5d88af2687a7130800000000000000
+      internalID: 3565294421522568702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b9982e715e8bf0800000000000000
+      internalID: -320228921207836514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3cea1fa620e440800000000000000
+      internalID: 4963009322875109082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff08328b679793550800000000000000
+      internalID: 6141073117698818303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aa64b95619a3020800000000000000
+      internalID: 2322328423445736073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa975f073918f93c0800000000000000
+      internalID: -4350616244761298513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0575362a5b8d8c690800000000000000
+      internalID: -7581571698053130416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f12b8a095871d50800000000000000
+      internalID: 6707977026343673614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664db4c067b811e60800000000000000
+      internalID: 7931273757904852070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55982ceb0d9b1a550800000000000000
+      internalID: 6170417270679046485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0bf2e99f8a12c80800000000000000
+      internalID: -8349206444113940301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f320f29e352837e60800000000000000
+      internalID: 7958848263399866943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735303ef196f42bf0800000000000000
+      internalID: -349883764132793033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06018dffd0e28e50800000000000000
+      internalID: 6810252839173031437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0e89178739deef0800000000000000
+      internalID: -77243473084227379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828cd7bb444b52920800000000000000
+      internalID: 2964974136989698088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15e8929f217f78a0800000000000000
+      internalID: -6305196504158509797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a6280274f623e50800000000000000
+      internalID: 6787609939679537749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b1877bdb4d9c6f0800000000000000
+      internalID: -663765558768428273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9335ee763b7d480800000000000000
+      internalID: -8874427281748837976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf4aa8b0ae3ce70800000000000000
+      internalID: 9134401804529106088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dac60c721ccebb0800000000000000
+      internalID: -4905333517637079658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4937d7b3cb7d4fc0800000000000000
+      internalID: -3509012454118573748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e16a1f5535674d0800000000000000
+      internalID: -3137228461825450482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25678f6bd345671d0800000000000000
+      internalID: -3353400248491280814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac63619786d51920800000000000000
+      internalID: 2960508207814110369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e72d093d9f4160800000000000000
+      internalID: 7011996013198565475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446b2517247334730800000000000000
+      internalID: 3982087254034265668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b42f5da42db45b80800000000000000
+      internalID: -8406886639168707402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233f663f088a98b0800000000000000
+      internalID: -5144650025398226131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e35a125403154c30800000000000000
+      internalID: 4342898324946965479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e9b0d8b1770790800000000000000
+      internalID: -7563952010555694526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90547ad4e701f270800000000000000
+      internalID: 8282409869210046622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd504c003f204b10800000000000000
+      internalID: 1963621320944016818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8decec3de17caf30800000000000000
+      internalID: 4588167384127040906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482fe0b3c89bf0670800000000000000
+      internalID: 8507222233063551620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b8cee1b650df850800000000000000
+      internalID: 6412287402083912529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2941e3bc8dc8ed140800000000000000
+      internalID: 4746385920045749394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bf15f47f5263d40800000000000000
+      internalID: 5563676133780749159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19271ea1cbb3c9be0800000000000000
+      internalID: -1469233699338751343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e39ad9c71f3d750800000000000000
+      internalID: 6328667418909031983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fed4f3c5f7d79f0800000000000000
+      internalID: -469078752000872674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54efbb9c486bc7430800000000000000
+      internalID: 3782098468520853061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80b50c320e80b200800000000000000
+      internalID: 193810924225015949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2ba1a94f5c556a0800000000000000
+      internalID: -6461040436044975386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6d948dc456ff770800000000000000
+      internalID: 8646741190295279342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4c9ad9a812ca270800000000000000
+      internalID: 8263016295552369919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c622a62ab56181df0800000000000000
+      internalID: -209392799850028436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130bfc17d4067e20800000000000000
+      internalID: 3347868694947234580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554853d5a44bf96b0800000000000000
+      internalID: -5287309206025305003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb441a794dadf60800000000000000
+      internalID: 8059988230843711432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2564aa664a825f360800000000000000
+      internalID: 7202707865611159122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db612125378b5a50800000000000000
+      internalID: 6510946348553038803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8356bf9ab1442f820800000000000000
+      internalID: 2950495591487726904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0b8340046a22080800000000000000
+      internalID: -9213619093767671584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43341b1ab7b3c4660800000000000000
+      internalID: 7371332092278424372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b20169e81b4f50800000000000000
+      internalID: 6866609447490467938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f63b8d644be4ac0800000000000000
+      internalID: -3868956813488328889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32347945c24fe2670800000000000000
+      internalID: 8516012416639124259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f506efc03e0a76d70800000000000000
+      internalID: 9036368074378207327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea64852f31311b10800000000000000
+      internalID: 1950394260910271206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce83b4f0ed6973b20800000000000000
+      internalID: 3114123547833481452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d6cc9d58d18250800000000000000
+      internalID: 5945270879679598796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0670884ddaf8300800000000000000
+      internalID: 256614832110264567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f337c6ddedd7e7b50800000000000000
+      internalID: 6592845300668068671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca51f7cd656e280800000000000000
+      internalID: -9014422099110548323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ce7b39896214c0800000000000000
+      internalID: -4318273054565283623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 52
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b46d1c8efbd780800000000000000
+      internalID: -8657045980947630901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fa188e59d8cdbc0800000000000000
+      internalID: -3756972314143379654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3932ca5cb28a15c30800000000000000
+      internalID: 4346440021342692243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165cea36d2be0570800000000000000
+      internalID: 8434875785292830224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19360d268a8e07a0800000000000000
+      internalID: -6409032910816003809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7ef3145fbd52870800000000000000
+      internalID: 8657567705097824172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ebee50e34398030800000000000000
+      internalID: 3497384026622049885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd18430ca183fc0800000000000000
+      internalID: -3515030096345702973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fef78c75361f3f0800000000000000
+      internalID: -868804024428663037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd575e006e8ce6f0800000000000000
+      internalID: -653991302666953219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54666b5568245e7a0800000000000000
+      internalID: -6348594954977778107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0674a3690e01974f0800000000000000
+      internalID: -830614099494025376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64283e091fd71be80800000000000000
+      internalID: -8164606172974579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424535b8a18c20b90800000000000000
+      internalID: -7277034031545101276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62ede52edefcfe0800000000000000
+      internalID: -1166452221955660094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a8db74f0329b00800000000000000
+      internalID: 833782707624912547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d73b7dbde47f30800000000000000
+      internalID: 4572540919759753293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f6064dccc6f1570800000000000000
+      internalID: 8439583853707816823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79342dac895b7760800000000000000
+      internalID: 7456652068777113982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453be9bc3a3c8d5d0800000000000000
+      internalID: -3037462840398138540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8461bf3ec8b38bd0800000000000000
+      internalID: -2629054561482873714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ba94294ba0d1e0800000000000000
+      internalID: -2175050289384869523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7ff57f9d2507930800000000000000
+      internalID: 4138899153665128402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2486b639d1bca5260800000000000000
+      internalID: 7087200291508676674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df172015ea59e30800000000000000
+      internalID: 4509702264838028622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4964e72161aa790800000000000000
+      internalID: -7518172359257844570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f6e66724f3df600800000000000000
+      internalID: 503628288022703944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875544d1c2a9881a0800000000000000
+      internalID: -6807021322510248584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3effb76606b3dbb0800000000000000
+      internalID: -4912382629904384452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49c4afbd3d495200800000000000000
+      internalID: 169251388606695754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d130bcce8b0bdf0800000000000000
+      internalID: -166429859054936687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac275165539bed430800000000000000
+      internalID: 3809685973530669770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1ecd52eebd3ce80800000000000000
+      internalID: -8159436283981274628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c80cedaa68b37a0800000000000000
+      internalID: -6396370777309934544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf154f043b79d4f0800000000000000
+      internalID: -803475594984218708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a03b276c56e2ef50800000000000000
+      internalID: 6909338062882025637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404d42a80f5f4cdd0800000000000000
+      internalID: -2466576282433563644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1435098fd01ccf0800000000000000
+      internalID: -233890344422129216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a53caeb44758d090800000000000000
+      internalID: -8009555984510077531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c694c81b74305c0800000000000000
+      internalID: -4250474795419210716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39198a3d98a571b30800000000000000
+      internalID: 4257971520710152595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6821264b03cf3400800000000000000
+      internalID: 306177752873117806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5ea238159658530800000000000000
+      internalID: 3856604454726591970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f9f793c5262120800000000000000
+      internalID: 2388638174365218014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8abe8b2de8012f00800000000000000
+      internalID: 1090162399531416204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359500b8329afce00800000000000000
+      internalID: 1067257606831102291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa345e01811f4c0800000000000000
+      internalID: -4255593712043447740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1855f50ed337d92f0800000000000000
+      internalID: -964488035592874623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7a164a8be4a76e0800000000000000
+      internalID: -1839070942888613972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c00d556fbcde2070800000000000000
+      internalID: 8083641095774077120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df4c2f575645b40800000000000000
+      internalID: 5428075008146865520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd00306630e3e40800000000000000
+      internalID: 5637947520186376191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d6849c05e5dc910800000000000000
+      internalID: 1859245922241244505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490367a9154a28990800000000000000
+      internalID: -7385159768543448940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d42a93b415fa2b90800000000000000
+      internalID: -7265725579547499311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44854c10aededebd0800000000000000
+      internalID: -2599159820615133116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a167be66e236a4bb0800000000000000
+      internalID: -4951035789394086374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058b6686b086c9af0800000000000000
+      internalID: -388321069655214000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c612f656c4877aac0800000000000000
+      internalID: -3843971487422799508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c08959a5b965c10800000000000000
+      internalID: 2041990294418230400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dc102d9124a5550800000000000000
+      internalID: 6150300919792782602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc950173b0ae8e0800000000000000
+      internalID: -1663504781234549555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1828723e61007990800000000000000
+      internalID: -7390405415710218209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e61e730d1803920800000000000000
+      internalID: 2968014885727858198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm5_star_tiles_155
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ada25e5f5a1dc50800000000000000
+      internalID: 6688309397152258684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fd100c71198c86a42ac4c14d67fad650
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mm5_star_tiles_0: -6309147431808102459
+      mm5_star_tiles_1: -8846868017306384324
+      mm5_star_tiles_10: 7682283452333265182
+      mm5_star_tiles_100: -653991302666953219
+      mm5_star_tiles_101: -6348594954977778107
+      mm5_star_tiles_102: -830614099494025376
+      mm5_star_tiles_103: -8164606172974579130
+      mm5_star_tiles_104: -7277034031545101276
+      mm5_star_tiles_105: -1166452221955660094
+      mm5_star_tiles_106: 833782707624912547
+      mm5_star_tiles_107: 4572540919759753293
+      mm5_star_tiles_108: 8439583853707816823
+      mm5_star_tiles_109: 7456652068777113982
+      mm5_star_tiles_11: -5315565572446365593
+      mm5_star_tiles_110: -3037462840398138540
+      mm5_star_tiles_111: -2629054561482873714
+      mm5_star_tiles_112: -2175050289384869523
+      mm5_star_tiles_113: 4138899153665128402
+      mm5_star_tiles_114: 7087200291508676674
+      mm5_star_tiles_115: 4509702264838028622
+      mm5_star_tiles_116: -7518172359257844570
+      mm5_star_tiles_117: 503628288022703944
+      mm5_star_tiles_118: -6807021322510248584
+      mm5_star_tiles_119: -4912382629904384452
+      mm5_star_tiles_12: 7780710905494883793
+      mm5_star_tiles_120: 169251388606695754
+      mm5_star_tiles_121: -166429859054936687
+      mm5_star_tiles_122: 3809685973530669770
+      mm5_star_tiles_123: -8159436283981274628
+      mm5_star_tiles_124: -6396370777309934544
+      mm5_star_tiles_125: -803475594984218708
+      mm5_star_tiles_126: 6909338062882025637
+      mm5_star_tiles_127: -2466576282433563644
+      mm5_star_tiles_128: -233890344422129216
+      mm5_star_tiles_129: -8009555984510077531
+      mm5_star_tiles_13: -2783544953141782896
+      mm5_star_tiles_130: -4250474795419210716
+      mm5_star_tiles_131: 4257971520710152595
+      mm5_star_tiles_132: 306177752873117806
+      mm5_star_tiles_133: 3856604454726591970
+      mm5_star_tiles_134: 2388638174365218014
+      mm5_star_tiles_135: 1090162399531416204
+      mm5_star_tiles_136: 1067257606831102291
+      mm5_star_tiles_137: -4255593712043447740
+      mm5_star_tiles_138: -964488035592874623
+      mm5_star_tiles_139: -1839070942888613972
+      mm5_star_tiles_14: 9205382435216903571
+      mm5_star_tiles_140: 8083641095774077120
+      mm5_star_tiles_141: 5428075008146865520
+      mm5_star_tiles_142: 5637947520186376191
+      mm5_star_tiles_143: 1859245922241244505
+      mm5_star_tiles_144: -7385159768543448940
+      mm5_star_tiles_145: -7265725579547499311
+      mm5_star_tiles_146: -2599159820615133116
+      mm5_star_tiles_147: -4951035789394086374
+      mm5_star_tiles_148: -388321069655214000
+      mm5_star_tiles_149: -3843971487422799508
+      mm5_star_tiles_15: 5478141232047643264
+      mm5_star_tiles_150: 2041990294418230400
+      mm5_star_tiles_151: 6150300919792782602
+      mm5_star_tiles_152: -1663504781234549555
+      mm5_star_tiles_153: -7390405415710218209
+      mm5_star_tiles_154: 2968014885727858198
+      mm5_star_tiles_155: 6688309397152258684
+      mm5_star_tiles_16: 5739841671360706168
+      mm5_star_tiles_17: 5660227120126802136
+      mm5_star_tiles_18: 4572934222475473666
+      mm5_star_tiles_19: -2511651339736434012
+      mm5_star_tiles_2: -7310109143279522072
+      mm5_star_tiles_20: 5210278972418766899
+      mm5_star_tiles_21: 2421638788882454594
+      mm5_star_tiles_22: -1652732762821770223
+      mm5_star_tiles_23: 4202133463791157066
+      mm5_star_tiles_24: 3565294421522568702
+      mm5_star_tiles_25: -320228921207836514
+      mm5_star_tiles_26: 4963009322875109082
+      mm5_star_tiles_27: 6141073117698818303
+      mm5_star_tiles_28: 2322328423445736073
+      mm5_star_tiles_29: -4350616244761298513
+      mm5_star_tiles_3: 6685002034074133002
+      mm5_star_tiles_30: -7581571698053130416
+      mm5_star_tiles_31: 6707977026343673614
+      mm5_star_tiles_32: 7931273757904852070
+      mm5_star_tiles_33: 6170417270679046485
+      mm5_star_tiles_34: -8349206444113940301
+      mm5_star_tiles_35: 7958848263399866943
+      mm5_star_tiles_36: -349883764132793033
+      mm5_star_tiles_37: 6810252839173031437
+      mm5_star_tiles_38: -77243473084227379
+      mm5_star_tiles_39: 2964974136989698088
+      mm5_star_tiles_4: 2977780175485551625
+      mm5_star_tiles_40: -6305196504158509797
+      mm5_star_tiles_41: 6787609939679537749
+      mm5_star_tiles_42: -663765558768428273
+      mm5_star_tiles_43: -8874427281748837976
+      mm5_star_tiles_44: 9134401804529106088
+      mm5_star_tiles_45: -4905333517637079658
+      mm5_star_tiles_46: -3509012454118573748
+      mm5_star_tiles_47: -3137228461825450482
+      mm5_star_tiles_48: -3353400248491280814
+      mm5_star_tiles_49: 2960508207814110369
+      mm5_star_tiles_5: -4396167107506946794
+      mm5_star_tiles_50: 7011996013198565475
+      mm5_star_tiles_51: 3982087254034265668
+      mm5_star_tiles_52: -8406886639168707402
+      mm5_star_tiles_53: -5144650025398226131
+      mm5_star_tiles_54: 4342898324946965479
+      mm5_star_tiles_55: -7563952010555694526
+      mm5_star_tiles_56: 8282409869210046622
+      mm5_star_tiles_57: 1963621320944016818
+      mm5_star_tiles_58: 4588167384127040906
+      mm5_star_tiles_59: 8507222233063551620
+      mm5_star_tiles_6: -4736785770716396872
+      mm5_star_tiles_60: 6412287402083912529
+      mm5_star_tiles_61: 4746385920045749394
+      mm5_star_tiles_62: 5563676133780749159
+      mm5_star_tiles_63: -1469233699338751343
+      mm5_star_tiles_64: 6328667418909031983
+      mm5_star_tiles_65: -469078752000872674
+      mm5_star_tiles_66: 3782098468520853061
+      mm5_star_tiles_67: 193810924225015949
+      mm5_star_tiles_68: -6461040436044975386
+      mm5_star_tiles_69: 8646741190295279342
+      mm5_star_tiles_7: 6734547168693245553
+      mm5_star_tiles_70: 8263016295552369919
+      mm5_star_tiles_71: -209392799850028436
+      mm5_star_tiles_72: 3347868694947234580
+      mm5_star_tiles_73: -5287309206025305003
+      mm5_star_tiles_74: 8059988230843711432
+      mm5_star_tiles_75: 7202707865611159122
+      mm5_star_tiles_76: 6510946348553038803
+      mm5_star_tiles_77: 2950495591487726904
+      mm5_star_tiles_78: -9213619093767671584
+      mm5_star_tiles_79: 7371332092278424372
+      mm5_star_tiles_8: -8721657868180709022
+      mm5_star_tiles_80: 6866609447490467938
+      mm5_star_tiles_81: -3868956813488328889
+      mm5_star_tiles_82: 8516012416639124259
+      mm5_star_tiles_83: 9036368074378207327
+      mm5_star_tiles_84: 1950394260910271206
+      mm5_star_tiles_85: 3114123547833481452
+      mm5_star_tiles_86: 5945270879679598796
+      mm5_star_tiles_87: 256614832110264567
+      mm5_star_tiles_88: 6592845300668068671
+      mm5_star_tiles_89: -9014422099110548323
+      mm5_star_tiles_9: 6329405102930752955
+      mm5_star_tiles_90: -4318273054565283623
+      mm5_star_tiles_91: -8657045980947630901
+      mm5_star_tiles_92: -3756972314143379654
+      mm5_star_tiles_93: 4346440021342692243
+      mm5_star_tiles_94: 8434875785292830224
+      mm5_star_tiles_95: -6409032910816003809
+      mm5_star_tiles_96: 8657567705097824172
+      mm5_star_tiles_97: 3497384026622049885
+      mm5_star_tiles_98: -3515030096345702973
+      mm5_star_tiles_99: -868804024428663037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
