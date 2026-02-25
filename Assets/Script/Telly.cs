@@ -13,7 +13,6 @@ public class Telly : Enemy
     [Header("Effects")]
     [SerializeField] private GameObject explosionPrefab; // 사망/충돌 시 생성할 폭발 프리팹
 
-    private Transform playerTransform;
     private Rigidbody2D rb;
 
     protected override void Awake()
@@ -22,18 +21,12 @@ public class Telly : Enemy
         base.Awake();
 
         // 2. 컴포넌트 참조 및 물리 설정
-        rb = GetComponent<Rigidbody2D>();
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
         if (rb != null)
         {
             rb.gravityScale = 0;      // 공중 부양
         }
 
-        // 3. 플레이어 찾기
-        GameObject player = GameObject.FindGameObjectWithTag("Player");
-        if (player != null)
-        {
-            playerTransform = player.transform;
-        }
     }
 
     private void Update()
@@ -44,10 +37,10 @@ public class Telly : Enemy
     private void HandleMovement()
     {
         // 플레이어가 없거나 추적 모드가 꺼져있으면 리턴
-        if (playerTransform == null || !followPlayer) return;
+        if (player == null || !followPlayer) return;
 
         // 플레이어 방향 벡터 계산
-        Vector2 direction = (playerTransform.position - transform.position).normalized;
+        Vector2 direction = (player.position - transform.position).normalized;
 
         // 부드러운 이동 (회전은 애니메이션이 담당하므로 위치만 이동)
         transform.Translate(direction * moveSpeed * Time.deltaTime, Space.World);
@@ -68,7 +61,7 @@ public class Telly : Enemy
             }
 
             // 충돌 즉시 폭발
-            Explode();
+            Die();
         }
     }
 
@@ -77,21 +70,23 @@ public class Telly : Enemy
     /// </summary>
     protected override void Die()
     {
-        Explode();
+       base.Die(); // 부모의 Die() 실행 (체력 0 체크 및 파티클 생성 포함)
+        // 추가로 텔리만의 폭발 효과를 생성할 수 있습니다.
+        
     }
 
     /// <summary>
     /// 폭발 효과 생성 및 객체 파괴
     /// </summary>
-    private void Explode()
-    {
-        if (explosionPrefab != null)
-        {
-            // 폭발 파티클 생성
-            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
-        }
+    //private void Explode()
+    //{
+    //    if (explosionPrefab != null)
+    //    {
+    //        // 폭발 파티클 생성
+    //        Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+    //    }
 
-        // 텔리 제거
-        Destroy(gameObject);
-    }
+    //    // 텔리 제거
+    //    Destroy(gameObject);
+    //}
 }

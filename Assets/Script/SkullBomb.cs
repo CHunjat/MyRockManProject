@@ -20,7 +20,7 @@ public class SkullBomb : MonoBehaviour
             }
             Explode();
         }
-        else if (collision.CompareTag("Wall") || collision.CompareTag("Ground"))
+        else if (collision.CompareTag("Wall"))
         {
             // [벽이나 땅에 맞는 경우]
             Explode();

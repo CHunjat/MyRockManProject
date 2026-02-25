@@ -34,10 +34,10 @@ public class Enemy : MonoBehaviour
 
     public virtual void TakeDamage(int damage)
     {
-        if (isInvincible) return;
+        if (isInvincible || health <= 0) return;
 
         health -= damage;
-        Debug.Log($"적 피격! 남은 체력: {health}");
+        //Debug.Log($"적 피격! 남은 체력: {health}");
 
         if (health <= 0)
         {
@@ -82,4 +82,6 @@ public class Enemy : MonoBehaviour
         // 2. 몬스터 본체 파괴 (이제 파티클은 별개 오브젝트라 안 사라짐)
         Destroy(gameObject);
     }
+
+    
 }
