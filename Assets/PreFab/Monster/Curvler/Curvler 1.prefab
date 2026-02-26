@@ -223,6 +223,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   health: 1
   contactDamage: 6
+  SmallHealthItem: {fileID: 3364666116749532566, guid: e451b321a8f2d44468bc8554669ed436, type: 3}
+  BigHealthItem: {fileID: 5183889343668395603, guid: dcfce491fc30c984b8d339a0e62977b7, type: 3}
   deathParticlePrefab: {fileID: 4203412651752774680, guid: 350a15c64f26bfc479a61eab63412830, type: 3}
   moveSpeed: 2
   chaseSpeed: 2

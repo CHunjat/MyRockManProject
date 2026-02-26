@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   explosionEffect: {fileID: 8791354401675306466, guid: 2e1d4633def6c214d84ea70bb668313a, type: 3}
-  damage: 3
+  damage: 10
 --- !u!114 &7794897287443882762
 MonoBehaviour:
   m_ObjectHideFlags: 0

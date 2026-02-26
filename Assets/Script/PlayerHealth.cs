@@ -153,6 +153,43 @@ public class PlayerHealth : MonoBehaviour
         isInvincible = false;
     }
 
+    public void Heal(int amount)
+    {
+        if(currentHealth >= maxHealth) return;
+
+        StartCoroutine(HealRoutine(amount));
+    }
+
+    IEnumerator HealRoutine(int amount)
+    {
+        Time.timeScale = 0f; // 게임 일시정지
+
+        int targetHealth = Mathf.Min(currentHealth + amount, maxHealth);
+
+        while (currentHealth < targetHealth)
+        {
+            currentHealth++; // 1칸 증가
+            // UI 갱신 (UIManager에 현재 수치 전달)
+            if (UIManager.instance != null)
+                UIManager.instance.UpdateHP(currentHealth, maxHealth);
+
+
+            // [효과음] 넣기
+
+            // SoundManager.Instance.PlaySFX("HealTick"); 
+
+
+
+            // 3. 게임이 멈춰있으므로 '실제 시간' 기준으로 대기 (약 0.05초)
+            yield return new WaitForSecondsRealtime(0.1f);
+
+        }
+        Time.timeScale = 1f; // 다시 게임시작
+
+
+    }
+
+
     public void Die()
     {
         Vector2[] directions =

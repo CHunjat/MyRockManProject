@@ -47,8 +47,7 @@ public class BigRabbit : Enemy
 
         if (health <= 0)
         {
-            // 죽는 로직 (부모의 Die는 private이므로 새로 정의하거나 Enemy.cs의 Die를 protected로 바꿔야함)
-            Die();
+            base.Die();
         }
         else
         {

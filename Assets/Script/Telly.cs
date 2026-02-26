@@ -68,12 +68,12 @@ public class Telly : Enemy
     /// <summary>
     /// 플레이어의 총알 등에 맞아 체력이 0이 되었을 때 (부모 메서드 오버라이드)
     /// </summary>
-    protected override void Die()
-    {
-       base.Die(); // 부모의 Die() 실행 (체력 0 체크 및 파티클 생성 포함)
-        // 추가로 텔리만의 폭발 효과를 생성할 수 있습니다.
+    //protected override void Die()
+    //{
+    //   base.Die(); // 부모의 Die() 실행 (체력 0 체크 및 파티클 생성 포함)
+    //    // 추가로 텔리만의 폭발 효과를 생성할 수 있습니다.
         
-    }
+    //} 부모꺼 쓰면되니까 굳이?
 
     /// <summary>
     /// 폭발 효과 생성 및 객체 파괴

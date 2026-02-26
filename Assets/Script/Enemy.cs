@@ -7,7 +7,11 @@ public class Enemy : MonoBehaviour
     public int health = 3;
     public int contactDamage = 6; // 인스펙터에서 빅 조는 6으로 설정
 
-    public GameObject deathParticlePrefab; // 아까 만든 EnemyExplosion 프리팹 연결
+    [Header("체력 아이템 드롭")]
+    public GameObject SmallHealthItem; // 아까 만든 HealthItem 프리팹 연결
+    public GameObject BigHealthItem;
+
+    public GameObject deathParticlePrefab; // 아까 만든 EnemyExplosion 프리팹 연결 현재 각각 상속받은 자식 클래스에서 따로 설정해주기로 했음
     protected Transform player;
     protected SpriteRenderer spriteRenderer;
     protected bool isInvincible = false; // 짧은 무적 시간 (연타 시 씹힘 방지)
@@ -79,8 +83,34 @@ public class Enemy : MonoBehaviour
             Instantiate(deathParticlePrefab, transform.position, Quaternion.identity);
         }
 
+
+        SpawnItem(); // 아이템 드롭 함수 호출
         // 2. 몬스터 본체 파괴 (이제 파티클은 별개 오브젝트라 안 사라짐)
         Destroy(gameObject);
+    }
+
+    private void SpawnItem()
+    {
+       if( Random.Range(0f, 100f) > 100f) // 30% 확률로 아이템 드롭
+       {
+            return;
+       }
+       //30%뚫고 드랍이 되면 둘중에 뭐나올지 ㅋㅋ 60%는 작은알약 30%큰알약 
+        GameObject itemToSpawn;
+        if(Random.Range(0f, 100f) <= 60f) // 드롭되는 아이템 중 60%는 작은 알약, 30%는 큰 알약
+        {
+            itemToSpawn = SmallHealthItem;
+        }
+        else
+        {
+            itemToSpawn = BigHealthItem;
+        }
+
+        if (itemToSpawn != null)
+        {
+           Instantiate(itemToSpawn, transform.position, Quaternion.identity);
+        }
+
     }
 
     

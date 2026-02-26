@@ -50,7 +50,6 @@ public class Dragonfly : Enemy
         if (!isChasing && distanceToPlayer <= detectionRange)
         {
             isChasing = true;
-            Debug.Log("잠자리가 록맨을 발견했습니다!");
         }
 
         // 2. 이동 및 공격 로직
@@ -107,6 +106,8 @@ public class Dragonfly : Enemy
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position, detectionRange);
     }
+
+    
 }
 
    
