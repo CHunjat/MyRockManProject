@@ -45,6 +45,13 @@ public class PlayerController : MonoBehaviour
     public Transform jumpShootPoint;
     public int maxBulletCount = 3;
 
+    [Header("사다리 컨트롤러")]
+    public float climbSpeed = 1.3f;
+    public bool iscliming = false; 
+    public bool canUseLadder = false;
+    public float ladderSnapDistance = 0.3f; // 사다리 중앙 근처 체크용
+    private Collider2D currentLadderCollider; // 현재 닿은 사다리 정보
+
 
 
 
@@ -81,6 +88,30 @@ public class PlayerController : MonoBehaviour
         var keyboard = Keyboard.current;
         if (keyboard == null) return;
 
+        // --- [플레이어 조작 로직] ---
+
+        // 0. 사다리 올라가기
+
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+
+        if (canUseLadder && !iscliming)
+        {
+            if(keyboard.upArrowKey.isPressed)
+                if (keyboard.upArrowKey.wasPressedThisFrame || keyboard.upArrowKey.isPressed)
+                {
+                    StartClimbing(); 
+                }
+        }
+        if (iscliming)
+        {
+            HandleClimbing(keyboard); // 이제 여기서 위/아래 이동을 처리
+            UpdateAnimations();
+            return;
+        }
+
+
+
+
         // 1. 이동
         if (!isSliding)
         {
@@ -101,6 +132,13 @@ public class PlayerController : MonoBehaviour
             if (isSliding) StopSlide();
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
+
+        //점프시 x키 떼면 상승속도 감소 (슬라이딩 중엔 안되게)
+        if (keyboard.xKey.wasReleasedThisFrame && rb.linearVelocity.y > 0)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.4f);
+        }
+
         //슬라이딩 및 점프와 동시 입력시 안되게
         else if (keyboard.zKey.wasPressedThisFrame && isGrounded && !isSliding && Mathf.Abs(rb.linearVelocity.y) < 0.01f)
         { //점프때 y값이 변경되는걸 이용해서 막아봄...
@@ -149,6 +187,61 @@ public class PlayerController : MonoBehaviour
 
 
         UpdateAnimations();
+
+
+        
+
+    }
+
+    //사다리 올라가는 함수 (사다리 태그 필요)
+    public void StartClimbing()
+    {
+        iscliming = true;
+        rb.gravityScale = 0f; // 중력 제거
+        anim.SetBool("isClimbing", true);
+    }
+
+    //사다리 올라가는 중 입력 처리 함수 (사다리 태그 필요)
+    void HandleClimbing(Keyboard keyboard)
+    {
+        float climbInput = 0;
+        if (keyboard.upArrowKey.isPressed) climbInput = 1;
+        if (keyboard.downArrowKey.isPressed) climbInput = -1;
+
+        rb.linearVelocity = new Vector2(0, climbInput * climbSpeed);
+
+        // 사다리에서 점프 시 탈출
+        if (keyboard.xKey.wasPressedThisFrame)
+        {
+            StopClimbing();
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce * 0.5f);
+        }
+    }
+
+    //멈추는함수
+    public void StopClimbing()
+    {
+        iscliming = false;
+        rb.gravityScale = 1f; // 중력 복구
+        anim.SetBool("isClimbing", false);
+    }
+
+    //사다리 트리거 감지 함수 (사다리 태그 필요)
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            canUseLadder = true;
+        }
+    }
+    //사다리에서 벗어날 때 감지 함수 (사다리 태그 필요)
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            canUseLadder = false;
+            StopClimbing();
+        }
     }
 
 
@@ -212,6 +305,8 @@ public class PlayerController : MonoBehaviour
             yield return null;
         }
 
+        //IEumerator와 yield return null 세트
+
         StopSlide();
     }
 
@@ -241,14 +336,37 @@ public class PlayerController : MonoBehaviour
 
     void UpdateAnimations()
     {
-        if (healthScript != null && healthScript.IsHitted) return;
+        if (healthScript != null && healthScript.IsHitted)
+        {
+            anim.speed = 1f; // 피격 시에는 애니메이션 속도 원복
+            return;
+        }
 
-        bool isMoving = Mathf.Abs(moveInput) > 0.01f && !isSliding;
-        bool isShooting = shootTimer > 0;
+        var keyboard = Keyboard.current;
 
-        anim.SetBool("isMoving", isMoving);
-        anim.SetBool("isGrounded", isGrounded);
-        anim.SetBool("isShooting", isShooting);
+        // 1. 사다리 애니메이션 제어
+        if (iscliming)
+        {
+            anim.SetBool("isClimbing", true);
+
+            // 위 또는 아래 키가 눌리고 있는지 체크
+            bool isMovingOnLadder = keyboard.upArrowKey.isPressed || keyboard.downArrowKey.isPressed;
+
+            // [핵심] 움직일 때만 속도 1, 가만히 있으면 0(정지)
+            anim.speed = isMovingOnLadder ? 1f : 0f;
+        }
+        else
+        {
+            // 사다리 상태가 아닐 때는 애니메이션 속도를 다시 1로 복구
+            anim.speed = 1f;
+
+            // 기존 애니메이션 파라미터들
+            anim.SetBool("isClimbing", false);
+            anim.SetBool("isMoving", Mathf.Abs(moveInput) > 0.01f && !isSliding);
+            anim.SetBool("isGrounded", isGrounded);
+            anim.SetBool("isShooting", shootTimer > 0);
+            anim.SetBool("isSliding", isSliding);
+        }
     }
 
     IEnumerator ShootStopTimer()

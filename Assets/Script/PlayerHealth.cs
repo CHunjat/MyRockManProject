@@ -101,6 +101,7 @@ public class PlayerHealth : MonoBehaviour
 
         if (playerController != null)
         {
+            playerController.StopClimbing();
             playerController.StopSlide();
             playerController.firePending = false;
             playerController.ResetChargeStatus();

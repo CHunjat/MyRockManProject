@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1300949917313043445}
   - component: {fileID: 491634678609880588}
   - component: {fileID: 6090715715804197866}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SmallHealthItem
   m_TagString: Item
   m_Icon: {fileID: 0}

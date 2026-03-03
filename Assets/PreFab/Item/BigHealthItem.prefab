@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4856376132859594884}
   - component: {fileID: 2188633209909669056}
   - component: {fileID: 1569404023803286193}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: BigHealthItem
   m_TagString: Item
   m_Icon: {fileID: 0}
