@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
+using System;
 
 public class PlayerController : MonoBehaviour
 {
@@ -83,9 +84,23 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         // 피격(넉백) 중에는 조작 불가
-        if (healthScript != null && healthScript.IsHitted) return;
+        if (healthScript != null && healthScript.IsHitted)
+        {
+            if (iscliming) StopClimbing(); // 사다리에서 즉시 떨어지게 함
+            shootTimer = 0f;
+            if (shootRoutine != null) { StopCoroutine(shootRoutine); shootRoutine = null; }
 
-        var keyboard = Keyboard.current;
+            // [추가] 애니메이터의 사격/점프사격 파라미터 강제 종료
+            anim.SetBool("isShooting", false);
+            anim.SetBool("JumpShoot", false); // 사용 중인 파라미터명 확인
+
+            isCharging = false;
+            chargeTimer = 0f;
+            sr.color = Color.white; UpdateAnimations(); // 피격 애니메이션 강제 적용
+            return;
+        }
+
+            var keyboard = Keyboard.current;
         if (keyboard == null) return;
 
         // --- [플레이어 조작 로직] ---
@@ -94,17 +109,26 @@ public class PlayerController : MonoBehaviour
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-        if (canUseLadder && !iscliming)
+        if (canUseLadder && !iscliming && !isSliding && currentLadderCollider != null)
         {
-            if(keyboard.upArrowKey.isPressed)
-                if (keyboard.upArrowKey.wasPressedThisFrame || keyboard.upArrowKey.isPressed)
-                {
-                    StartClimbing(); 
-                }
+            float xladder = Mathf.Abs(transform.position.x - currentLadderCollider.bounds.center.x);
+
+            if(xladder <= ladderSnapDistance)
+            {
+              if (keyboard.upArrowKey.wasPressedThisFrame || keyboard.upArrowKey.isPressed)
+              {
+                    transform.position = new Vector3(currentLadderCollider.bounds.center.x, transform.position.y, transform.position.z);
+                    StartClimbing();
+              }
+            }
+
+
+                
         }
         if (iscliming)
         {
             HandleClimbing(keyboard); // 이제 여기서 위/아래 이동을 처리
+            HandleClimingShoot(keyboard); // 사다리에서의 사격 처리
             UpdateAnimations();
             return;
         }
@@ -193,22 +217,82 @@ public class PlayerController : MonoBehaviour
 
     }
 
+    private void HandleClimingShoot(Keyboard keyboard)
+    {
+        if (keyboard.cKey.wasPressedThisFrame && !isSliding)
+        {
+            isCharging = true;
+            chargeTimer = 0f;
+            firePending = false;
+        }
+
+        if (keyboard.cKey.isPressed || firePending)
+        {
+            chargeTimer += Time.deltaTime;
+            float flashing = Mathf.PingPong(Time.time * FlashSpeedValue, 1f);
+
+            if (chargeTimer >= fullChargeTime)
+                sr.color = Color.Lerp(fullChargeColor, Color.blue, flashing);
+            else if (chargeTimer >= fullChargeTime / 2)
+                sr.color = Color.Lerp(mediumColor, Color.cyan, flashing);
+        }
+        else if (!isCharging)
+        {
+            sr.color = Color.white;
+        }
+
+        if (keyboard.cKey.wasReleasedThisFrame && isCharging)
+        {
+            if (isSliding) firePending = true;
+            else { HandheldChargeShot(); ResetChargeStatus(); }
+        }
+    }
+
     //사다리 올라가는 함수 (사다리 태그 필요)
     public void StartClimbing()
     {
         iscliming = true;
         rb.gravityScale = 0f; // 중력 제거
-        anim.SetBool("isClimbing", true);
+        rb.linearVelocity = Vector2.zero; // 사다리 타는 순간 속도 초기화
+
+        shootTimer = 0f;
+        if (shootRoutine != null) { StopCoroutine(shootRoutine); shootRoutine = null; } //세부조절 점프슛중 사격할때 사다리를타게될때 애니메이션 꼬이는거 방지
+
+        anim.SetBool("JumpShoot", false); // 점프 사격 애니메이션이 켜져있다면 끔
+        anim.SetBool("isClimbing", true); // 사다리 애니메이션 켜기
+        anim.Play("Climb", 0, 0f);
+
     }
 
     //사다리 올라가는 중 입력 처리 함수 (사다리 태그 필요)
     void HandleClimbing(Keyboard keyboard)
     {
+
+        //사격중에 이동불가 할지, 가능하게할지 고민인데...일단 사격중에 못움직이게 해봄
+        if(shootTimer > 0)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
+
         float climbInput = 0;
         if (keyboard.upArrowKey.isPressed) climbInput = 1;
         if (keyboard.downArrowKey.isPressed) climbInput = -1;
 
         rb.linearVelocity = new Vector2(0, climbInput * climbSpeed);
+
+        //사다리에서 방향전환(사격하기위함)
+        if(keyboard.leftArrowKey.wasPressedThisFrame) transform.localScale = new Vector3(-1, 1, 1);
+        else if(keyboard.rightArrowKey.wasPressedThisFrame) transform.localScale = new Vector3(1, 1, 1);
+
+        if(climbInput < 0 && isGrounded)
+        {
+            StopClimbing();
+            anim.SetBool("isClimbing", false);
+            return;
+        }
+
 
         // 사다리에서 점프 시 탈출
         if (keyboard.xKey.wasPressedThisFrame)
@@ -216,6 +300,8 @@ public class PlayerController : MonoBehaviour
             StopClimbing();
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce * 0.5f);
         }
+
+        
     }
 
     //멈추는함수
@@ -232,6 +318,7 @@ public class PlayerController : MonoBehaviour
         if (collision.CompareTag("Ladder"))
         {
             canUseLadder = true;
+            currentLadderCollider = collision; // 현재 닿은 사다리 정보 저장
         }
     }
     //사다리에서 벗어날 때 감지 함수 (사다리 태그 필요)
@@ -240,6 +327,7 @@ public class PlayerController : MonoBehaviour
         if (collision.CompareTag("Ladder"))
         {
             canUseLadder = false;
+            currentLadderCollider = null; // 사다리 정보 초기화
             StopClimbing();
         }
     }
@@ -248,8 +336,9 @@ public class PlayerController : MonoBehaviour
 
     void HandheldChargeShot()
     {
-        Transform target = isGrounded ? shootPoint : jumpShootPoint;
+        Transform target =(iscliming || isGrounded) ? shootPoint : jumpShootPoint;
         float direction = transform.localScale.x;
+
         if (chargeTimer >= fullChargeTime)
         {
             GameObject shot = Instantiate(chargeShotPrefab, target.position, Quaternion.identity);
@@ -338,29 +427,34 @@ public class PlayerController : MonoBehaviour
     {
         if (healthScript != null && healthScript.IsHitted)
         {
-            anim.speed = 1f; // 피격 시에는 애니메이션 속도 원복
+            anim.speed = 1f;
+            anim.Play("Hit");
             return;
         }
 
         var keyboard = Keyboard.current;
 
-        // 1. 사다리 애니메이션 제어
         if (iscliming)
         {
             anim.SetBool("isClimbing", true);
+            anim.SetBool("isShooting", shootTimer > 0); // 사격 여부 전달
 
-            // 위 또는 아래 키가 눌리고 있는지 체크
-            bool isMovingOnLadder = keyboard.upArrowKey.isPressed || keyboard.downArrowKey.isPressed;
-
-            // [핵심] 움직일 때만 속도 1, 가만히 있으면 0(정지)
-            anim.speed = isMovingOnLadder ? 1f : 0f;
+            // [수정] 사격 중이면 속도 1(고정), 아니면 움직일 때만 1
+            if (shootTimer > 0)
+            {
+                anim.speed = 1f;
+                anim.SetBool("isShooting", true);
+            }
+            else
+            {
+                anim.SetBool("isShooting", false);
+                bool isMovingOnLadder = keyboard.upArrowKey.isPressed || keyboard.downArrowKey.isPressed;
+                anim.speed = isMovingOnLadder ? 1f : 0f;
+            }
         }
         else
         {
-            // 사다리 상태가 아닐 때는 애니메이션 속도를 다시 1로 복구
             anim.speed = 1f;
-
-            // 기존 애니메이션 파라미터들
             anim.SetBool("isClimbing", false);
             anim.SetBool("isMoving", Mathf.Abs(moveInput) > 0.01f && !isSliding);
             anim.SetBool("isGrounded", isGrounded);
@@ -382,7 +476,8 @@ public class PlayerController : MonoBehaviour
 
     void OnShoot()
     {
-        Transform target = isGrounded ? shootPoint : jumpShootPoint;
+        Transform target = (iscliming || isGrounded) ? shootPoint : jumpShootPoint;
+        if (iscliming) target = jumpShootPoint; // 사다리 사격 위치
         GameObject bullet = Instantiate(bulletPrefab, target.position, Quaternion.identity);
         if (transform.localScale.x < 0) bullet.transform.rotation = Quaternion.Euler(0, 180, 0);
     }
