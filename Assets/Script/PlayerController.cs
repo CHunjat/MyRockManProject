@@ -165,36 +165,20 @@ public class PlayerController : MonoBehaviour
 
 
     void Update()
-
     {
-
         // 피격(넉백) 중에는 조작 불가
-
         if (healthScript != null && healthScript.IsHitted)
-
         {
 
             // 1. 상태 해제 (사다리에서 즉시 떨어짐)
 
-            if (iscliming)
-
-            {
-
-                StopClimbing(); // 여기서 rb.gravityScale = 1f와 iscliming = false가 처리됨
-
-            }
-
-
-
+            if (iscliming) StopClimbing(); // 여기서 rb.gravityScale = 1f와 iscliming = false가 처리됨
+            
             if (isSliding) StopSlide();
-
-
 
             shootTimer = 0f;
 
             if (shootRoutine != null) { StopCoroutine(shootRoutine); shootRoutine = null; }
-
-
 
             // 2. 애니메이터 모든 파라미터 "청소"
 
@@ -208,8 +192,6 @@ public class PlayerController : MonoBehaviour
 
             anim.SetBool("isClimbing", false); // [추가] 사다리 애니메이션 강제 종료
 
-
-
             // 3. 차지 및 시각 효과 초기화
 
             isCharging = false;
@@ -218,113 +200,64 @@ public class PlayerController : MonoBehaviour
 
             sr.color = Color.white;
 
-
-
             // 4. 피격 애니메이션(Hit) 적용을 위해 호출
-
             UpdateAnimations();
 
             return;
 
         }
-
-
 
         var keyboard = Keyboard.current;
 
         if (keyboard == null) return;
 
 
-
-        // --- [플레이어 조작 로직] ---
-
-
-
-        // 0. 사다리 올라가기
-
-
+        if (iscliming)
+        {
+            isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+            HandleClimbing(keyboard);
+            HandleClimingShoot(keyboard);
+            UpdateAnimations();
+            return;
+        }
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-
-
         if (canUseLadder && !iscliming && !isSliding && currentLadderCollider != null)
-
         {
-
             float xladder = Mathf.Abs(transform.position.x - currentLadderCollider.bounds.center.x);
-
-
-
             if (xladder <= ladderSnapDistance)
-
             {
                 //위로올라가기
-                if (keyboard.upArrowKey.wasPressedThisFrame || keyboard.upArrowKey.isPressed)
-
+                if (keyboard.upArrowKey.isPressed)
                 {
-
                     transform.position = new Vector3(currentLadderCollider.bounds.center.x, transform.position.y, transform.position.z);
-
                     StartClimbing();
+                    return;
                 }
-
-                else if (isGrounded && keyboard.downArrowKey.wasPressedThisFrame)
+                else if (isGrounded && keyboard.downArrowKey.isPressed)
                 {
-                    // 발밑에 뭐가 있는지 레이캐스트로 확인 (길이를 0.8f 정도로 넉넉히)
-                    RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.8f, groundLayer);
-
+                    RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.35f, groundLayer);
                     if (hit.collider != null)
                     {
-                        // [수정] 발밑 오브젝트의 태그가 "Wall"인지 확인
-                        if (hit.collider.CompareTag("Wall"))
+                        PlatformEffector2D effector = hit.collider.GetComponent<PlatformEffector2D>();
+                        if (hit.collider.CompareTag("Wall") && effector != null)
                         {
-                            // 위치를 발판 아래로 충분히 내림 (0.8f)
-                            transform.position = new Vector3(currentLadderCollider.bounds.center.x, transform.position.y - 0.8f, transform.position.z);
-
                             StartClimbing();
 
-                            // 진입 시점에 아래로 속도를 주어 지면 판정을 빠르게 벗어남
+                            // 아래는 정렬만 해주고, y값은 아주 조금만 내려서 자연스럽게 함
+                            transform.position = new Vector3(currentLadderCollider.bounds.center.x, transform.position.y - 0.5f, transform.position.z);
+                            rb.position = transform.position;
+
+                            // 아래로 내려가는 속도를 주면 PlatformEffector가 통과
                             rb.linearVelocity = new Vector2(0, -climbSpeed);
+                            return;
                         }
                     }
                 }
-
-
-
-
             }
 
-
-
-
-
-
-
-        }
-
-        if (iscliming)
-
-        {
-
-            HandleClimbing(keyboard); // 이제 여기서 위/아래 이동을 처리
-
-            HandleClimingShoot(keyboard); // 사다리에서의 사격 처리
-
-            UpdateAnimations();
-
-            return;
-
-        }
-
-
-
-
-
-
-
-
-
+        }   
         // 1. 이동
 
         if (!isSliding)
@@ -347,13 +280,9 @@ public class PlayerController : MonoBehaviour
 
         }
 
-
-
         // 2. 지면 체크 및 점프
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
-
 
         if (keyboard.xKey.wasPressedThisFrame && isGrounded)
 
@@ -365,8 +294,6 @@ public class PlayerController : MonoBehaviour
 
         }
 
-
-
         //점프시 x키 떼면 상승속도 감소 (슬라이딩 중엔 안되게)
 
         if (keyboard.xKey.wasReleasedThisFrame && rb.linearVelocity.y > 0)
@@ -376,11 +303,7 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.4f);
 
         }
-
-
-
         //슬라이딩 및 점프와 동시 입력시 안되게
-
         else if (keyboard.zKey.wasPressedThisFrame && isGrounded && !isSliding && Mathf.Abs(rb.linearVelocity.y) < 0.01f)
 
         { //점프때 y값이 변경되는걸 이용해서 막아봄...
@@ -388,11 +311,6 @@ public class PlayerController : MonoBehaviour
             slideRoutine = StartCoroutine(SlideRoutine());
 
         }
-
-
-
-
-
         // 3. 차지 및 사격 로직
 
         if (keyboard.cKey.wasPressedThisFrame && !isSliding)
@@ -406,8 +324,6 @@ public class PlayerController : MonoBehaviour
             firePending = false;
 
         }
-
-
 
         if (keyboard.cKey.isPressed || firePending)
 
@@ -428,7 +344,6 @@ public class PlayerController : MonoBehaviour
                 sr.color = Color.Lerp(mediumColor, Color.cyan, flashing);
 
         }
-
         else if (!isCharging)
 
         {
@@ -436,9 +351,6 @@ public class PlayerController : MonoBehaviour
             sr.color = Color.white;
 
         }
-
-
-
         if (keyboard.cKey.wasReleasedThisFrame && isCharging)
 
         {
@@ -464,29 +376,10 @@ public class PlayerController : MonoBehaviour
             }
 
         }
-
-
-
         // 4. 슬라이딩
 
-
-
-
-
         UpdateAnimations();
-
-
-
-
-
-
-
-
-
     }
-
-
-
     private void HandleClimingShoot(Keyboard keyboard)
 
     {
@@ -560,8 +453,6 @@ public class PlayerController : MonoBehaviour
         rb.gravityScale = 0f; // 중력 제거
 
         rb.linearVelocity = Vector2.zero; // 사다리 타는 순간 속도 초기화
-
-
 
         shootTimer = 0f;
 
@@ -717,6 +608,7 @@ public class PlayerController : MonoBehaviour
 
         rb.gravityScale = 1f; // 중력 복구
 
+        rb.linearVelocity = Vector2.zero; // 사다리에서 멈출 때 속도 초기화
         anim.SetBool("isClimbing", false);
 
     }
