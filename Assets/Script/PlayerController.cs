@@ -259,7 +259,7 @@ public class PlayerController : MonoBehaviour
             if (xladder <= ladderSnapDistance)
 
             {
-
+                //위로올라가기
                 if (keyboard.upArrowKey.wasPressedThisFrame || keyboard.upArrowKey.isPressed)
 
                 {
@@ -267,8 +267,31 @@ public class PlayerController : MonoBehaviour
                     transform.position = new Vector3(currentLadderCollider.bounds.center.x, transform.position.y, transform.position.z);
 
                     StartClimbing();
-
                 }
+
+                else if (isGrounded && keyboard.downArrowKey.wasPressedThisFrame)
+                {
+                    // 발밑에 뭐가 있는지 레이캐스트로 확인 (길이를 0.8f 정도로 넉넉히)
+                    RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.8f, groundLayer);
+
+                    if (hit.collider != null)
+                    {
+                        // [수정] 발밑 오브젝트의 태그가 "Wall"인지 확인
+                        if (hit.collider.CompareTag("Wall"))
+                        {
+                            // 위치를 발판 아래로 충분히 내림 (0.8f)
+                            transform.position = new Vector3(currentLadderCollider.bounds.center.x, transform.position.y - 0.8f, transform.position.z);
+
+                            StartClimbing();
+
+                            // 진입 시점에 아래로 속도를 주어 지면 판정을 빠르게 벗어남
+                            rb.linearVelocity = new Vector2(0, -climbSpeed);
+                        }
+                    }
+                }
+
+
+
 
             }
 
