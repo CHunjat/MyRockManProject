@@ -21,7 +21,7 @@ public class Telly : Enemy
         base.Awake();
 
         // 2. 컴포넌트 참조 및 물리 설정
-        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
         if (rb != null)
         {
             rb.gravityScale = 0;      // 공중 부양

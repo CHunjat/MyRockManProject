@@ -1,6 +1,8 @@
-using UnityEngine;
-using UnityEngine.UI;
 using System.Collections;
+using Unity.VisualScripting;
+using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
@@ -10,11 +12,45 @@ public class UIManager : MonoBehaviour
     [Header("HP 바 설정")]
     public Image hpBarFill; // Inspector에서 파란색 게이지 이미지를 드래그 앤 드롭 하세요.
 
+
+    [Header("일시정지 설정")]
+    public GameObject pauseUI;     // 하이어라키의 PauseUI를 여기에 드래그하세요!
+    private bool isPaused = false; // 현재 일시정지 상태인지 체크
+
+
+
     void Awake()
     {
         // 싱글톤 초기화
         if (instance == null) instance = this;
         else Destroy(gameObject);
+    }
+
+    private void Update()
+    {
+        if(Keyboard.current.enterKey.wasPressedThisFrame)
+        {
+            TogglePause();
+        }
+    }
+
+    public void TogglePause()
+    {
+        if(pauseUI == null) return; // 일시정지 UI가 설정되어 있지 않으면 아무것도 하지 않음
+        
+        isPaused =!isPaused; // 상태 토글
+
+        if(isPaused)
+        {
+            pauseUI.SetActive(true); // 일시정지 UI 활성화
+            Time.timeScale = 0f; // 게임 정지
+        }
+        else
+        {
+            pauseUI.SetActive(false); // 일시정지 UI 비활성화
+            Time.timeScale = 1f; // 게임 재개
+        }
+
     }
 
     /// <summary>
@@ -26,6 +62,7 @@ public class UIManager : MonoBehaviour
 
         // Image Type이 Filled이고 Vertical로 설정되어 있어야 합니다.
         hpBarFill.fillAmount = (float)currentHP / maxHP;
+
     }
 
     /// <summary>

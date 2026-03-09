@@ -933,6 +933,7 @@ public class PlayerController : MonoBehaviour
 
         shootTimer = 0;
 
+
         shootRoutine = null;
 
     }
@@ -943,7 +944,7 @@ public class PlayerController : MonoBehaviour
 
     {
 
-        Transform target = (iscliming || !isGrounded) ? shootPoint : jumpShootPoint;
+        Transform target = (iscliming || !isGrounded) ? jumpShootPoint : shootPoint;
 
         if (iscliming) target = jumpShootPoint; // 사다리 사격 위치
 

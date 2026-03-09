@@ -91,13 +91,13 @@ public class Enemy : MonoBehaviour
 
     private void SpawnItem()
     {
-       if( Random.Range(0f, 100f) > 100f) // 30% 확률로 아이템 드롭
+       if( Random.Range(0f, 100f) > 30f) // 30% 확률로 아이템 드롭
        {
             return;
        }
        //30%뚫고 드랍이 되면 둘중에 뭐나올지 ㅋㅋ 60%는 작은알약 30%큰알약 
         GameObject itemToSpawn;
-        if(Random.Range(0f, 100f) <= 60f) // 드롭되는 아이템 중 60%는 작은 알약, 30%는 큰 알약
+        if(Random.Range(0f, 100f) <= 60f) // 드롭되는 아이템 중 60%는 작은 알약, 40%는 큰 알약
         {
             itemToSpawn = SmallHealthItem;
         }
