@@ -166,6 +166,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if (Time.timeScale == 0) return;
         // 피격(넉백) 중에는 조작 불가
         if (healthScript != null && healthScript.IsHitted)
         {

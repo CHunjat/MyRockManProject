@@ -1,4 +1,5 @@
 using System.Collections;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -10,15 +11,27 @@ public class UIManager : MonoBehaviour
     public static UIManager instance;
 
     [Header("HP 바 설정")]
-    public Image hpBarFill; // Inspector에서 파란색 게이지 이미지를 드래그 앤 드롭 하세요.
+    public Image hpBarFill; // Inspector
 
+    [Header("일시정지용 HP 바 설정")]
+    public Image pauseHpBarFill; // 일시정지 화면에서 HP 바로 사용할 이미지 
 
     [Header("일시정지 설정")]
-    public GameObject pauseUI;     // 하이어라키의 PauseUI를 여기에 드래그하세요!
+    public GameObject pauseUI;     // 하이어라키의 PauseUI
     private bool isPaused = false; // 현재 일시정지 상태인지 체크
 
 
+    [Header("상태창 설정")]
+    public TMP_Text lifeText;
+    public TMP_Text eCanText;
 
+
+
+
+    void Start()
+    {
+        UpdateLifeUI(PlayerHealth.LifeCount);
+    }
     void Awake()
     {
         // 싱글톤 초기화
@@ -42,6 +55,12 @@ public class UIManager : MonoBehaviour
 
         if(isPaused)
         {
+            PlayerHealth ph = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerHealth>();
+
+            if (ph != null) UpdateLifeUI(PlayerHealth.LifeCount);
+            if (ph != null) UpdateHP(ph.currentHealth, ph.maxHealth); // 일시정지 시 HP 바로 업데이트
+
+
             pauseUI.SetActive(true); // 일시정지 UI 활성화
             Time.timeScale = 0f; // 게임 정지
         }
@@ -58,36 +77,67 @@ public class UIManager : MonoBehaviour
     /// </summary>
     public void UpdateHP(int currentHP, int maxHP)
     {
-        if (hpBarFill == null) return;
+        if (maxHP <= 0) return;
 
-        // Image Type이 Filled이고 Vertical로 설정되어 있어야 합니다.
-        hpBarFill.fillAmount = (float)currentHP / maxHP;
+        float fillAmount = (float)currentHP / maxHP;
 
+        // [중요] 각 이미지 슬롯이 비어있는지(None) 체크해서 에러를 원천 차단합니다.
+        if (hpBarFill != null)
+        {
+            hpBarFill.fillAmount = fillAmount;
+        }
+
+        if (pauseHpBarFill != null)
+        {
+            pauseHpBarFill.fillAmount = fillAmount;
+        }
+
+
+    }
+
+    public void UpdateLifeUI(int currentLife)
+    {
+        if (lifeText != null)
+        {
+            // 록맨 감성 x3,x4 이런식 ㅋㅋ
+            lifeText.text = "x" + currentLife.ToString();
+        }
+    }
+
+    public void UseEcan()
+    {
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player == null)
+        {
+            return;
+        }
+
+        PlayerHealth ph = player.GetComponent<PlayerHealth>();
+        //e캔은 체력이 가득차있으면 사용안되고, 0개이면 안된다
+        if (PlayerHealth.ECanCount > 0 && ph.currentHealth < ph.maxHealth)
+        {
+            PlayerHealth.ECanCount--;
+
+            ph.Heal(ph.maxHealth); // 체력 완전 회복
+
+            //UpdateHP(ph.currentHealth, ph.maxHealth); // UI 업데이트
+
+            UpdateECanUI(PlayerHealth.ECanCount); // E캔 UI 업데이트
+        }
+
+
+
+    }
+    public void UpdateECanUI(int amount)
+    {
+        if (eCanText != null)
+        {
+            eCanText.text = "x" + amount.ToString();
+        }
     }
 
     /// <summary>
     /// 록맨 스타일 체력 회복 연출 (한 칸씩 띠띠띠- 차오름)
     /// </summary>
-    public IEnumerator HealRoutine(int targetHP, int maxHP)
-    {
-        if (hpBarFill == null) yield break;
-
-        float targetFill = (float)targetHP / maxHP;
-
-        // 현재 게이지가 목표 게이지보다 낮을 때만 작동
-        while (hpBarFill.fillAmount < targetFill)
-        {
-            // 한 칸(1/28)만큼 증가
-            hpBarFill.fillAmount += (1f / maxHP);
-
-            // 여기에 '띠릭' 하는 효과음을 넣으면 감성이 폭발합니다.
-            // AudioSource.PlayOneShot(healSound); 
-
-            // 아주 짧은 대기 시간 (록맨 특유의 차오르는 속도)
-            yield return new WaitForSeconds(0.05f);
-        }
-
-        // 마지막 수치 보정
-        hpBarFill.fillAmount = targetFill;
-    }
+    
 }

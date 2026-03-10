@@ -1,5 +1,6 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -27,6 +28,11 @@ public class PlayerHealth : MonoBehaviour
     private Animator anim;
     private SpriteRenderer sr;
     private PlayerController playerController;
+
+    public static int LifeCount = 3;
+
+    public static int ECanCount = 0; // 초기 보유량 0개
+    public const int MaxECan = 3;   // 최대 3개까지 소지 가능
 
     void Awake()
     {
@@ -209,13 +215,41 @@ public class PlayerHealth : MonoBehaviour
         {
             GameObject ball = Instantiate(deathBallprefab, transform.position, Quaternion.identity);
             ball.GetComponent<DeathBall>().SetDirection(dir);
-            //반짝거리는 연출 추가
-                
-
+            //반짝거리는 연출 추가       
         }
 
-        gameObject.SetActive(false);
+        sr.enabled = false;           // 1. 캐릭터 이미지만 안 보이게 함
+        rb.simulated = false;
+        LifeCount--;
 
-        Debug.Log("록맨 사망: 데스 볼 연출 실행");
+        if (UIManager.instance != null)
+            UIManager.instance.UpdateLifeUI(LifeCount);
+
+        if (LifeCount >= 0) //LFECOUNT이 0보다 클 때만 목숨 감소시키기
+        {
+            
+            StartCoroutine(RestartStageAfterDelay(3f)); //문법 외워두기, 3초 뒤에 RestartStageAfterDelay 코루틴 실행해서 씬 재시작
+        }  
+        else if(LifeCount < 0) //LIFECOUNT이 0보다 작을때
+        {
+            Time.timeScale = 1f;
+            
+            StartCoroutine(GameOverAfterDelay(3f)); //문법 외워두기, 3초 뒤에 GameOverAfterDelay 코루틴 실행해서 게임오버 씬으로 이동
+        }
+    }
+
+    //코루틴 사용 이너머레이터랑 같이 ㄱㄱㄱㄱ
+    private IEnumerator RestartStageAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        // 현재 씬을 다시 로드 (처음부터 시작)
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    private IEnumerator GameOverAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("GameOver");
     }
 }
