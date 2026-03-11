@@ -230,7 +230,7 @@ MonoBehaviour:
   chaseSpeed: 2
   waveFrequency: 4
   waveAmplitude: 1
-  detectionRange: 7
+  detectionRange: 3
   bombPrefab: {fileID: 6860201448733226336, guid: a72a53f772b2e24489e0087bc0f620f2, type: 3}
   dropPoint: {fileID: 9209310491455542005}
   patrolRange: 2

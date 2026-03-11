@@ -1,5 +1,6 @@
-using UnityEngine;
 using System.Collections;
+using Unity.VisualScripting;
+using UnityEngine;
 
 public class SniperJoeSimple : Enemy
 {
@@ -25,10 +26,13 @@ public class SniperJoeSimple : Enemy
         if (player == null) return;
 
         float dist = Vector2.Distance(transform.position, player.position);
-        FacePlayer();
+
+        if(!isAttacking) FacePlayer();
 
         if (dist <= detectRange && !isAttacking)
         {
+
+            StopCoroutine(AttackRoutine());
             StartCoroutine(AttackRoutine());
         }
     }
@@ -58,7 +62,11 @@ public class SniperJoeSimple : Enemy
         {
             // [이유] 만약 총을 쏘는 도중에 록맨 버스터에 맞아 체력이 0이 되면,
             // 더 이상 총알을 생성하지 않고 코루틴을 즉시 종료(yield break)합니다.
-            if (health <= 0) yield break;
+            if (health <= 0 || player == null)
+            {
+                isAttacking = false;
+                yield break;
+            }
 
             anim.SetTrigger("Attack");
             Fire();
@@ -66,7 +74,7 @@ public class SniperJoeSimple : Enemy
         }
 
         anim.SetBool("isTargeting", false);
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(2.0f);
         isAttacking = false;
     }
 

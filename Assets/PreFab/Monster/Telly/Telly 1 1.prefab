@@ -203,7 +203,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   health: 1
-  contactDamage: 6
+  contactDamage: 4
   SmallHealthItem: {fileID: 3364666116749532566, guid: e451b321a8f2d44468bc8554669ed436, type: 3}
   BigHealthItem: {fileID: 5183889343668395603, guid: dcfce491fc30c984b8d339a0e62977b7, type: 3}
   deathParticlePrefab: {fileID: 8791354401675306466, guid: 221223230b917e7408b88b34502bab31, type: 3}

@@ -106,27 +106,31 @@ public class UIManager : MonoBehaviour
 
     public void UseEcan()
     {
+       // Debug.Log("1. UseEcan 함수 진입 성공!"); // 콘솔에 이게 뜨는지 확인!
         GameObject player = GameObject.FindGameObjectWithTag("Player");
-        if (player == null)
-        {
-            return;
-        }
+        if (player == null) return; 
 
         PlayerHealth ph = player.GetComponent<PlayerHealth>();
-        //e캔은 체력이 가득차있으면 사용안되고, 0개이면 안된다
+        if (ph == null) return; 
+
+
         if (PlayerHealth.ECanCount > 0 && ph.currentHealth < ph.maxHealth)
         {
             PlayerHealth.ECanCount--;
 
-            ph.Heal(ph.maxHealth); // 체력 완전 회복
+            // 미리 값을 복사해둠 (117번 라인 Null 방어)
+            int mHealth = ph.maxHealth;
 
-            //UpdateHP(ph.currentHealth, ph.maxHealth); // UI 업데이트
-
-            UpdateECanUI(PlayerHealth.ECanCount); // E캔 UI 업데이트
+            ph.Heal(mHealth); // 회복 시작
+            // E캔 개수 UI는 즉시 갱신
+            if (eCanText != null)
+            {
+                UpdateECanUI(PlayerHealth.ECanCount);
+            }
         }
-
-
-
+        else
+        {
+        }
     }
     public void UpdateECanUI(int amount)
     {

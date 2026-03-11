@@ -1,0 +1,2134 @@
+fileFormatVersion: 2
+guid: fbc63f288ace28442bd8c15118b480a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3874224957560817945
+    second: TstMM1Wily4_0
+  - first:
+      213: -3182341327265047528
+    second: TstMM1Wily4_1
+  - first:
+      213: 5810002782040427233
+    second: TstMM1Wily4_2
+  - first:
+      213: -7924735045984595019
+    second: TstMM1Wily4_3
+  - first:
+      213: -5303561446604708375
+    second: TstMM1Wily4_4
+  - first:
+      213: 5992369213567283226
+    second: TstMM1Wily4_5
+  - first:
+      213: 2406788940194603582
+    second: TstMM1Wily4_6
+  - first:
+      213: 3591805754134487521
+    second: TstMM1Wily4_7
+  - first:
+      213: -6330696020634374011
+    second: TstMM1Wily4_8
+  - first:
+      213: -7893673098882377613
+    second: TstMM1Wily4_9
+  - first:
+      213: 1159830497503506184
+    second: TstMM1Wily4_10
+  - first:
+      213: 3940098705617649093
+    second: TstMM1Wily4_11
+  - first:
+      213: 4054613062477203198
+    second: TstMM1Wily4_12
+  - first:
+      213: -3966934458632506116
+    second: TstMM1Wily4_13
+  - first:
+      213: 5553809291494121404
+    second: TstMM1Wily4_14
+  - first:
+      213: -5927843327834972358
+    second: TstMM1Wily4_15
+  - first:
+      213: -8519398221521581075
+    second: TstMM1Wily4_16
+  - first:
+      213: -8330340670330834586
+    second: TstMM1Wily4_17
+  - first:
+      213: -951910830830370268
+    second: TstMM1Wily4_18
+  - first:
+      213: -7295768451657198547
+    second: TstMM1Wily4_19
+  - first:
+      213: 2899605127969473031
+    second: TstMM1Wily4_20
+  - first:
+      213: -8633549893288443893
+    second: TstMM1Wily4_21
+  - first:
+      213: -515343883062402023
+    second: TstMM1Wily4_22
+  - first:
+      213: 4469044341999626144
+    second: TstMM1Wily4_23
+  - first:
+      213: 7397435460663906538
+    second: TstMM1Wily4_24
+  - first:
+      213: 7821797208832963313
+    second: TstMM1Wily4_25
+  - first:
+      213: 1796121888927693459
+    second: TstMM1Wily4_26
+  - first:
+      213: 7352474693507527554
+    second: TstMM1Wily4_27
+  - first:
+      213: -3637278896544894113
+    second: TstMM1Wily4_28
+  - first:
+      213: 967012112131134029
+    second: TstMM1Wily4_29
+  - first:
+      213: 7078630115028507673
+    second: TstMM1Wily4_30
+  - first:
+      213: 5533487550881785968
+    second: TstMM1Wily4_31
+  - first:
+      213: -253719221699136589
+    second: TstMM1Wily4_32
+  - first:
+      213: 2389580875595930710
+    second: TstMM1Wily4_33
+  - first:
+      213: -1748349803083167261
+    second: TstMM1Wily4_34
+  - first:
+      213: -6150996006564070984
+    second: TstMM1Wily4_35
+  - first:
+      213: 2995977065762319553
+    second: TstMM1Wily4_36
+  - first:
+      213: 3477039573975145966
+    second: TstMM1Wily4_37
+  - first:
+      213: 7850918862316941510
+    second: TstMM1Wily4_38
+  - first:
+      213: 2518329972493628499
+    second: TstMM1Wily4_39
+  - first:
+      213: 6170413038728415139
+    second: TstMM1Wily4_40
+  - first:
+      213: -5134333437799200137
+    second: TstMM1Wily4_41
+  - first:
+      213: 7827093622581804092
+    second: TstMM1Wily4_42
+  - first:
+      213: -8823642502599468932
+    second: TstMM1Wily4_43
+  - first:
+      213: 725196097434075208
+    second: TstMM1Wily4_44
+  - first:
+      213: 3627177596904694286
+    second: TstMM1Wily4_45
+  - first:
+      213: -8214223699683636495
+    second: TstMM1Wily4_46
+  - first:
+      213: -8448360867584692375
+    second: TstMM1Wily4_47
+  - first:
+      213: 3590758654201877183
+    second: TstMM1Wily4_48
+  - first:
+      213: 3774541629740869997
+    second: TstMM1Wily4_49
+  - first:
+      213: 2472984118812299854
+    second: TstMM1Wily4_50
+  - first:
+      213: 6452664888371973204
+    second: TstMM1Wily4_51
+  - first:
+      213: 2017904259891324618
+    second: TstMM1Wily4_52
+  - first:
+      213: 1929624626696936995
+    second: TstMM1Wily4_53
+  - first:
+      213: 8578449816087920959
+    second: TstMM1Wily4_54
+  - first:
+      213: 754400052344541325
+    second: TstMM1Wily4_55
+  - first:
+      213: 2153050534005721116
+    second: TstMM1Wily4_56
+  - first:
+      213: 3889791924285878304
+    second: TstMM1Wily4_57
+  - first:
+      213: -1230649311481616496
+    second: TstMM1Wily4_58
+  - first:
+      213: -8090077741964352395
+    second: TstMM1Wily4_59
+  - first:
+      213: 7467392437947336069
+    second: TstMM1Wily4_60
+  - first:
+      213: -8894307856174368688
+    second: TstMM1Wily4_61
+  - first:
+      213: -3474808876328514809
+    second: TstMM1Wily4_62
+  - first:
+      213: -4142449088182313402
+    second: TstMM1Wily4_63
+  - first:
+      213: -4274649287087380321
+    second: TstMM1Wily4_64
+  - first:
+      213: 2347294389844719214
+    second: TstMM1Wily4_65
+  - first:
+      213: 6385402732735899607
+    second: TstMM1Wily4_66
+  - first:
+      213: 2415837534934303134
+    second: TstMM1Wily4_67
+  - first:
+      213: -2080574542805923676
+    second: TstMM1Wily4_68
+  - first:
+      213: -436840890110310799
+    second: TstMM1Wily4_69
+  - first:
+      213: -7294576013713700406
+    second: TstMM1Wily4_70
+  - first:
+      213: 4639446912682274001
+    second: TstMM1Wily4_71
+  - first:
+      213: 240333640523119679
+    second: TstMM1Wily4_72
+  - first:
+      213: -5214990158593868362
+    second: TstMM1Wily4_73
+  - first:
+      213: -2477938252256108636
+    second: TstMM1Wily4_74
+  - first:
+      213: 9107361336972868215
+    second: TstMM1Wily4_75
+  - first:
+      213: 6557891915773884457
+    second: TstMM1Wily4_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TstMM1Wily4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198d57821304c530800000000000000
+      internalID: 3874224957560817945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb601ab8d61e1ec4a85ebe100719101f
+      internalID: -121420341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b386e71f1cc5d93409a3069419e2ecd7
+      internalID: -169003985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c2473701b7cec409a7a0be6bc89056
+      internalID: 1541882579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ffcbd4fcff9c4d94efbfe6e99a6c9
+      internalID: 1391360537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe9f466405ae54e953ccf428662bce
+      internalID: -290341732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98accf18650e2ad41a0c7f8b79a3aaba
+      internalID: 352940601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554dec447726a0b498cc836a54170e1c
+      internalID: -794407554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ddc519962eb2843915e9658ab062cb
+      internalID: 936479044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32635616d255f114082d27e7a9b14070
+      internalID: 514825952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03edf45f45b0e01478a8b18397f13113
+      internalID: -156306482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed6f27673717140afc0d0dd142c2be
+      internalID: -131310212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd11c912e9d5474ab7ac883a2b05054
+      internalID: 1859617219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef972cb0b5a261c4ca9c3b8e2ef3ab91
+      internalID: 1247893331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54558dba3531c384ab29b309496e16e6
+      internalID: -65082940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97416e6315652b146bddf76c14b1f320
+      internalID: -1041746709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93707409509a9da4e8bf7bc849c70bdb
+      internalID: 720723714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661957f03c3fe445b5d4e95fbfb3b66
+      internalID: -532005410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac260d7645980f42960e5e9801c7895
+      internalID: -961735920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8102aa461d9d04da82420f2797ffce
+      internalID: -1530756480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a1eb067317e343811f3009d62871b
+      internalID: -949561588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1864821aa8e044b4ba31d8a12586e
+      internalID: 1609387882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3f0afa94a4c7f44bcdb5d2dc1443a2
+      internalID: 1224215874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef41f18f8568ee41b5e373c48953ca2
+      internalID: -1935211296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6d67098708c67469501477e5433ed6
+      internalID: 1735758021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1309dcfa2f932143badde5adad1f3fa
+      internalID: -1546664830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1785deba1a7158d439cd37365be9ac0d
+      internalID: -1020509370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242db0c4e2c5dc64aa67c59dfd0ac884
+      internalID: -1279247063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6be379edcd1d46998aa21f78201ec
+      internalID: -525500391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5677453100e44b856794ccd982fe6
+      internalID: -239151373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4d8e018494cbb4aaa4ae5fba32fff0
+      internalID: -1439953095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ae439598989f2419f503b98d828b3d
+      internalID: 723072015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866f115ccedc1da48b1758fd74fb803f
+      internalID: -2035135045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f5e750f19566642921a8b4e11a10e4
+      internalID: 328917487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42958e8f2187440b5fea17ed30f453
+      internalID: -1934237834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ca64b9b27c064891b8a66f15bed0a
+      internalID: 583328467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9198a59cc16848d4d988c3938e1e616c
+      internalID: -1950772272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf45395176eb474a8883ac0be943ef4
+      internalID: -666671913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7489dbcef5c7e46b8e7e1b569a73d0
+      internalID: 1569662648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8bc7a782535824f87905b2892b7235
+      internalID: -785081184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49909e1b94a81ad43b51fdd4d986f20b
+      internalID: -2141295857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b85e3e57c19f24eab6ce82cf3686d0
+      internalID: 525919059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fb4082089e5b349906cb125d112c4d
+      internalID: 1177464499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69463c74f738c94ab8ecf920a6e230f
+      internalID: 1432209632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3292695644f5540b318e344a2fba76
+      internalID: 2003945559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54935f426b3af4298cee86c81045ba
+      internalID: 131156930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a7e0d2cf9d7c941a061fe63c28581f
+      internalID: 1038098892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5355a224d59ec4d85964c8e5e90236
+      internalID: 1221942591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_48
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16b272f9bc73847abd2055506d883b
+      internalID: -584041393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480700ef0fbd92499f166aa5067da86
+      internalID: 1978269390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506b0b76d72ee346b89f9b471c394c3
+      internalID: 1998906356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1508e0ec7891b94a9c11652cbe2e652
+      internalID: -1424098178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024879fe136f3fd45925779e49397b60
+      internalID: 450798396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b2bc159ca6d084db2a366af3cf6265
+      internalID: -1450770931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b149d91213764a4381646bacd1680e1
+      internalID: 775758609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b817e85a0a9754fa4f2b923843fe15
+      internalID: 1640466338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230df39cd3fa08e4ab4d20c5b0a3b200
+      internalID: 1825019446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e7728cb9edb6742948b80f653117f0
+      internalID: 1878026878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c5398cb6311746a936b406536df79
+      internalID: -2007601228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_59
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c486924dfc6cd4097a0b5e7ab91f3c
+      internalID: 2059577919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79728bb962a1bdc4db8b10a97377fe5e
+      internalID: -1653313613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb957f5c09847b4fa3d5b5f398b3b18
+      internalID: -1783151512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9d19bfbb8fb944a3390bba3867f59
+      internalID: -2006940050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4630df7458af654a9d5128cdf8ecbe3
+      internalID: 6245597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8968f7c7627f54697d9457fbecf137
+      internalID: -128206554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de82447201ffb54295e6749b5189602
+      internalID: 902433436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5357c5a7e8e6e544b85cd200a1352f2b
+      internalID: -2058153406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ce403904e8e543b625ab582417927
+      internalID: -1580604186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_68
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467166d5cb88b4542bfaa21b9765edbe
+      internalID: 2062810251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b5fdc9d3960540babc1d6421a89ce
+      internalID: -1630475203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_70
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf7712e96a3ec4aa3de181eff826fb
+      internalID: 1289082579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17198229fda94e54daaa8b5c53e2d5fe
+      internalID: 485229918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4688a13ee048c94dbd6e388fe841b93
+      internalID: 878386350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441c49dd7b81574c9f1e3fb0c482eb0
+      internalID: -1185012258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_74
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6110a720eb66545aff3139c4154c73
+      internalID: 706430293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5a1c89f6b042c48b44c12eac177cd2
+      internalID: 1783976406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TstMM1Wily4_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a34591189d7ae542aba83114d03ec5d
+      internalID: -2035994917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b43ca06bc915b084ea98a31c442e4d7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TstMM1Wily4_0: 3874224957560817945
+      TstMM1Wily4_1: -121420341
+      TstMM1Wily4_10: -156306482
+      TstMM1Wily4_11: -131310212
+      TstMM1Wily4_12: 1859617219
+      TstMM1Wily4_13: 1247893331
+      TstMM1Wily4_14: -65082940
+      TstMM1Wily4_15: -1041746709
+      TstMM1Wily4_16: 720723714
+      TstMM1Wily4_17: -532005410
+      TstMM1Wily4_18: -961735920
+      TstMM1Wily4_19: -1530756480
+      TstMM1Wily4_2: -169003985
+      TstMM1Wily4_20: -949561588
+      TstMM1Wily4_21: 1609387882
+      TstMM1Wily4_22: 1224215874
+      TstMM1Wily4_23: -1935211296
+      TstMM1Wily4_24: 1735758021
+      TstMM1Wily4_25: -1546664830
+      TstMM1Wily4_26: -1020509370
+      TstMM1Wily4_27: -1279247063
+      TstMM1Wily4_28: -525500391
+      TstMM1Wily4_29: -239151373
+      TstMM1Wily4_3: 1541882579
+      TstMM1Wily4_30: -1439953095
+      TstMM1Wily4_31: 723072015
+      TstMM1Wily4_32: -2035135045
+      TstMM1Wily4_33: 328917487
+      TstMM1Wily4_34: -1934237834
+      TstMM1Wily4_35: 583328467
+      TstMM1Wily4_36: -1950772272
+      TstMM1Wily4_37: -666671913
+      TstMM1Wily4_38: 1569662648
+      TstMM1Wily4_39: -785081184
+      TstMM1Wily4_4: 1391360537
+      TstMM1Wily4_40: -2141295857
+      TstMM1Wily4_41: 525919059
+      TstMM1Wily4_42: 1177464499
+      TstMM1Wily4_43: 1432209632
+      TstMM1Wily4_44: 2003945559
+      TstMM1Wily4_45: 131156930
+      TstMM1Wily4_46: 1038098892
+      TstMM1Wily4_47: 1221942591
+      TstMM1Wily4_48: -584041393
+      TstMM1Wily4_49: 1978269390
+      TstMM1Wily4_5: -290341732
+      TstMM1Wily4_50: 1998906356
+      TstMM1Wily4_51: -1424098178
+      TstMM1Wily4_52: 450798396
+      TstMM1Wily4_53: -1450770931
+      TstMM1Wily4_54: 775758609
+      TstMM1Wily4_55: 1640466338
+      TstMM1Wily4_56: 1825019446
+      TstMM1Wily4_57: 1878026878
+      TstMM1Wily4_58: -2007601228
+      TstMM1Wily4_59: 2059577919
+      TstMM1Wily4_6: 352940601
+      TstMM1Wily4_60: -1653313613
+      TstMM1Wily4_61: -1783151512
+      TstMM1Wily4_62: -2006940050
+      TstMM1Wily4_63: 6245597
+      TstMM1Wily4_64: -128206554
+      TstMM1Wily4_65: 902433436
+      TstMM1Wily4_66: -2058153406
+      TstMM1Wily4_67: -1580604186
+      TstMM1Wily4_68: 2062810251
+      TstMM1Wily4_69: -1630475203
+      TstMM1Wily4_7: -794407554
+      TstMM1Wily4_70: 1289082579
+      TstMM1Wily4_71: 485229918
+      TstMM1Wily4_72: 878386350
+      TstMM1Wily4_73: -1185012258
+      TstMM1Wily4_74: 706430293
+      TstMM1Wily4_75: 1783976406
+      TstMM1Wily4_76: -2035994917
+      TstMM1Wily4_8: 936479044
+      TstMM1Wily4_9: 514825952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

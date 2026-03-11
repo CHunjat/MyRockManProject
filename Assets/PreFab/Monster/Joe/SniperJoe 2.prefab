@@ -175,7 +175,7 @@ GameObject:
   - component: {fileID: 6212621720358646390}
   - component: {fileID: 2424016825571539885}
   m_Layer: 8
-  m_Name: SniperJoe 1
+  m_Name: SniperJoe 2
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -191,8 +191,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2.88272, y: -1.28644, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.9, y: 1.9, z: 1.9}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5986004703327226323}
   - {fileID: 2075763162386472547}
@@ -248,7 +248,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -5205314773951575232, guid: cb32edae46e744346994bfe4f440bfdc, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.96061194, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -296,8 +296,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09f76dad97ffe004f90b185c68f84b9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  health: 3
-  contactDamage: 6
+  health: 10
+  contactDamage: 8
   SmallHealthItem: {fileID: 3364666116749532566, guid: e451b321a8f2d44468bc8554669ed436, type: 3}
   BigHealthItem: {fileID: 5183889343668395603, guid: dcfce491fc30c984b8d339a0e62977b7, type: 3}
   deathParticlePrefab: {fileID: 4203412651752774680, guid: 350a15c64f26bfc479a61eab63412830, type: 3}

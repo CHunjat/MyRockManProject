@@ -169,31 +169,28 @@ public class PlayerHealth : MonoBehaviour
 
     IEnumerator HealRoutine(int amount)
     {
-        Time.timeScale = 0f; // 게임 일시정지
-
+        Time.timeScale = 0f;
         int targetHealth = Mathf.Min(currentHealth + amount, maxHealth);
 
+        // 2. 루프 시작
         while (currentHealth < targetHealth)
         {
             currentHealth++; // 1칸 증가
-            // UI 갱신 (UIManager에 현재 수치 전달)
+
+            // 3. UI 즉시 갱신
             if (UIManager.instance != null)
+            {
                 UIManager.instance.UpdateHP(currentHealth, maxHealth);
+                // 만약 일시정지 전용 HP바가 따로 있다면 그것도 여기서 갱신되게 되어있죠?
+            }
 
-
-            // [효과음] 넣기
-
-            // SoundManager.Instance.PlaySFX("HealTick"); 
-
-
-
-            // 3. 게임이 멈춰있으므로 '실제 시간' 기준으로 대기 (약 0.05초)
+            // [핵심] 일시정지 중에도 작동하려면 반드시 'Realtime'을 써야 합니다!
             yield return new WaitForSecondsRealtime(0.1f);
-
         }
-        Time.timeScale = 1f; // 다시 게임시작
-
-
+        Time.timeScale = 1f;
+        // 4. 회복 끝난 후 처리 (일시정지 중이면 그대로 0 유지, 아니면 1로)
+        // 이 코루틴이 끝난다고 해서 강제로 Time.timeScale을 1로 바꾸면 
+        // 일시정지가 풀려버리니 주의하세요!
     }
 
 
